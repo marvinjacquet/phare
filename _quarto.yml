@@ -3,23 +3,19 @@ project:
   output-dir: docs
 
 book:
-  title: "PHARE"
-  subtitle: "Pharmacie Hospitalière - Atlas des Ressources Essentielles"
+  title: "Pharmacie Hospitalière - Atlas des Ressources Essentielles"
+  favicon: images/logo/favicon.png
   author: "Marvin JACQUET"
   date: last-modified
-  date-format: "MMMM YYYY"
+  date-format: "DD MMMM YYYY"
   language: fr
 
   sidebar:
+    logo: images/logo/full.svg
     search: true
+    location: left
     style: "docked"
     background: light
-
-  navbar:
-    right:
-      - icon: github
-        href: https://github.com/marvinjacquet/phare
-        aria-label: GitHub
 
   chapters:
     - index.qmd
@@ -37,11 +33,6 @@ book:
         - conversions.qmd
         - ruptures.qmd
 
-  page-footer:
-    left: "Pharmacie Clinique — Catalogue de ressources"
-    right:
-      - icon: github
-        href: https://github.com/marvinjacquet/phare
 
 format:
   html:
