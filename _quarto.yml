@@ -4,7 +4,7 @@ project:
 
 book:
   title: "Pharmacie Hospitalière - Atlas des Ressources Essentielles"
-  favicon: images/logo/favicon.png
+  favicon: images/logo/favicon.ico
   author: "Marvin JACQUET"
   date: last-modified
   date-format: "DD MMMM YYYY"
