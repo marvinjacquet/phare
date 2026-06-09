@@ -27,7 +27,7 @@
     "text": "Référentiels généraux\nLes ressources ci-dessous couvrent différentes facettes des interactions médicamenteuses : référentiels réglementaires, interactions plante–médicament, métabolisme par les cytochromes, et contextes spécifiques comme le COVID-19.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
   {
@@ -38,7 +38,7 @@
     "text": "Thésaurus ANSM\n\n\nLe Thésaurus des interactions médicamenteuses est le référentiel national publié par l’ANSM. Il classe les interactions par niveau de contrainte (contre-indication, association déconseillée, précaution d’emploi) et constitue la base réglementaire française en la matière.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
   {
@@ -49,7 +49,7 @@
     "text": "Phytothérapie\n\nHedrine\n\nHedrine (ULB) — Base de données belge sur les interactions entre plantes médicinales et médicaments conventionnels. Utile pour les patients sous traitement chronique ayant recours à l’automédication par plantes.\n\n\n\nMSKCC Herbs\n\nMSKCC Herbs — Développé par le Memorial Sloan Kettering Cancer Center, cet outil est particulièrement adapté au contexte oncologique. Il documente les effets pharmacologiques, les risques d’interactions et les données cliniques disponibles pour chaque plante.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
   {
@@ -60,7 +60,7 @@
     "text": "Cytochromes\n\n\nDDI Predictor\n\nDDI Predictor — Outil de prédiction des interactions médicament–médicament via les enzymes du cytochrome P450. Permet d’identifier rapidement les substrats, inhibiteurs et inducteurs impliqués dans une association.\n\n\n\nSuperCYPsPred\n\nSuperCYPsPred (Charité Berlin) — Plateforme de prédiction in silico du métabolisme par les CYP. Utile pour les molécules peu documentées ou les nouvelles entités chimiques.\n\n\n\nCarte des cytochromes (HUG)\n\nCarte des cytochromes (HUG, PDF) — Synthèse visuelle des principaux médicaments classés par enzyme. Document de référence pratique à garder à portée de main.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
   {
@@ -71,7 +71,7 @@
     "text": "COVID-19\n\nCOVID-19 Drug Interactions\n\nCOVID-19 Drug Interactions (Université de Liverpool) — Outil de référence international pour les interactions des antiviraux COVID-19 (nirmatrelvir, molnupiravir, remdesivir) avec les traitements concomitants. Mis à jour régulièrement.\n\n\n\nRecos Paxlovid (SFPT)\n\nRecos Paxlovid (SFPT) — Recommandations françaises pour la gestion des interactions lors d’une prescription de nirmatrelvir/ritonavir, avec conduite à tenir détaillée par médicament.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
   {
@@ -156,10 +156,10 @@
     "href": "iatrogenic.html",
     "title": "Iatrogénie",
     "section": "",
-    "text": "Généralités\nBases de données et référentiels pour identifier, documenter et prévenir les effets indésirables médicamenteux selon l’organe cible ou la situation clinique.",
+    "text": "Hépatotoxicité\nBases de données et référentiels pour identifier, documenter et prévenir les effets indésirables médicamenteux selon l’organe cible ou la situation clinique.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
   {
@@ -177,11 +177,11 @@
     "objectID": "iatrogenic.html#hépatotoxicité",
     "href": "iatrogenic.html#hépatotoxicité",
     "title": "Iatrogénie",
-    "section": "Hépatotoxicité",
-    "text": "Hépatotoxicité\n\nLiverTox\n\nLiverTox (NIH) — Base de données exhaustive sur l’hépatotoxicité médicamenteuse. Pour chaque substance : description des mécanismes, cas cliniques documentés et cote de causalité.",
+    "section": "",
+    "text": "LiverTox\n\nLiverTox (NIH) — Base de données exhaustive sur l’hépatotoxicité médicamenteuse. Pour chaque substance : description des mécanismes, cas cliniques documentés et cote de causalité.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
   {
@@ -192,7 +192,7 @@
     "text": "Grossesse & allaitement\n\n\nCRAT\n\nCRAT — Centre de Référence sur les Agents Tératogènes. Référence française incontournable pour évaluer le risque médicamenteux pendant la grossesse et l’allaitement, avec des fiches par molécule régulièrement mises à jour.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
   {
@@ -203,7 +203,7 @@
     "text": "Cardiotoxicité\n\nCredible Meds\n\nCredible Meds — Base de données sur le risque de prolongation du QT et de torsades de pointes associé aux médicaments. Chaque substance est classée selon le niveau de preuve disponible.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
   {
@@ -214,7 +214,7 @@
     "text": "Pneumotoxicité\n\nPneumotox\n\nPneumotox — Référence mondiale sur la toxicité pulmonaire des médicaments et autres substances. Permet de rechercher par médicament ou par tableau clinique (pneumopathie interstitielle, hémorragie alvéolaire, etc.).",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
   {
@@ -277,10 +277,10 @@
     "href": "conversions.html",
     "title": "Conversion d’unités",
     "section": "",
-    "text": "Calculettes et outils de conversion pour la pratique clinique quotidienne : unités biologiques, scores, équianalgésie.\n\n\nMédicalcul\n\nMédicalcul — Ensemble de calculettes médicales couvrant les conversions d’unités biologiques, les scores cliniques et les paramètres pharmacocinétiques.\n\n\n\nOpioconvert\n\nOpioconvert — Outil de conversion entre opioïdes basé sur les tables d’équianalgésie. Facilite la rotation des opioïdes en soins palliatifs et en douleur chronique.",
+    "text": "Calculettes et outils de conversion pour la pratique clinique quotidienne : unités biologiques, scores, équianalgésie.\n\n\nMédicalcul\n\nMédicalcul — Ensemble de calculettes médicales couvrant les conversions d’unités biologiques, les scores cliniques et les paramètres pharmacocinétiques..\n\n\n\nOpioconvert\n\nOpioconvert — Outil de conversion entre opioïdes basé sur les tables d’équianalgésie. Facilite la rotation des opioïdes en soins palliatifs et en douleur chronique.",
     "crumbs": [
-      "Ressources",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Conversion d'unités</span>"
+      "**Ressources**",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conversion d'unités</span>"
     ]
   },
   {
@@ -380,7 +380,7 @@
     "href": "index-outils.html#interactions-médicamenteuses",
     "title": "Index des outils",
     "section": "",
-    "text": "Thésaurus ANSM \n  Hedrine \n  MSKCC Herbs \n  DDI Predictor \n  SuperCYPsPred \n  COVID-19 Drug Interactions \n  Recos Paxlovid",
+    "text": "Thésaurus ANSM \n  Hedrine \n  MSKCC Herbs \n  DDI Predictor \n  SuperCYPsPred \n  COVID Drug Interactions \n  HIV Drug Interactions \n  Hep Drug Interactions \n  Recos Paxlovid",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -390,7 +390,7 @@
     "href": "index-outils.html#adaptation-thérapeutique",
     "title": "Index des outils",
     "section": "Adaptation thérapeutique",
-    "text": "Adaptation thérapeutique\n\n  Liste préférentielle sujet âgé \n  STOPP/START v3 \n  Psychopharma \n  Psychiatrienet \n  ABXBMI \n  Adaptobese \n  GPR — Vidal \n  Rx Cirrhose \n  PIMCheck \n  SwissPedDose",
+    "text": "Adaptation thérapeutique\n\n  Liste préférentielle sujet âgé \n  STOPP/START v3 \n  Psychopharma \n  Psychiatrienet \n  ABXBMI \n  Adaptobese \n  GPR \n  Rx Cirrhose \n  PIMCheck \n  SwissPedDose",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -400,7 +400,7 @@
     "href": "index-outils.html#iatrogénie",
     "title": "Index des outils",
     "section": "Iatrogénie",
-    "text": "Iatrogénie\n\n  DITMA \n  LiverTox \n  CRAT \n  Credible Meds \n  Pneumotox",
+    "text": "Iatrogénie\n\n  LiverTox \n  CRAT \n  LactMed \n  e-lactancia \n  Credible Meds \n  Pneumotox",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -420,7 +420,7 @@
     "href": "index-outils.html#recommandations",
     "title": "Index des outils",
     "section": "Recommandations",
-    "text": "Recommandations\n\n  Palliaguide",
+    "text": "Recommandations\n\n  Palliaguide \n  Pediadol",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -450,7 +450,7 @@
     "href": "index-outils.html#conversion-dunités",
     "title": "Index des outils",
     "section": "Conversion d’unités",
-    "text": "Conversion d’unités\n\n  Médicalcul \n  Opioconvert",
+    "text": "Conversion d’unités\n\n  Opioconvert",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -460,7 +460,7 @@
     "href": "index-outils.html#ruptures-de-stock",
     "title": "Index des outils",
     "section": "Ruptures de stock",
-    "text": "Ruptures de stock\n\n  Vigirupture",
+    "text": "Ruptures de stock\n\n  Vigirupture \n  Meddispar",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]

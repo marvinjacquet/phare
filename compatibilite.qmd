@@ -16,7 +16,7 @@ Ressources pour vérifier la stabilité physicochimique et la compatibilité des
     <div class="outil-meta">
       <a href="https://www.stabilis.org/" class="outil-nom" target="_blank">Stabilis</a>
       <div class="outil-source">
-        Infostab (association française à but non lucratif)
+        Infostab (association à but non lucratif)
         <br> <span style="color: #006B3D;">Gratuit sans inscription</span>
         </div>
     </div>

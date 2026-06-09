@@ -6,16 +6,6 @@ Bases de données et référentiels pour identifier, documenter et prévenir les
 
 ---
 
-## Généralités
-
-### DITMA
-
-::: outil
-**[DITMA](https://ouhsc.edu/platelets/DITMA.htm)** — Registre des médicaments associés aux microangiopathies thrombotiques d'origine médicamenteuse (*Drug-Induced Thrombotic Microangiopathy*), maintenu par l'Université d'Oklahoma.
-:::
-
----
-
 ## Hépatotoxicité
 
 ### LiverTox

@@ -15,7 +15,7 @@ Il est conçu, enrichi et mis à jour bénévolement, à ce titre certaines ress
 
 ## Citation
 
-Marvin Jacquet (`r lubridate::today() |> lubridate::year()`), *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, <https://marvinjacquet.github.io/phare/>, version du `r lubridate::today() |> format(format = "%d %B %Y")`, doi : [10.5281/zenodo.13923681](https://doi.org/10.5281/zenodo.13923681).
+Marvin Jacquet (`r lubridate::today() |> lubridate::year()`), *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, <https://marvinjacquet.github.io/phare/>, version du `r lubridate::today() |> format(format = "%d %B %Y")`, doi : [10.5281/zenodo.13923681](https://doi.org/10.5281/zenodo.20612426).
 
 ## Licence
 

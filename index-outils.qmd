@@ -5,8 +5,6 @@ toc: false
 
 Vue d'ensemble de tous les outils référencés dans PHARE, organisés par catégorie.
 
----
-
 ## Interactions médicamenteuses
 
 <div class="index-grid">
@@ -27,18 +25,28 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 </a>
 
 <a href="interactions.html#ddi-predictor" class="index-card">
-<img src="images/logos/ddi-predictor.png" alt="DDI Predictor">
+<img src="images/logos/ddi_predictor.png" alt="DDI Predictor">
 <span>DDI Predictor</span>
 </a>
 
 <a href="interactions.html#supercypspred" class="index-card">
-<img src="images/logos/supercyps.png" alt="SuperCYPsPred">
+<img src="images/logos/supercypspred.png" alt="SuperCYPsPred">
 <span>SuperCYPsPred</span>
 </a>
 
-<a href="interactions.html#covid-19-drug-interactions" class="index-card">
-<img src="images/logos/liverpool.png" alt="COVID-19 Drug Interactions">
-<span>COVID-19 Drug Interactions</span>
+<a href="interactions.html#covid-drug-interactions" class="index-card">
+<img src="images/logos/covidliverpool.png" alt="COVID Drug Interactions">
+<span>COVID Drug Interactions</span>
+</a>
+
+<a href="interactions.html#hiv-drug-interactions" class="index-card">
+<img src="images/logos/hivliverpool.png" alt="HIV Drug Interactions">
+<span>HIV Drug Interactions</span>
+</a>
+
+<a href="interactions.html#hep-drug-interactions" class="index-card">
+<img src="images/logos/hepliverpool.png" alt="Hep Drug Interactions">
+<span>Hep Drug Interactions</span>
 </a>
 
 <a href="interactions.html#recos-paxlovid-sfpt" class="index-card">
@@ -48,7 +56,6 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 
 </div>
 
----
 
 ## Adaptation thérapeutique
 
@@ -85,8 +92,8 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 </a>
 
 <a href="adaptation.html#gpr" class="index-card">
-<img src="images/logos/vidal.png" alt="GPR Vidal">
-<span>GPR — Vidal</span>
+<img src="images/logos/gpr.png" alt="GPR">
+<span>GPR</span>
 </a>
 
 <a href="adaptation.html#rx-cirrhose" class="index-card">
@@ -106,16 +113,10 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 
 </div>
 
----
 
 ## Iatrogénie
 
 <div class="index-grid">
-
-<a href="iatrogenic.html#ditma" class="index-card">
-<img src="images/logos/ditma.png" alt="DITMA">
-<span>DITMA</span>
-</a>
 
 <a href="iatrogenic.html#livertox" class="index-card">
 <img src="images/logos/livertox.png" alt="LiverTox">
@@ -126,6 +127,17 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 <img src="images/logos/crat.png" alt="CRAT">
 <span>CRAT</span>
 </a>
+
+<a href="iatrogenic.html#lactmed" class="index-card">
+<img src="images/logos/lactmed.png" alt="LactMed">
+<span>LactMed</span>
+</a>
+
+<a href="iatrogenic.html#elactancia" class="index-card">
+<img src="images/logos/elactancia.png" alt="e-lactancia">
+<span>e-lactancia</span>
+</a>
+
 
 <a href="iatrogenic.html#credible-meds" class="index-card">
 <img src="images/logos/crediblemeds.png" alt="Credible Meds">
@@ -139,7 +151,6 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 
 </div>
 
----
 
 ## Compatibilité
 
@@ -152,7 +163,6 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 
 </div>
 
----
 
 ## Recommandations
 
@@ -163,9 +173,13 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 <span>Palliaguide</span>
 </a>
 
+<a href="recommandations.html#pediadol" class="index-card">
+<img src="images/logos/pediadol.png" alt="Pediadol">
+<span>Pediadol</span>
+</a>
+
 </div>
 
----
 
 ## Éducation thérapeutique
 
@@ -177,13 +191,12 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 </a>
 
 <a href="etp.html#zephir-splf" class="index-card">
-<img src="images/logos/splf.png" alt="ZEPHIR">
+<img src="images/logos/zephir.png" alt="ZEPHIR">
 <span>ZEPHIR</span>
 </a>
 
 </div>
 
----
 
 ## Pharmacologie
 
@@ -196,16 +209,10 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 
 </div>
 
----
 
 ## Conversion d'unités
 
 <div class="index-grid">
-
-<a href="conversions.html#médicalcul" class="index-card">
-<img src="images/logos/medicalcul.png" alt="Médicalcul">
-<span>Médicalcul</span>
-</a>
 
 <a href="conversions.html#opioconvert" class="index-card">
 <img src="images/logos/opioconvert.png" alt="Opioconvert">
@@ -214,7 +221,6 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 
 </div>
 
----
 
 ## Ruptures de stock
 
@@ -223,6 +229,11 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 <a href="ruptures.html#vigirupture-ansm" class="index-card">
 <img src="images/logos/vigirupture.png" alt="Vigirupture">
 <span>Vigirupture</span>
+</a>
+
+<a href="ruptures.html#meddispar" class="index-card">
+<img src="images/logos/meddispar.png" alt="Meddispar">
+<span>Meddispar</span>
 </a>
 
 </div>

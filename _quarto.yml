@@ -14,7 +14,7 @@ book:
       url: https://marvinjacquet.github.io/
   date: last-modified
   date-format: "DD MMMM YYYY"
-  doi: ''
+  doi: 10.5281/zenodo.20612426
   language: fr
 
   sidebar:

@@ -9,7 +9,7 @@ Calculettes et outils de conversion pour la pratique clinique quotidienne : unit
 ### Médicalcul
 
 ::: outil
-**[Médicalcul](http://medicalcul.free.fr/conversions.html)** — Ensemble de calculettes médicales couvrant les conversions d'unités biologiques, les scores cliniques et les paramètres pharmacocinétiques.
+**[Médicalcul](http://medicalcul.free.fr/conversions.html)** — Ensemble de calculettes médicales couvrant les conversions d'unités biologiques, les scores cliniques et les paramètres pharmacocinétiques..
 :::
 
 ### Opioconvert
