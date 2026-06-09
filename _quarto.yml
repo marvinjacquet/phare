@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 book:
-  title: "Pharmacie Clinique"
-  subtitle: "Catalogue d'outils et de références"
-  author: ""
+  title: "PHARE"
+  subtitle: "Pharmacie Hospitalière - Atlas des Ressources Essentielles"
+  author: "Marvin JACQUET"
   date: last-modified
   date-format: "MMMM YYYY"
   language: fr
@@ -18,7 +18,7 @@ book:
   navbar:
     right:
       - icon: github
-        href: https://github.com/VOTRE-USERNAME/VOTRE-REPO
+        href: https://github.com/marvinjacquet/phare
         aria-label: GitHub
 
   chapters:
@@ -41,7 +41,7 @@ book:
     left: "Pharmacie Clinique — Catalogue de ressources"
     right:
       - icon: github
-        href: https://github.com/VOTRE-USERNAME/VOTRE-REPO
+        href: https://github.com/marvinjacquet/phare
 
 format:
   html:
