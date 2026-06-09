@@ -1,0 +1,13 @@
+---
+title: "Compatibilité"
+---
+
+Ressources pour vérifier la stabilité physicochimique et la compatibilité des médicaments injectables en milieu hospitalier.
+
+---
+
+### Stabilis
+
+::: outil
+**[Stabilis](https://www.stabilis.org/)** — Base de données internationale sur la stabilité physicochimique et la compatibilité des médicaments injectables. Indispensable pour la préparation des perfusions en milieu hospitalier.
+:::

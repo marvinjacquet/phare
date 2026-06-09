@@ -1,0 +1,77 @@
+---
+title: "Pharmacie Clinique"
+subtitle: "Catalogue d'outils et de références"
+toc: false
+---
+
+Ce catalogue rassemble une sélection d'outils, bases de données et références utilisés en pharmacie clinique hospitalière, organisés par domaine de pratique.
+
+Il est maintenu à titre professionnel et mis à jour régulièrement. Les liens sont vérifiés, mais pensez à consulter directement les sources pour vous assurer de leur version en vigueur.
+
+---
+
+## Parcourir par catégorie
+
+<div class="grid-categories">
+
+<a class="card-categorie" href="interactions.html">
+<div class="icone">💊</div>
+<strong>Interactions médicamenteuses</strong>
+<span>Thésaurus, cytochromes, phytothérapie, COVID-19</span>
+</a>
+
+<a class="card-categorie" href="adaptation.html">
+<div class="icone">⚖️</div>
+<strong>Adaptation thérapeutique</strong>
+<span>Gériatrie, pédiatrie, rein, foie, obésité, psychiatrie</span>
+</a>
+
+<a class="card-categorie" href="iatrogenic.html">
+<div class="icone">⚠️</div>
+<strong>Iatrogénie</strong>
+<span>Hépatotoxicité, cardiotoxicité, pneumotoxicité, grossesse</span>
+</a>
+
+<a class="card-categorie" href="compatibilite.html">
+<div class="icone">🧪</div>
+<strong>Compatibilité</strong>
+<span>Stabilité et compatibilité des injectables</span>
+</a>
+
+<a class="card-categorie" href="recommandations.html">
+<div class="icone">📋</div>
+<strong>Recommandations</strong>
+<span>Soins palliatifs et autres référentiels</span>
+</a>
+
+<a class="card-categorie" href="etp.html">
+<div class="icone">🎓</div>
+<strong>Éducation thérapeutique</strong>
+<span>Ressources patients et soignants</span>
+</a>
+
+<a class="card-categorie" href="pharmacologie.html">
+<div class="icone">🔬</div>
+<strong>Pharmacologie</strong>
+<span>Cours et références de base</span>
+</a>
+
+<a class="card-categorie" href="conversions.html">
+<div class="icone">🔢</div>
+<strong>Conversion d'unités</strong>
+<span>Opioïdes, unités biologiques, scores</span>
+</a>
+
+<a class="card-categorie" href="ruptures.html">
+<div class="icone">🚨</div>
+<strong>Ruptures de stock</strong>
+<span>Signalement et alternatives</span>
+</a>
+
+</div>
+
+---
+
+::: {.callout-note appearance="minimal"}
+Ce catalogue est un document vivant. Des ressources peuvent manquer ou nécessiter une mise à jour. N'hésitez pas à signaler toute erreur ou suggestion via [GitHub](https://github.com/VOTRE-USERNAME/VOTRE-REPO/issues).
+:::

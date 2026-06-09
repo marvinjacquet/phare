@@ -1,0 +1,19 @@
+---
+title: "Conversion d'unités"
+---
+
+Calculettes et outils de conversion pour la pratique clinique quotidienne : unités biologiques, scores, équianalgésie.
+
+---
+
+### Médicalcul
+
+::: outil
+**[Médicalcul](http://medicalcul.free.fr/conversions.html)** — Ensemble de calculettes médicales couvrant les conversions d'unités biologiques, les scores cliniques et les paramètres pharmacocinétiques.
+:::
+
+### Opioconvert
+
+::: outil
+**[Opioconvert](https://opioconvert.fr/)** — Outil de conversion entre opioïdes basé sur les tables d'équianalgésie. Facilite la rotation des opioïdes en soins palliatifs et en douleur chronique.
+:::

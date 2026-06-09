@@ -1,0 +1,61 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Pharmacie Clinique"
+  subtitle: "Catalogue d'outils et de références"
+  author: ""
+  date: last-modified
+  date-format: "MMMM YYYY"
+  language: fr
+
+  sidebar:
+    search: true
+    style: "docked"
+    background: light
+
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/VOTRE-USERNAME/VOTRE-REPO
+        aria-label: GitHub
+
+  chapters:
+    - index.qmd
+    - part: "Outils cliniques"
+      chapters:
+        - interactions.qmd
+        - adaptation.qmd
+        - iatrogenic.qmd
+        - compatibilite.qmd
+    - part: "Ressources"
+      chapters:
+        - recommandations.qmd
+        - etp.qmd
+        - pharmacologie.qmd
+        - conversions.qmd
+        - ruptures.qmd
+
+  page-footer:
+    left: "Pharmacie Clinique — Catalogue de ressources"
+    right:
+      - icon: github
+        href: https://github.com/VOTRE-USERNAME/VOTRE-REPO
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    toc-title: "Sur cette page"
+    number-sections: false
+    smooth-scroll: true
+    lang: fr
+    css: styles.css
+    grid:
+      sidebar-width: 280px
+      body-width: 900px
+      margin-width: 200px

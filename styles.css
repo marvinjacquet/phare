@@ -1,0 +1,113 @@
+/* ============================================
+   Pharmacie Clinique — styles.css
+   ============================================ */
+
+/* --- Typographie & couleurs générales --- */
+:root {
+  --accent: #2c7a7b;
+  --accent-light: #e6f4f4;
+  --text-muted: #6c757d;
+  --border-color: #dee2e6;
+  --card-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+/* --- Callout "fiche outil" --- */
+/* Chaque outil est présenté comme un bloc discret */
+.outil {
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+  background: #fff;
+  box-shadow: var(--card-shadow);
+}
+
+.dark .outil {
+  background: #1e1e2e;
+  border-color: #444;
+  border-left-color: var(--accent);
+}
+
+.outil p:last-child {
+  margin-bottom: 0;
+}
+
+/* --- Badges de type / contexte --- */
+.badge-contexte {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 20px;
+  background: var(--accent-light);
+  color: var(--accent);
+  margin-bottom: 0.4rem;
+  letter-spacing: 0.02em;
+}
+
+/* --- Liens à compléter --- */
+.a-completer {
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+/* --- Titres de sections (###) --- */
+h3 {
+  margin-top: 1.8rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border-color);
+  font-size: 1.1rem;
+  color: var(--accent);
+}
+
+/* --- Page d'accueil : grille de catégories --- */
+.grid-categories {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.card-categorie {
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.1rem 1.2rem;
+  text-decoration: none !important;
+  color: inherit !important;
+  display: block;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  background: #fff;
+}
+
+.card-categorie:hover {
+  border-color: var(--accent);
+  box-shadow: 0 2px 8px rgba(44,122,123,0.12);
+}
+
+.dark .card-categorie {
+  background: #1e1e2e;
+  border-color: #444;
+}
+
+.card-categorie .icone {
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-categorie strong {
+  display: block;
+  font-size: 0.95rem;
+  margin-bottom: 0.2rem;
+}
+
+.card-categorie span {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+/* --- Ajustements sidebar --- */
+.sidebar-title {
+  font-weight: 700 !important;
+}

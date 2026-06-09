@@ -1,0 +1,111 @@
+---
+title: "Adaptation thérapeutique"
+---
+
+Ressources pour l'adaptation posologique selon les caractéristiques du patient : âge, poids, fonction rénale ou hépatique, contexte psychiatrique ou pédiatrique.
+
+---
+
+## Gériatrie
+
+<!-- ![](images/geriatrie.png){width=120px} -->
+
+### Liste préférentielle sujet âgé (OMEDIT)
+
+::: outil
+**[Liste préférentielle sujet âgé](https://www.omedit-paysdelaloire.fr/wp-content/uploads/2026/04/livret-ref-ehpad_omedit-01-2026.pdf)** (OMEDIT Normandie, 2026) — Livret de référence pour la prescription médicamenteuse en EHPAD. Propose une sélection de médicaments adaptés au sujet âgé fragile, organisée par classe thérapeutique.
+:::
+
+### STOPP/START v3
+
+::: outil
+**[STOPP/START v3](https://link.springer.com/article/10.1007/s41999-023-00777-y)** — Critères européens de détection des prescriptions potentiellement inappropriées (STOPP) et des omissions de traitement (START) chez le sujet âgé. La version 3 (2023) est la référence actuelle.
+:::
+
+### Critères de Beers
+
+::: outil
+[Critères de Beers](https://www.americangeriatrics.org/media-center/news/updated-ags-beers-criteriar-publication-journal-american-geriatrics-society) (AGS) — *lien à compléter*
+:::
+
+### Liste de Laroche
+
+::: outil
+**Liste de Laroche** — Liste française de médicaments potentiellement inappropriés chez le sujet âgé. *Lien à compléter.*
+:::
+
+---
+
+## Psychiatrie
+
+### Psychopharma
+
+::: outil
+**[Psychopharma](https://www.psychopharma.fr/)** — Outil d'aide à la prescription en psychiatrie : équivalences de doses, substitutions, gestion des arrêts et des chevauchements. Conçu pour la pratique clinique quotidienne.
+:::
+
+### Psychiatrienet
+
+::: outil
+**[Psychiatrienet](https://wiki.psychiatrienet.nl/wiki/Main_Page)** — Wiki collaboratif néerlandais de pharmacologie psychiatrique, riche en protocoles et données comparatives entre antipsychotiques et antidépresseurs.
+:::
+
+---
+
+## Poids & obésité
+
+### ABXBMI
+
+::: outil
+**[ABXBMI](https://abxbmi.com/fr/)** — Calculateur d'adaptation posologique des antibiotiques en fonction du poids réel, idéal et ajusté. Particulièrement utile en réanimation et chez les patients obèses.
+:::
+
+### Adaptobese
+
+::: outil
+**[Adaptobese](https://adaptobese.com/calculator)** — Outil de détermination du poids de référence à utiliser pour le calcul des doses médicamenteuses chez le patient obèse, selon les recommandations en vigueur.
+:::
+
+---
+
+## Fonction rénale
+
+<!-- ![](images/rein.png){width=120px} -->
+
+### GPR — Guide de Prescription en insuffisance Rénale
+
+::: outil
+**[GPR](https://www.vidal.fr/gpr.html)** (Vidal) — Référence française pour l'adaptation posologique en cas d'insuffisance rénale chronique ou aiguë. Consultable par médicament ou par DCI.
+:::
+
+---
+
+## Fonction hépatique
+
+### Rx Cirrhose
+
+::: outil
+**[Rx Cirrhose](https://www.rxcirrhose.ca/?hl=fr)** — Base de données canadienne dédiée à l'adaptation des posologies en cas de cirrhose hépatique. Classe les médicaments selon le score de Child-Pugh.
+:::
+
+### Réseau canadien de déprescription
+
+::: outil
+**[Réseau canadien de déprescription](https://www.reseaudeprescription.ca/algorithmes)** — Algorithmes pratiques de déprescription médicamenteuse, notamment utiles chez les patients polymédiqués avec atteinte hépatique.
+:::
+
+### PIMCheck
+
+::: outil
+**[PIMCheck](https://www.pimcheck.org/)** (HUG) — Outil de détection des prescriptions potentiellement inappropriées, développé par les Hôpitaux Universitaires de Genève.
+:::
+
+---
+
+## Pédiatrie
+
+### SwissPedDose
+
+::: outil
+**[SwissPedDose](https://db.swisspeddose.ch/fr/search)** — Base de données suisse de référence pour les posologies pédiatriques, issue d'un consensus national. Couvre un large spectre de médicaments avec des recommandations adaptées par tranche d'âge et de poids.
+:::

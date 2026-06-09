@@ -1,0 +1,19 @@
+---
+title: "Éducation thérapeutique"
+---
+
+Ressources destinées à la formation des patients et des soignants, notamment pour les thérapies orales et les dispositifs d'inhalation.
+
+---
+
+### OncoNormandie
+
+::: outil
+**[OncoNormandie](https://www.onconormandie.fr/)** — Réseau régional de cancérologie normand proposant des ressources pour les professionnels de santé et les patients, notamment sur les thérapies orales et leur suivi.
+:::
+
+### ZEPHIR (SPLF)
+
+::: outil
+**[ZEPHIR](https://splf.fr/videos-zephir/)** (SPLF) — Bibliothèque de vidéos pédagogiques sur la technique d'utilisation des dispositifs d'inhalation. Utile pour la formation des patients et des soignants.
+:::
