@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
     "section": "",
-    "text": "Catégories\nCet atlas rassemble une sélection d’outils, bases de données et références utiles à la pratique de la pharmacie hospitalière, praticiens, internes, externes ou préparateurs en pharmacie.\nIl est construit et maintenu à jour à titre bénévole.",
+    "text": "Présentation\nCet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique de la pharmacie hospitalière des pharmaciens, internes, externes et préparateurs en pharmacie. L’objectif est de faciliter l’accès à des références fiables et pertinentes, afin de soutenir la pratique quotidienne, la formation et la prise de décision.\nCet atlas est conçu, enrichi et mis à jour à titre bénévole. Malgré le soin apporté à sa construction, certaines ressources peuvent être incomplètes, obsolètes ou nécessiter des améliorations. Dans cette optique, les contributions sont les bienvenues. Vous pouvez signaler toute erreur, proposer une correction ou suggérer de nouvelles ressources de via GitHub.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Catégories</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Présentation</span>"
     ]
   },
   {
@@ -26,7 +26,7 @@
     "section": "",
     "text": "Référentiels généraux\nLes ressources ci-dessous couvrent différentes facettes des interactions médicamenteuses : référentiels réglementaires, interactions plante–médicament, métabolisme par les cytochromes, et contextes spécifiques comme le COVID-19.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
@@ -37,7 +37,7 @@
     "section": "",
     "text": "Thésaurus ANSM\n\n\nLe Thésaurus des interactions médicamenteuses est le référentiel national publié par l’ANSM. Il classe les interactions par niveau de contrainte (contre-indication, association déconseillée, précaution d’emploi) et constitue la base réglementaire française en la matière.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
@@ -48,7 +48,7 @@
     "section": "Phytothérapie",
     "text": "Phytothérapie\n\nHedrine\n\nHedrine (ULB) — Base de données belge sur les interactions entre plantes médicinales et médicaments conventionnels. Utile pour les patients sous traitement chronique ayant recours à l’automédication par plantes.\n\n\n\nMSKCC Herbs\n\nMSKCC Herbs — Développé par le Memorial Sloan Kettering Cancer Center, cet outil est particulièrement adapté au contexte oncologique. Il documente les effets pharmacologiques, les risques d’interactions et les données cliniques disponibles pour chaque plante.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
@@ -59,7 +59,7 @@
     "section": "Cytochromes",
     "text": "Cytochromes\n\n\nDDI Predictor\n\nDDI Predictor — Outil de prédiction des interactions médicament–médicament via les enzymes du cytochrome P450. Permet d’identifier rapidement les substrats, inhibiteurs et inducteurs impliqués dans une association.\n\n\n\nSuperCYPsPred\n\nSuperCYPsPred (Charité Berlin) — Plateforme de prédiction in silico du métabolisme par les CYP. Utile pour les molécules peu documentées ou les nouvelles entités chimiques.\n\n\n\nCarte des cytochromes (HUG)\n\nCarte des cytochromes (HUG, PDF) — Synthèse visuelle des principaux médicaments classés par enzyme. Document de référence pratique à garder à portée de main.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
@@ -70,7 +70,7 @@
     "section": "COVID-19",
     "text": "COVID-19\n\nCOVID-19 Drug Interactions\n\nCOVID-19 Drug Interactions (Université de Liverpool) — Outil de référence international pour les interactions des antiviraux COVID-19 (nirmatrelvir, molnupiravir, remdesivir) avec les traitements concomitants. Mis à jour régulièrement.\n\n\n\nRecos Paxlovid (SFPT)\n\nRecos Paxlovid (SFPT) — Recommandations françaises pour la gestion des interactions lors d’une prescription de nirmatrelvir/ritonavir, avec conduite à tenir détaillée par médicament.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
     ]
   },
@@ -81,7 +81,7 @@
     "section": "",
     "text": "Gériatrie\nRessources pour l’adaptation posologique selon les caractéristiques du patient : âge, poids, fonction rénale ou hépatique, contexte psychiatrique ou pédiatrique.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
@@ -92,7 +92,7 @@
     "section": "",
     "text": "Liste préférentielle sujet âgé (OMEDIT)\n\nListe préférentielle sujet âgé (OMEDIT Normandie, 2026) — Livret de référence pour la prescription médicamenteuse en EHPAD. Propose une sélection de médicaments adaptés au sujet âgé fragile, organisée par classe thérapeutique.\n\n\n\nSTOPP/START v3\n\nSTOPP/START v3 — Critères européens de détection des prescriptions potentiellement inappropriées (STOPP) et des omissions de traitement (START) chez le sujet âgé. La version 3 (2023) est la référence actuelle.\n\n\n\nCritères de Beers\n\nCritères de Beers (AGS) — lien à compléter\n\n\n\nListe de Laroche\n\nListe de Laroche — Liste française de médicaments potentiellement inappropriés chez le sujet âgé. Lien à compléter.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
@@ -103,7 +103,7 @@
     "section": "Psychiatrie",
     "text": "Psychiatrie\n\nPsychopharma\n\nPsychopharma — Outil d’aide à la prescription en psychiatrie : équivalences de doses, substitutions, gestion des arrêts et des chevauchements. Conçu pour la pratique clinique quotidienne.\n\n\n\nPsychiatrienet\n\nPsychiatrienet — Wiki collaboratif néerlandais de pharmacologie psychiatrique, riche en protocoles et données comparatives entre antipsychotiques et antidépresseurs.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
@@ -114,7 +114,7 @@
     "section": "Poids & obésité",
     "text": "Poids & obésité\n\nABXBMI\n\nABXBMI — Calculateur d’adaptation posologique des antibiotiques en fonction du poids réel, idéal et ajusté. Particulièrement utile en réanimation et chez les patients obèses.\n\n\n\nAdaptobese\n\nAdaptobese — Outil de détermination du poids de référence à utiliser pour le calcul des doses médicamenteuses chez le patient obèse, selon les recommandations en vigueur.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
@@ -125,7 +125,7 @@
     "section": "Fonction rénale",
     "text": "Fonction rénale\n\n\nGPR — Guide de Prescription en insuffisance Rénale\n\nGPR (Vidal) — Référence française pour l’adaptation posologique en cas d’insuffisance rénale chronique ou aiguë. Consultable par médicament ou par DCI.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
@@ -136,7 +136,7 @@
     "section": "Fonction hépatique",
     "text": "Fonction hépatique\n\nRx Cirrhose\n\nRx Cirrhose — Base de données canadienne dédiée à l’adaptation des posologies en cas de cirrhose hépatique. Classe les médicaments selon le score de Child-Pugh.\n\n\n\nRéseau canadien de déprescription\n\nRéseau canadien de déprescription — Algorithmes pratiques de déprescription médicamenteuse, notamment utiles chez les patients polymédiqués avec atteinte hépatique.\n\n\n\nPIMCheck\n\nPIMCheck (HUG) — Outil de détection des prescriptions potentiellement inappropriées, développé par les Hôpitaux Universitaires de Genève.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
@@ -147,7 +147,7 @@
     "section": "Pédiatrie",
     "text": "Pédiatrie\n\nSwissPedDose\n\nSwissPedDose — Base de données suisse de référence pour les posologies pédiatriques, issue d’un consensus national. Couvre un large spectre de médicaments avec des recommandations adaptées par tranche d’âge et de poids.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
@@ -158,7 +158,7 @@
     "section": "",
     "text": "Généralités\nBases de données et référentiels pour identifier, documenter et prévenir les effets indésirables médicamenteux selon l’organe cible ou la situation clinique.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
@@ -169,7 +169,7 @@
     "section": "",
     "text": "DITMA\n\nDITMA — Registre des médicaments associés aux microangiopathies thrombotiques d’origine médicamenteuse (Drug-Induced Thrombotic Microangiopathy), maintenu par l’Université d’Oklahoma.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
@@ -180,7 +180,7 @@
     "section": "Hépatotoxicité",
     "text": "Hépatotoxicité\n\nLiverTox\n\nLiverTox (NIH) — Base de données exhaustive sur l’hépatotoxicité médicamenteuse. Pour chaque substance : description des mécanismes, cas cliniques documentés et cote de causalité.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
@@ -191,7 +191,7 @@
     "section": "Grossesse & allaitement",
     "text": "Grossesse & allaitement\n\n\nCRAT\n\nCRAT — Centre de Référence sur les Agents Tératogènes. Référence française incontournable pour évaluer le risque médicamenteux pendant la grossesse et l’allaitement, avec des fiches par molécule régulièrement mises à jour.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
@@ -202,7 +202,7 @@
     "section": "Cardiotoxicité",
     "text": "Cardiotoxicité\n\nCredible Meds\n\nCredible Meds — Base de données sur le risque de prolongation du QT et de torsades de pointes associé aux médicaments. Chaque substance est classée selon le niveau de preuve disponible.",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
@@ -213,7 +213,7 @@
     "section": "Pneumotoxicité",
     "text": "Pneumotoxicité\n\nPneumotox\n\nPneumotox — Référence mondiale sur la toxicité pulmonaire des médicaments et autres substances. Permet de rechercher par médicament ou par tableau clinique (pneumopathie interstitielle, hémorragie alvéolaire, etc.).",
     "crumbs": [
-      "Outils cliniques",
+      "**Outils cliniques**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Iatrogénie</span>"
     ]
   },
@@ -222,10 +222,10 @@
     "href": "compatibilite.html",
     "title": "Compatibilité",
     "section": "",
-    "text": "Ressources pour vérifier la stabilité physicochimique et la compatibilité des médicaments injectables en milieu hospitalier.\n\n\nStabilis\n\nStabilis — Base de données internationale sur la stabilité physicochimique et la compatibilité des médicaments injectables. Indispensable pour la préparation des perfusions en milieu hospitalier.",
+    "text": "Ressources pour vérifier la stabilité physicochimique et la compatibilité des médicaments injectables en milieu hospitalier.\n\nStabilis\n\n\n  \n    \n      \n    \n    \n      Stabilis\n      \n        Infostab (association française à but non lucratif)\n         Gratuit sans inscription\n        \n    \n  \n  Base de donnée internationale concernant la stabilité et les compatibilités des médicaments. Elle contient des monographies (stabilité en solution simple et mélange, facteurs affectant la stabilité...), des outils (tableaux de compatibilité) et la bibliographie associée (publications originales et informations des laboratoires).\n  \n    Détails\n    \n      Explication...\n      ![](images/screens/nom-outila.png)",
     "crumbs": [
-      "Outils cliniques",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Compatibilité</span>"
+      "**Outils cliniques**",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Compatibilité</span>"
     ]
   },
   {
@@ -308,10 +308,161 @@
     "objectID": "index.html#catégories",
     "href": "index.html#catégories",
     "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
-    "section": "",
-    "text": "Interactions médicamenteuses Thésaurus, cytochromes, phytothérapie, COVID-19 \n Adaptation thérapeutique Gériatrie, pédiatrie, rein, foie, obésité, psychiatrie \n Iatrogénie Hépatotoxicité, cardiotoxicité, pneumotoxicité, grossesse \n Compatibilité Stabilité et compatibilité des injectables \n Recommandations Soins palliatifs et autres référentiels \n Éducation thérapeutique Ressources patients et soignants \n Pharmacologie Cours et références de base \n Conversion d’unités Opioïdes, unités biologiques, scores \n Ruptures de stock Signalement et alternatives \n\n\n\n\n\n\n\n\nCe document est construit et maintenu à jour bénévolement. Certaines ressources et outils peuvent donc manquer ou nécessiter une mise à jour. N’hésitez pas à signaler toute erreur ou suggestion via GitHub.",
+    "section": "Catégories",
+    "text": "Catégories\n\n Interactions médicamenteuses Thésaurus, cytochromes, phytothérapie, COVID-19 \n Adaptation thérapeutique Gériatrie, pédiatrie, rein, foie, obésité, psychiatrie \n Iatrogénie Hépatotoxicité, cardiotoxicité, pneumotoxicité, grossesse \n Compatibilité Stabilité et compatibilité des injectables \n Recommandations Soins palliatifs et autres référentiels \n Éducation thérapeutique Ressources patients et soignants \n Pharmacologie Cours et références de base \n Conversion d’unités Opioïdes, unités biologiques, scores \n Ruptures de stock Signalement et alternatives \n\n\nCe document est généré avec quarto, et son code source est disponible sur GitHub.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Catégories</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Présentation</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#limites-et-évolutions",
+    "href": "index.html#limites-et-évolutions",
+    "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
+    "section": "Limites et évolutions",
+    "text": "Limites et évolutions\nCe document a vocation à évoluer au fil du temps. Il reflète un état des connaissances et des outils disponibles à un instant donné, et ne saurait être exhaustif. L’implication de la communauté est essentielle pour garantir sa pertinence et sa qualité.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Un projet collaboratif</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#mises-à-jour",
+    "href": "index.html#mises-à-jour",
+    "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
+    "section": "Mises à jour",
+    "text": "Mises à jour\nCet atlas est conçu, enrichi et mis à jour à titre bénévole. Malgré le soin apporté à sa construction, certaines ressources peuvent être incomplètes, obsolètes ou nécessiter des améliorations. Dans cette optique, les contributions sont les bienvenues. Vous pouvez signaler toute erreur, proposer une correction ou suggérer de nouvelles ressources de préférence via GitHub.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Principe</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#licence",
+    "href": "index.html#licence",
+    "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
+    "section": "Licence",
+    "text": "Licence\nCe document est mis à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.\n\n\nCe document est généré avec quarto, et son code source est disponible sur GitHub.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Présentation</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
+    "section": "Citation",
+    "text": "Citation\nMarvin Jacquet (2026), PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles, https://marvinjacquet.github.io/phare/, version du 09 juin 2026, doi : 10.5281/zenodo.13923681.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Présentation</span>"
+    ]
+  },
+  {
+    "objectID": "compatibilite.html#stabilis-1",
+    "href": "compatibilite.html#stabilis-1",
+    "title": "Compatibilité",
+    "section": "Stabilis",
+    "text": "Stabilis\n\n  \n    \n      \n    \n    \n      Source : INFOSTAB  Mise à jour : 09/06/2026\n    \n  \n  Base de données sur la compatibilité des injectables.\n  \n    Détails\n    \n      Explication...\n      ![](images/screens/nom-outila.png)",
+    "crumbs": [
+      "**Outils cliniques**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Compatibilité</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html",
+    "href": "index-outils.html",
+    "title": "Index des outils",
+    "section": "",
+    "text": "Interactions médicamenteuses\nVue d’ensemble de tous les outils référencés dans PHARE, organisés par catégorie.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#interactions-médicamenteuses",
+    "href": "index-outils.html#interactions-médicamenteuses",
+    "title": "Index des outils",
+    "section": "",
+    "text": "Thésaurus ANSM \n  Hedrine \n  MSKCC Herbs \n  DDI Predictor \n  SuperCYPsPred \n  COVID-19 Drug Interactions \n  Recos Paxlovid",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#adaptation-thérapeutique",
+    "href": "index-outils.html#adaptation-thérapeutique",
+    "title": "Index des outils",
+    "section": "Adaptation thérapeutique",
+    "text": "Adaptation thérapeutique\n\n  Liste préférentielle sujet âgé \n  STOPP/START v3 \n  Psychopharma \n  Psychiatrienet \n  ABXBMI \n  Adaptobese \n  GPR — Vidal \n  Rx Cirrhose \n  PIMCheck \n  SwissPedDose",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#iatrogénie",
+    "href": "index-outils.html#iatrogénie",
+    "title": "Index des outils",
+    "section": "Iatrogénie",
+    "text": "Iatrogénie\n\n  DITMA \n  LiverTox \n  CRAT \n  Credible Meds \n  Pneumotox",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#compatibilité",
+    "href": "index-outils.html#compatibilité",
+    "title": "Index des outils",
+    "section": "Compatibilité",
+    "text": "Compatibilité\n\n  Stabilis",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#recommandations",
+    "href": "index-outils.html#recommandations",
+    "title": "Index des outils",
+    "section": "Recommandations",
+    "text": "Recommandations\n\n  Palliaguide",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#éducation-thérapeutique",
+    "href": "index-outils.html#éducation-thérapeutique",
+    "title": "Index des outils",
+    "section": "Éducation thérapeutique",
+    "text": "Éducation thérapeutique\n\n  OncoNormandie \n  ZEPHIR",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#pharmacologie",
+    "href": "index-outils.html#pharmacologie",
+    "title": "Index des outils",
+    "section": "Pharmacologie",
+    "text": "Pharmacologie\n\n  Pharmacomedicale",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#conversion-dunités",
+    "href": "index-outils.html#conversion-dunités",
+    "title": "Index des outils",
+    "section": "Conversion d’unités",
+    "text": "Conversion d’unités\n\n  Médicalcul \n  Opioconvert",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#ruptures-de-stock",
+    "href": "index-outils.html#ruptures-de-stock",
+    "title": "Index des outils",
+    "section": "Ruptures de stock",
+    "text": "Ruptures de stock\n\n  Vigirupture",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
   }
 ]

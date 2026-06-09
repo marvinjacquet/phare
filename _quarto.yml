@@ -2,16 +2,23 @@ project:
   type: book
   output-dir: docs
 
+execute:
+  freeze: auto
+
 book:
   title: "Pharmacie Hospitalière - Atlas des Ressources Essentielles"
-  favicon: images/logo/favicon.ico
-  author: "Marvin JACQUET"
+  favicon: images/favicon.ico
+  author:
+    - name: Marvin JACQUET
+      orcid: 0000-0002-9890-7908
+      url: https://marvinjacquet.github.io/
   date: last-modified
   date-format: "DD MMMM YYYY"
+  doi: ''
   language: fr
 
   sidebar:
-    logo: images/logo/full.svg
+    logo: images/phare.svg
     search: true
     location: left
     style: "docked"
@@ -19,13 +26,14 @@ book:
 
   chapters:
     - index.qmd
-    - part: "Outils cliniques"
+    - index-outils.qmd
+    - part: "**Outils cliniques**"
       chapters:
         - interactions.qmd
         - adaptation.qmd
         - iatrogenic.qmd
         - compatibilite.qmd
-    - part: "Ressources"
+    - part: "**Ressources**"
       chapters:
         - recommandations.qmd
         - etp.qmd
@@ -33,12 +41,12 @@ book:
         - conversions.qmd
         - ruptures.qmd
 
-
 format:
   html:
     theme:
       light: cosmo
       dark: darkly
+    engine: knitr
     toc: true
     toc-depth: 3
     toc-title: "Sur cette page"

@@ -1,0 +1,228 @@
+---
+title: "Index des outils"
+toc: false
+---
+
+Vue d'ensemble de tous les outils référencés dans PHARE, organisés par catégorie.
+
+---
+
+## Interactions médicamenteuses
+
+<div class="index-grid">
+
+<a href="interactions.html#thésaurus-ansm" class="index-card">
+<img src="images/logos/ansm.png" alt="ANSM">
+<span>Thésaurus ANSM</span>
+</a>
+
+<a href="interactions.html#hedrine" class="index-card">
+<img src="images/logos/hedrine.png" alt="Hedrine">
+<span>Hedrine</span>
+</a>
+
+<a href="interactions.html#mskcc-herbs" class="index-card">
+<img src="images/logos/mskcc.png" alt="MSKCC Herbs">
+<span>MSKCC Herbs</span>
+</a>
+
+<a href="interactions.html#ddi-predictor" class="index-card">
+<img src="images/logos/ddi-predictor.png" alt="DDI Predictor">
+<span>DDI Predictor</span>
+</a>
+
+<a href="interactions.html#supercypspred" class="index-card">
+<img src="images/logos/supercyps.png" alt="SuperCYPsPred">
+<span>SuperCYPsPred</span>
+</a>
+
+<a href="interactions.html#covid-19-drug-interactions" class="index-card">
+<img src="images/logos/liverpool.png" alt="COVID-19 Drug Interactions">
+<span>COVID-19 Drug Interactions</span>
+</a>
+
+<a href="interactions.html#recos-paxlovid-sfpt" class="index-card">
+<img src="images/logos/sfpt.png" alt="Recos Paxlovid">
+<span>Recos Paxlovid</span>
+</a>
+
+</div>
+
+---
+
+## Adaptation thérapeutique
+
+<div class="index-grid">
+
+<a href="adaptation.html#liste-préférentielle-sujet-âgé-omedit" class="index-card">
+<img src="images/logos/omedit.png" alt="OMEDIT">
+<span>Liste préférentielle sujet âgé</span>
+</a>
+
+<a href="adaptation.html#stoppstart-v3" class="index-card">
+<img src="images/logos/stopp.png" alt="STOPP/START">
+<span>STOPP/START v3</span>
+</a>
+
+<a href="adaptation.html#psychopharma" class="index-card">
+<img src="images/logos/psychopharma.png" alt="Psychopharma">
+<span>Psychopharma</span>
+</a>
+
+<a href="adaptation.html#psychiatrienet" class="index-card">
+<img src="images/logos/psychiatrienet.png" alt="Psychiatrienet">
+<span>Psychiatrienet</span>
+</a>
+
+<a href="adaptation.html#abxbmi" class="index-card">
+<img src="images/logos/abxbmi.png" alt="ABXBMI">
+<span>ABXBMI</span>
+</a>
+
+<a href="adaptation.html#adaptobese" class="index-card">
+<img src="images/logos/adaptobese.png" alt="Adaptobese">
+<span>Adaptobese</span>
+</a>
+
+<a href="adaptation.html#gpr" class="index-card">
+<img src="images/logos/vidal.png" alt="GPR Vidal">
+<span>GPR — Vidal</span>
+</a>
+
+<a href="adaptation.html#rx-cirrhose" class="index-card">
+<img src="images/logos/rxcirrhose.png" alt="Rx Cirrhose">
+<span>Rx Cirrhose</span>
+</a>
+
+<a href="adaptation.html#pimcheck" class="index-card">
+<img src="images/logos/pimcheck.png" alt="PIMCheck">
+<span>PIMCheck</span>
+</a>
+
+<a href="adaptation.html#swisspeddose" class="index-card">
+<img src="images/logos/swisspeddose.png" alt="SwissPedDose">
+<span>SwissPedDose</span>
+</a>
+
+</div>
+
+---
+
+## Iatrogénie
+
+<div class="index-grid">
+
+<a href="iatrogenic.html#ditma" class="index-card">
+<img src="images/logos/ditma.png" alt="DITMA">
+<span>DITMA</span>
+</a>
+
+<a href="iatrogenic.html#livertox" class="index-card">
+<img src="images/logos/livertox.png" alt="LiverTox">
+<span>LiverTox</span>
+</a>
+
+<a href="iatrogenic.html#crat" class="index-card">
+<img src="images/logos/crat.png" alt="CRAT">
+<span>CRAT</span>
+</a>
+
+<a href="iatrogenic.html#credible-meds" class="index-card">
+<img src="images/logos/crediblemeds.png" alt="Credible Meds">
+<span>Credible Meds</span>
+</a>
+
+<a href="iatrogenic.html#pneumotox" class="index-card">
+<img src="images/logos/pneumotox.png" alt="Pneumotox">
+<span>Pneumotox</span>
+</a>
+
+</div>
+
+---
+
+## Compatibilité
+
+<div class="index-grid">
+
+<a href="compatibilite.html#stabilis" class="index-card">
+<img src="images/logos/stabilis.png" alt="Stabilis">
+<span>Stabilis</span>
+</a>
+
+</div>
+
+---
+
+## Recommandations
+
+<div class="index-grid">
+
+<a href="recommandations.html#palliaguide" class="index-card">
+<img src="images/logos/palliaguide.png" alt="Palliaguide">
+<span>Palliaguide</span>
+</a>
+
+</div>
+
+---
+
+## Éducation thérapeutique
+
+<div class="index-grid">
+
+<a href="etp.html#onconormandie" class="index-card">
+<img src="images/logos/onconormandie.png" alt="OncoNormandie">
+<span>OncoNormandie</span>
+</a>
+
+<a href="etp.html#zephir-splf" class="index-card">
+<img src="images/logos/splf.png" alt="ZEPHIR">
+<span>ZEPHIR</span>
+</a>
+
+</div>
+
+---
+
+## Pharmacologie
+
+<div class="index-grid">
+
+<a href="pharmacologie.html#pharmacomedicale-cnpm" class="index-card">
+<img src="images/logos/pharmacomedicale.png" alt="Pharmacomedicale">
+<span>Pharmacomedicale</span>
+</a>
+
+</div>
+
+---
+
+## Conversion d'unités
+
+<div class="index-grid">
+
+<a href="conversions.html#médicalcul" class="index-card">
+<img src="images/logos/medicalcul.png" alt="Médicalcul">
+<span>Médicalcul</span>
+</a>
+
+<a href="conversions.html#opioconvert" class="index-card">
+<img src="images/logos/opioconvert.png" alt="Opioconvert">
+<span>Opioconvert</span>
+</a>
+
+</div>
+
+---
+
+## Ruptures de stock
+
+<div class="index-grid">
+
+<a href="ruptures.html#vigirupture-ansm" class="index-card">
+<img src="images/logos/vigirupture.png" alt="Vigirupture">
+<span>Vigirupture</span>
+</a>
+
+</div>

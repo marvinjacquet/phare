@@ -4,10 +4,30 @@ title: "Compatibilité"
 
 Ressources pour vérifier la stabilité physicochimique et la compatibilité des médicaments injectables en milieu hospitalier.
 
----
-
+::: {.outil-anchor}
 ### Stabilis
-
-::: outil
-**[Stabilis](https://www.stabilis.org/)** — Base de données internationale sur la stabilité physicochimique et la compatibilité des médicaments injectables. Indispensable pour la préparation des perfusions en milieu hospitalier.
 :::
+```{=html}
+<div class="outil">
+  <div class="outil-header">
+    <a href="https://www.stabilis.org/" class="outil-logo" target="_blank">
+      <img src="images/logos/stabilis.png" alt="Stabilis">
+    </a>
+    <div class="outil-meta">
+      <a href="https://www.stabilis.org/" class="outil-nom" target="_blank">Stabilis</a>
+      <div class="outil-source">
+        Infostab (association française à but non lucratif)
+        <br> <span style="color: #006B3D;">Gratuit sans inscription</span>
+        </div>
+    </div>
+  </div>
+  <p class="outil-description"><b>Base de donnée</b> internationale concernant la stabilité et les compatibilités des médicaments. Elle contient des <b>monographies</b> (stabilité en solution simple et mélange, facteurs affectant la stabilité...), des <b>outils</b> (tableaux de compatibilité) et la <b>bibliographie</b> associée (publications originales et informations des laboratoires).</p>
+  <details class="outil-details">
+    <summary>Détails</summary>
+    <div class="outil-details-content">
+      Explication...
+      ![](images/screens/nom-outila.png)
+    </div>
+  </details>
+</div>
+```

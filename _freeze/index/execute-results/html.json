@@ -1,0 +1,15 @@
+{
+  "hash": "9fb71a00f637e4480027c011a4b876fa",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"\"\ntoc: false\n---\n\n\n\n## Présentation\nCet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique de la pharmacie hospitalière des pharmaciens, internes, externes et préparateurs en pharmacie. L’objectif est de faciliter l’accès à des références fiables et pertinentes, afin de soutenir la pratique quotidienne, la formation et la prise de décision.\n\nCet atlas est conçu, enrichi et mis à jour à titre bénévole. Malgré le soin apporté à sa construction, certaines ressources peuvent être incomplètes, obsolètes ou nécessiter des améliorations. Dans cette optique, les contributions sont les bienvenues. Vous pouvez signaler toute erreur, proposer une correction ou suggérer de nouvelles ressources de via [GitHub](https://github.com/marvinjacquet/phare/issues/new).\n\n## Citation\n\nMarvin Jacquet (2026), *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, <https://marvinjacquet.github.io/phare/>, version du 09 juin 2026, doi : [10.5281/zenodo.13923681](https://doi.org/10.5281/zenodo.13923681).\n\n## Licence\n\nCe document est mis à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/).\n\n![](images/licence/by-nc-sa.png){width=\"160\"}\n\n---\n\nCe document est généré avec [quarto](https://quarto.org/), et son code source est disponible sur [GitHub](https://github.com/marvinjacquet/phare).",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,35 +1,166 @@
-/* --- Typographie & couleurs générales --- */
+/* --- Couleurs --- */
 :root {
-  --accent: #2c7a7b;
+  --accent: #0071B2;
   --accent-light: #e6f4f4;
   --text-muted: #6c757d;
   --border-color: #dee2e6;
   --card-shadow: 0 1px 4px rgba(0,0,0,0.08);
 }
 
-/* --- Callout "fiche outil" --- */
-/* Chaque outil est présenté comme un bloc discret */
+/* --- Titres --- */
+h1 { color: var(--accent); }
+h2 { color: var(--accent); }
+h3 {
+  margin-top: 1.8rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border-color);
+  font-size: 1.1rem;
+  color: var(--accent);
+}
+
+/* --- Liens --- */
+.a-completer {
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+/* --- OUTIL --- */
 .outil {
-  border: 1px solid var(--border-color);
-  border-left: 4px solid var(--accent);
-  border-radius: 6px;
-  padding: 1rem 1.25rem;
+  border: 0.5px solid var(--border-color);
+  border-radius: 10px;
+  padding: 1.1rem 1.25rem;
   margin-bottom: 1.25rem;
   background: #fff;
   box-shadow: var(--card-shadow);
+  display: flex;
+  flex-direction: column;
 }
 
 .dark .outil {
   background: #1e1e2e;
   border-color: #444;
-  border-left-color: var(--accent);
 }
 
-.outil p:last-child {
-  margin-bottom: 0;
+/* Ligne du haut : logo + titre + source */
+.outil-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
 }
 
-/* --- Badges de type / contexte --- */
+.outil-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  border: 0.5px solid var(--border-color);
+  border-radius: 8px;
+  background: #ffffff;
+  flex-shrink: 0;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.dark .outil-logo {
+  background: #2a2a3e;
+  border-color: #444;
+}
+
+.outil-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 4px;
+}
+
+.outil-meta {
+  flex: 1;
+  min-width: 0;
+}
+
+.outil-nom {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.outil-nom:hover {
+  text-decoration: underline;
+}
+
+.outil-source {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+/* Description */
+.outil-description {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0 0 0.75rem 0;
+  color: inherit;
+}
+
+/* Section dépliable */
+.outil-details {
+  display: inline-block;
+  width: 100%;
+  border-top: 0.5px solid var(--border-color);
+  padding-top: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+.outil-details summary {
+  display: inline;
+  font-size: 1rem;
+  color: var(--text-muted);
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+}
+
+.outil-details summary::-webkit-details-marker { display: none; }
+
+.outil-details summary::after {
+  content: " ▸";
+  font-size: 1rem;
+}
+
+details[open] .outil-details summary::after {
+  content: " ▾";
+}
+
+.outil-details-content {
+  display: none;
+}
+
+details[open] .outil-details-content {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.outil-details-content img {
+  margin-top: 0.75rem;
+  border-radius: 6px;
+  border: 1px solid var(--border-color);
+  max-width: 100%;
+}
+
+details.outil-details {
+  margin-bottom: 0 !important;
+}
+
+.outil-anchor {
+  display: none;
+}
+
+/* --- Badges --- */
 .badge-contexte {
   display: inline-block;
   font-size: 0.72rem;
@@ -42,68 +173,52 @@
   letter-spacing: 0.02em;
 }
 
-/* --- Liens à compléter --- */
-.a-completer {
-  color: var(--text-muted);
-  font-style: italic;
-  font-size: 0.9em;
-}
-
-/* --- Titres de sections (###) --- */
-h3 {
-  margin-top: 1.8rem;
-  padding-bottom: 0.3rem;
-  border-bottom: 1px solid var(--border-color);
-  font-size: 1.1rem;
-  color: var(--accent);
-}
-
-/* --- Page d'accueil : grille de catégories --- */
-.grid-categories {
+/* --- Index --- */
+.index-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 1rem;
-  margin: 2rem 0;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem 0;
 }
 
-.card-categorie {
-  border: 1px solid var(--border-color);
+.index-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 0.5rem;
+  border: 0.5px solid var(--border-color);
   border-radius: 8px;
-  padding: 1.1rem 1.2rem;
   text-decoration: none !important;
   color: inherit !important;
-  display: block;
-  transition: border-color 0.15s, box-shadow 0.15s;
   background: #fff;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  text-align: center;
 }
 
-.card-categorie:hover {
+.index-card:hover {
   border-color: var(--accent);
-  box-shadow: 0 2px 8px rgba(44,122,123,0.12);
+  box-shadow: 0 2px 8px rgba(0,113,178,0.10);
 }
 
-.dark .card-categorie {
+.dark .index-card {
   background: #1e1e2e;
   border-color: #444;
 }
 
-.card-categorie .icone {
-  font-size: 1.6rem;
-  margin-bottom: 0.5rem;
+.index-card img {
+  width: 104px;
+  height: 52px;
+  object-fit: contain;
 }
 
-.card-categorie strong {
-  display: block;
-  font-size: 0.95rem;
-  margin-bottom: 0.2rem;
-}
-
-.card-categorie span {
-  font-size: 0.8rem;
+.index-card span {
+  font-size: 0.78rem;
   color: var(--text-muted);
+  line-height: 1.3;
 }
 
-/* --- Ajustements sidebar --- */
+/* --- Sidebar --- */
 .sidebar-title {
   display: none !important;
 }
@@ -117,4 +232,24 @@ h3 {
   max-width: 100% !important;
   width: 100% !important;
   height: auto !important;
+}
+
+.sidebar-item-section > .sidebar-item-container .menu-text {
+  font-weight: 600;
+}
+
+.sidebar-item-text.sidebar-link.active {
+  color: var(--accent) !important;
+}
+
+/* --- Fil d'Ariane --- */
+.breadcrumb-item a,
+.breadcrumb-item.active {
+  color: var(--accent) !important;
+}
+
+/* --- TOC --- */
+#TOC a.active {
+  color: var(--accent) !important;
+  border-left-color: var(--accent) !important;
 }

@@ -3,65 +3,26 @@ title: ""
 toc: false
 ---
 
-Cet atlas rassemble une sélection d'outils, bases de données et références utiles à la pratique de la pharmacie hospitalière, praticiens, internes, externes ou préparateurs en pharmacie.
+```{r}
+#| include: false
+library(lubridate)
+```
 
-Il est construit et maintenu à jour à titre bénévole.
+## Présentation
+Cet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique de la pharmacie hospitalière des pharmaciens, internes, externes et préparateurs en pharmacie. L’objectif est de faciliter l’accès à des références fiables et pertinentes, afin de soutenir la pratique quotidienne, la formation et la prise de décision.
 
----
+Cet atlas est conçu, enrichi et mis à jour à titre bénévole. Malgré le soin apporté à sa construction, certaines ressources peuvent être incomplètes, obsolètes ou nécessiter des améliorations. Dans cette optique, les contributions sont les bienvenues. Vous pouvez signaler toute erreur, proposer une correction ou suggérer de nouvelles ressources de via [GitHub](https://github.com/marvinjacquet/phare/issues/new).
 
-## Catégories
+## Citation
 
-<div class="grid-categories">
+Marvin Jacquet (`r lubridate::today() |> lubridate::year()`), *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, <https://marvinjacquet.github.io/phare/>, version du `r lubridate::today() |> format(format = "%d %B %Y")`, doi : [10.5281/zenodo.13923681](https://doi.org/10.5281/zenodo.13923681).
 
-<a class="card-categorie" href="interactions.html">
-<strong>Interactions médicamenteuses</strong>
-<span>Thésaurus, cytochromes, phytothérapie, COVID-19</span>
-</a>
+## Licence
 
-<a class="card-categorie" href="adaptation.html">
-<strong>Adaptation thérapeutique</strong>
-<span>Gériatrie, pédiatrie, rein, foie, obésité, psychiatrie</span>
-</a>
+Ce document est mis à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-<a class="card-categorie" href="iatrogenic.html">
-<strong>Iatrogénie</strong>
-<span>Hépatotoxicité, cardiotoxicité, pneumotoxicité, grossesse</span>
-</a>
-
-<a class="card-categorie" href="compatibilite.html">
-<strong>Compatibilité</strong>
-<span>Stabilité et compatibilité des injectables</span>
-</a>
-
-<a class="card-categorie" href="recommandations.html">
-<strong>Recommandations</strong>
-<span>Soins palliatifs et autres référentiels</span>
-</a>
-
-<a class="card-categorie" href="etp.html">
-<strong>Éducation thérapeutique</strong>
-<span>Ressources patients et soignants</span>
-</a>
-
-<a class="card-categorie" href="pharmacologie.html">
-<strong>Pharmacologie</strong>
-<span>Cours et références de base</span>
-</a>
-
-<a class="card-categorie" href="conversions.html">
-<strong>Conversion d'unités</strong>
-<span>Opioïdes, unités biologiques, scores</span>
-</a>
-
-<a class="card-categorie" href="ruptures.html">
-<strong>Ruptures de stock</strong>
-<span>Signalement et alternatives</span>
-</a>
-
-</div>
+![](images/licence/by-nc-sa.png){width="160"}
 
 ---
 
-::: {.callout-note appearance="minimal"}
-Ce document est construit et maintenu à jour bénévolement. Certaines ressources et outils peuvent donc manquer ou nécessiter une mise à jour. N'hésitez pas à signaler toute erreur ou suggestion via [GitHub](https://github.com/marvinjacquet/phare/issues).
-:::
+Ce document est généré avec [quarto](https://quarto.org/), et son code source est disponible sur [GitHub](https://github.com/marvinjacquet/phare).
