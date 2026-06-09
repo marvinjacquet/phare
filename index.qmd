@@ -9,9 +9,9 @@ library(lubridate)
 ```
 
 ## Présentation
-Cet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique de la pharmacie hospitalière des pharmaciens, internes, externes et préparateurs en pharmacie. L’objectif est de faciliter l’accès à des références fiables et pertinentes, afin de soutenir la pratique quotidienne, la formation et la prise de décision.
+Cet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique quotidienne et formation des pharmaciens, internes, externes et préparateurs en pharmacie hospitalière.
 
-Cet atlas est conçu, enrichi et mis à jour à titre bénévole. Malgré le soin apporté à sa construction, certaines ressources peuvent être incomplètes, obsolètes ou nécessiter des améliorations. Dans cette optique, les contributions sont les bienvenues. Vous pouvez signaler toute erreur, proposer une correction ou suggérer de nouvelles ressources de via [GitHub](https://github.com/marvinjacquet/phare/issues/new).
+Il est conçu, enrichi et mis à jour bénévolement, à ce titre certaines ressources peuvent être incomplètes, obsolètes ou en cours d'implémentation. Les contributions (corrections, suggestions...) sont les bienvenues via [GitHub](https://github.com/marvinjacquet/phare/issues/new) ou par mail.
 
 ## Citation
 

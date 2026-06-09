@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
     "section": "",
-    "text": "Présentation\nCet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique de la pharmacie hospitalière des pharmaciens, internes, externes et préparateurs en pharmacie. L’objectif est de faciliter l’accès à des références fiables et pertinentes, afin de soutenir la pratique quotidienne, la formation et la prise de décision.\nCet atlas est conçu, enrichi et mis à jour à titre bénévole. Malgré le soin apporté à sa construction, certaines ressources peuvent être incomplètes, obsolètes ou nécessiter des améliorations. Dans cette optique, les contributions sont les bienvenues. Vous pouvez signaler toute erreur, proposer une correction ou suggérer de nouvelles ressources de via GitHub.",
+    "text": "Présentation\nCet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique quotidienne et formation des pharmaciens, internes, externes et préparateurs en pharmacie hospitalière.\nIl est conçu, enrichi et mis à jour bénévolement, à ce titre certaines ressources peuvent être incomplètes, obsolètes ou en cours d’implémentation. Les contributions (corrections, suggestions…) sont les bienvenues via GitHub ou par mail.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Présentation</span>"
     ]
@@ -290,8 +290,8 @@
     "section": "",
     "text": "Plateformes de signalement et de suivi des ruptures d’approvisionnement en médicaments.\n\n\nVigirupture (ANSM)\n\nVigirupture (ANSM) — Plateforme nationale de signalement et de suivi des ruptures de stock et tensions d’approvisionnement en médicaments. Permet d’anticiper et de rechercher des alternatives thérapeutiques.\n\n\n\nOncolien\n\nOncolien — Lien à compléter.",
     "crumbs": [
-      "Ressources",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ruptures de stock</span>"
+      "**Ressources**",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Ruptures de stock</span>"
     ]
   },
   {
