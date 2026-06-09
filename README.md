@@ -2,7 +2,7 @@
 
 Catalogue de ressources et d'outils utilisés en pharmacie clinique hospitalière, organisé par domaine de pratique.
 
-👉 **[Accéder au catalogue en ligne](https://VOTRE-USERNAME.github.io/VOTRE-REPO/)**
+👉 **[Accéder au catalogue en ligne](https://marvinjacquet.github.io/phare/)**
 
 ## Organisation
 
