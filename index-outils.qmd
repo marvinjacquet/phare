@@ -309,6 +309,8 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 
 </div>
 
+## Formation
+
 
 ## Calculs et Conversions
 
