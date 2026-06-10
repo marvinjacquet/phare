@@ -5,6 +5,32 @@ toc: false
 
 Vue d'ensemble de tous les outils référencés dans PHARE, organisés par catégorie.
 
+## Bases de données
+
+<div class="index-grid">
+
+<a href="basededonnees.html#bdpm" class="index-card">
+<img src="images/logos/bdpm.png" alt="BDPM">
+<span>BDPM</span>
+</a>
+
+<a href="basededonnees.html#vidal" class="index-card">
+<img src="images/logos/vidal.png" alt="Vidal">
+<span>Vidal</span>
+</a>
+
+<a href="basededonnees.html#theriaque" class="index-card">
+<img src="images/logos/theriaque.png" alt="Theriaque">
+<span>Theriaque</span>
+</a>
+
+<a href="basededonnees.html#drugs" class="index-card">
+<img src="images/logos/drugs.png" alt="Drugs">
+<span>Drugs.com</span>
+</a>
+
+</div>
+
 ## Interactions médicamenteuses
 
 <div class="index-grid">
@@ -45,8 +71,8 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 </a>
 
 <a href="interactions.html#hep-drug-interactions" class="index-card">
-<img src="images/logos/hepliverpool.png" alt="Hep Drug Interactions">
-<span>Hep Drug Interactions</span>
+<img src="images/logos/hepliverpool.png" alt="HEP Drug Interactions">
+<span>HEP Drug Interactions</span>
 </a>
 
 <a href="interactions.html#recos-paxlovid-sfpt" class="index-card">
@@ -111,6 +137,11 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 <span>SwissPedDose</span>
 </a>
 
+<a href="adaptation.html#deprescribing" class="index-card">
+<img src="images/logos/deprescribing.png" alt="Deprescribing">
+<span>Deprescribing</span>
+</a>
+
 </div>
 
 
@@ -161,6 +192,11 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 <span>Stabilis</span>
 </a>
 
+<a href="compatibilite.html#drugoptimal" class="index-card">
+<img src="images/logos/drugoptimal.png" alt="DrugOptimal">
+<span>DruOptimal</span>
+</a>
+
 </div>
 
 
@@ -176,6 +212,26 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 <a href="recommandations.html#pediadol" class="index-card">
 <img src="images/logos/pediadol.png" alt="Pediadol">
 <span>Pediadol</span>
+</a>
+
+<a href="recommandations.html#gpip" class="index-card">
+<img src="images/logos/gpip.png" alt="GPIP">
+<span>GPIP</span>
+</a>
+
+<a href="recommandations.html#urgara" class="index-card">
+<img src="images/logos/urgara.png" alt="Urgara">
+<span> Urg'Ara</span>
+</a>
+
+<a href="recommandations.html#pediara" class="index-card">
+<img src="images/logos/pediara.png" alt="Pediara">
+<span>Pedi'Ara</span>
+</a>
+
+<a href="recommandations.html#pappediatrie" class="index-card">
+<img src="images/logos/pappediatrie.png" alt="PaP Pediatrie">
+<span>PAP Pediatrie</span>
 </a>
 
 </div>
@@ -222,7 +278,7 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 </div>
 
 
-## Ruptures de stock
+## Autre
 
 <div class="index-grid">
 
@@ -234,6 +290,11 @@ Vue d'ensemble de tous les outils référencés dans PHARE, organisés par caté
 <a href="ruptures.html#meddispar" class="index-card">
 <img src="images/logos/meddispar.png" alt="Meddispar">
 <span>Meddispar</span>
+</a>
+
+<a href="ruptures.html#actip" class="index-card">
+<img src="images/logos/actip.png" alt="ActIP">
+<span>ACT IP</span>
 </a>
 
 </div>

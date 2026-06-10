@@ -222,7 +222,7 @@
     "href": "compatibilite.html",
     "title": "Compatibilité",
     "section": "",
-    "text": "Ressources pour vérifier la stabilité physicochimique et la compatibilité des médicaments injectables en milieu hospitalier.\n\nStabilis\n\n\n  \n    \n      \n    \n    \n      Stabilis\n      \n        Infostab (association française à but non lucratif)\n         Gratuit sans inscription\n        \n    \n  \n  Base de donnée internationale concernant la stabilité et les compatibilités des médicaments. Elle contient des monographies (stabilité en solution simple et mélange, facteurs affectant la stabilité...), des outils (tableaux de compatibilité) et la bibliographie associée (publications originales et informations des laboratoires).\n  \n    Détails\n    \n      Explication...\n      ![](images/screens/nom-outila.png)",
+    "text": "Ressources pour vérifier la stabilité physicochimique et la compatibilité des médicaments injectables en milieu hospitalier.\n\nStabilis\n\n\n  \n    \n      \n    \n    \n      Stabilis\n      \n        Infostab (association à but non lucratif)\n         Gratuit sans inscription\n        \n    \n  \n  Base de donnée internationale concernant la stabilité et les compatibilités des médicaments. Elle contient des monographies (stabilité en solution simple et mélange, facteurs affectant la stabilité...), des outils (tableaux de compatibilité) et la bibliographie associée (publications originales et informations des laboratoires).\n  \n    Détails\n    \n      Explication...\n      ![](images/screens/nom-outila.png)",
     "crumbs": [
       "**Outils cliniques**",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Compatibilité</span>"
@@ -370,7 +370,7 @@
     "href": "index-outils.html",
     "title": "Index des outils",
     "section": "",
-    "text": "Interactions médicamenteuses\nVue d’ensemble de tous les outils référencés dans PHARE, organisés par catégorie.",
+    "text": "Bases de données\nVue d’ensemble de tous les outils référencés dans PHARE, organisés par catégorie.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -379,8 +379,8 @@
     "objectID": "index-outils.html#interactions-médicamenteuses",
     "href": "index-outils.html#interactions-médicamenteuses",
     "title": "Index des outils",
-    "section": "",
-    "text": "Thésaurus ANSM \n  Hedrine \n  MSKCC Herbs \n  DDI Predictor \n  SuperCYPsPred \n  COVID Drug Interactions \n  HIV Drug Interactions \n  Hep Drug Interactions \n  Recos Paxlovid",
+    "section": "Interactions médicamenteuses",
+    "text": "Interactions médicamenteuses\n\n  Thésaurus ANSM \n  Hedrine \n  MSKCC Herbs \n  DDI Predictor \n  SuperCYPsPred \n  COVID Drug Interactions \n  HIV Drug Interactions \n  HEP Drug Interactions \n  Recos Paxlovid",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -390,7 +390,7 @@
     "href": "index-outils.html#adaptation-thérapeutique",
     "title": "Index des outils",
     "section": "Adaptation thérapeutique",
-    "text": "Adaptation thérapeutique\n\n  Liste préférentielle sujet âgé \n  STOPP/START v3 \n  Psychopharma \n  Psychiatrienet \n  ABXBMI \n  Adaptobese \n  GPR \n  Rx Cirrhose \n  PIMCheck \n  SwissPedDose",
+    "text": "Adaptation thérapeutique\n\n  Liste préférentielle sujet âgé \n  STOPP/START v3 \n  Psychopharma \n  Psychiatrienet \n  ABXBMI \n  Adaptobese \n  GPR \n  Rx Cirrhose \n  PIMCheck \n  SwissPedDose \n  Deprescribing",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -410,7 +410,7 @@
     "href": "index-outils.html#compatibilité",
     "title": "Index des outils",
     "section": "Compatibilité",
-    "text": "Compatibilité\n\n  Stabilis",
+    "text": "Compatibilité\n\n  Stabilis \n  DruOptimal",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -420,7 +420,7 @@
     "href": "index-outils.html#recommandations",
     "title": "Index des outils",
     "section": "Recommandations",
-    "text": "Recommandations\n\n  Palliaguide \n  Pediadol",
+    "text": "Recommandations\n\n  Palliaguide \n  Pediadol \n  GPIP \n   Urg’Ara \n  Pedi’Ara \n  PAP Pediatrie",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -460,7 +460,27 @@
     "href": "index-outils.html#ruptures-de-stock",
     "title": "Index des outils",
     "section": "Ruptures de stock",
-    "text": "Ruptures de stock\n\n  Vigirupture \n  Meddispar",
+    "text": "Ruptures de stock\n\n  Vigirupture \n  Meddispar \n  ACT IP",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#bases-de-données",
+    "href": "index-outils.html#bases-de-données",
+    "title": "Index des outils",
+    "section": "",
+    "text": "BDPM \n  Vidal \n  Theriaque \n  Drugs.com",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#autre",
+    "href": "index-outils.html#autre",
+    "title": "Index des outils",
+    "section": "Autre",
+    "text": "Autre\n\n  Vigirupture \n  Meddispar \n  ACT IP",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
