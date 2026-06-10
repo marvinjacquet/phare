@@ -82,7 +82,7 @@
     "text": "Gériatrie\nRessources pour l’adaptation posologique selon les caractéristiques du patient : âge, poids, fonction rénale ou hépatique, contexte psychiatrique ou pédiatrique.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
   {
@@ -93,7 +93,7 @@
     "text": "Liste préférentielle sujet âgé (OMEDIT)\n\nListe préférentielle sujet âgé (OMEDIT Normandie, 2026) — Livret de référence pour la prescription médicamenteuse en EHPAD. Propose une sélection de médicaments adaptés au sujet âgé fragile, organisée par classe thérapeutique.\n\n\n\nSTOPP/START v3\n\nSTOPP/START v3 — Critères européens de détection des prescriptions potentiellement inappropriées (STOPP) et des omissions de traitement (START) chez le sujet âgé. La version 3 (2023) est la référence actuelle.\n\n\n\nCritères de Beers\n\nCritères de Beers (AGS) — lien à compléter\n\n\n\nListe de Laroche\n\nListe de Laroche — Liste française de médicaments potentiellement inappropriés chez le sujet âgé. Lien à compléter.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
   {
@@ -104,7 +104,7 @@
     "text": "Psychiatrie\n\nPsychopharma\n\nPsychopharma — Outil d’aide à la prescription en psychiatrie : équivalences de doses, substitutions, gestion des arrêts et des chevauchements. Conçu pour la pratique clinique quotidienne.\n\n\n\nPsychiatrienet\n\nPsychiatrienet — Wiki collaboratif néerlandais de pharmacologie psychiatrique, riche en protocoles et données comparatives entre antipsychotiques et antidépresseurs.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
   {
@@ -115,7 +115,7 @@
     "text": "Poids & obésité\n\nABXBMI\n\nABXBMI — Calculateur d’adaptation posologique des antibiotiques en fonction du poids réel, idéal et ajusté. Particulièrement utile en réanimation et chez les patients obèses.\n\n\n\nAdaptobese\n\nAdaptobese — Outil de détermination du poids de référence à utiliser pour le calcul des doses médicamenteuses chez le patient obèse, selon les recommandations en vigueur.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
   {
@@ -126,7 +126,7 @@
     "text": "Fonction rénale\n\n\nGPR — Guide de Prescription en insuffisance Rénale\n\nGPR (Vidal) — Référence française pour l’adaptation posologique en cas d’insuffisance rénale chronique ou aiguë. Consultable par médicament ou par DCI.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
   {
@@ -137,7 +137,7 @@
     "text": "Fonction hépatique\n\nRx Cirrhose\n\nRx Cirrhose — Base de données canadienne dédiée à l’adaptation des posologies en cas de cirrhose hépatique. Classe les médicaments selon le score de Child-Pugh.\n\n\n\nRéseau canadien de déprescription\n\nRéseau canadien de déprescription — Algorithmes pratiques de déprescription médicamenteuse, notamment utiles chez les patients polymédiqués avec atteinte hépatique.\n\n\n\nPIMCheck\n\nPIMCheck (HUG) — Outil de détection des prescriptions potentiellement inappropriées, développé par les Hôpitaux Universitaires de Genève.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
   {
@@ -148,7 +148,7 @@
     "text": "Pédiatrie\n\nSwissPedDose\n\nSwissPedDose — Base de données suisse de référence pour les posologies pédiatriques, issue d’un consensus national. Couvre un large spectre de médicaments avec des recommandations adaptées par tranche d’âge et de poids.",
     "crumbs": [
       "**Outils cliniques**",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Adaptation thérapeutique</span>"
     ]
   },
   {
@@ -370,7 +370,7 @@
     "href": "index-outils.html",
     "title": "Index des outils",
     "section": "",
-    "text": "Bases de données\nVue d’ensemble de tous les outils référencés dans PHARE, organisés par catégorie.",
+    "text": "Référentiels du médicament\nIndex catégorisé de l’ensemble des outils référencés dans PHARE.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -380,7 +380,7 @@
     "href": "index-outils.html#interactions-médicamenteuses",
     "title": "Index des outils",
     "section": "Interactions médicamenteuses",
-    "text": "Interactions médicamenteuses\n\n  Thésaurus ANSM \n  Hedrine \n  MSKCC Herbs \n  DDI Predictor \n  SuperCYPsPred \n  COVID Drug Interactions \n  HIV Drug Interactions \n  HEP Drug Interactions \n  Recos Paxlovid",
+    "text": "Interactions médicamenteuses\n\n  DDI Predictor \n  SuperCYPsPred \n  Thésaurus ANSM \n  Drugs.com \n  COVID \n  HEP \n  HIV \n  Paxlovid \n  Cancer \n  Hedrine \n  MSKCC Herbs",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -420,7 +420,7 @@
     "href": "index-outils.html#recommandations",
     "title": "Index des outils",
     "section": "Recommandations",
-    "text": "Recommandations\n\n  Palliaguide \n  Pediadol \n  GPIP \n   Urg’Ara \n  Pedi’Ara \n  PAP Pediatrie",
+    "text": "Recommandations\n\n  Up2Date \n  Liste préférentielle \n  STOPP/START v3 \n  Antibioclic \n  CUEN \n  KDIGO \n  GPIP \n  PAP Pediatrie \n  Pediadol \n  Pedi’Ara \n  ERS \n  GINA \n  GOLD \n  SPLF \n  Palliaguide \n   Urg’Ara",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -480,7 +480,192 @@
     "href": "index-outils.html#autre",
     "title": "Index des outils",
     "section": "Autre",
-    "text": "Autre\n\n  Vigirupture \n  Meddispar \n  ACT IP",
+    "text": "Autre\n\n  Vigirupture \n  Meddispar \n  ACT IP \n\n  Liste préférentielle sujet âgé \n  STOPP/START v3 \n  PIMCheck \n  Deprescribing",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#référentiels-du-médicament",
+    "href": "index-outils.html#référentiels-du-médicament",
+    "title": "Index des outils",
+    "section": "",
+    "text": "BDPM \n  Drugs.com \n  Theriaque \n  Vidal \n  Pharmacomedicale",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "iatrogenie.html",
+    "href": "iatrogenie.html",
+    "title": "Iatrogénie",
+    "section": "",
+    "text": "Hépatotoxicité\nBases de données et référentiels pour identifier, documenter et prévenir les effets indésirables médicamenteux selon l’organe cible ou la situation clinique.",
+    "crumbs": [
+      "**Outils cliniques**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
+    ]
+  },
+  {
+    "objectID": "iatrogenie.html#hépatotoxicité",
+    "href": "iatrogenie.html#hépatotoxicité",
+    "title": "Iatrogénie",
+    "section": "",
+    "text": "LiverTox\n\nLiverTox (NIH) — Base de données exhaustive sur l’hépatotoxicité médicamenteuse. Pour chaque substance : description des mécanismes, cas cliniques documentés et cote de causalité.",
+    "crumbs": [
+      "**Outils cliniques**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
+    ]
+  },
+  {
+    "objectID": "iatrogenie.html#grossesse-allaitement",
+    "href": "iatrogenie.html#grossesse-allaitement",
+    "title": "Iatrogénie",
+    "section": "Grossesse & allaitement",
+    "text": "Grossesse & allaitement\n\n\nCRAT\n\nCRAT — Centre de Référence sur les Agents Tératogènes. Référence française incontournable pour évaluer le risque médicamenteux pendant la grossesse et l’allaitement, avec des fiches par molécule régulièrement mises à jour.",
+    "crumbs": [
+      "**Outils cliniques**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
+    ]
+  },
+  {
+    "objectID": "iatrogenie.html#cardiotoxicité",
+    "href": "iatrogenie.html#cardiotoxicité",
+    "title": "Iatrogénie",
+    "section": "Cardiotoxicité",
+    "text": "Cardiotoxicité\n\nCredible Meds\n\nCredible Meds — Base de données sur le risque de prolongation du QT et de torsades de pointes associé aux médicaments. Chaque substance est classée selon le niveau de preuve disponible.",
+    "crumbs": [
+      "**Outils cliniques**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
+    ]
+  },
+  {
+    "objectID": "iatrogenie.html#pneumotoxicité",
+    "href": "iatrogenie.html#pneumotoxicité",
+    "title": "Iatrogénie",
+    "section": "Pneumotoxicité",
+    "text": "Pneumotoxicité\n\nPneumotox\n\nPneumotox — Référence mondiale sur la toxicité pulmonaire des médicaments et autres substances. Permet de rechercher par médicament ou par tableau clinique (pneumopathie interstitielle, hémorragie alvéolaire, etc.).",
+    "crumbs": [
+      "**Outils cliniques**",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Iatrogénie</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#risques-iatrogènes",
+    "href": "index-outils.html#risques-iatrogènes",
+    "title": "Index des outils",
+    "section": "Risques iatrogènes",
+    "text": "Risques iatrogènes\n\n  LactMed \n  e-lactancia \n  CRAT \n  LiverTox \n  Pneumotox \n  Credible Meds",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#adaptation-posologique",
+    "href": "index-outils.html#adaptation-posologique",
+    "title": "Index des outils",
+    "section": "Adaptation posologique",
+    "text": "Adaptation posologique\n\n  Rx Cirrhose \n  GPR \n  SwissPedDose \n  ABXBMI \n  Adaptobese",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#calculateurs",
+    "href": "index-outils.html#calculateurs",
+    "title": "Index des outils",
+    "section": "Calculateurs",
+    "text": "Calculateurs\n\n  Opioconvert \n  Psychopharma \n  Psychiatrienet",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#calculs-et-conversion",
+    "href": "index-outils.html#calculs-et-conversion",
+    "title": "Index des outils",
+    "section": "Calculs et Conversion",
+    "text": "Calculs et Conversion\n\n  Opioconvert \n  Psychopharma \n  Psychiatrienet",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#calculs-et-conversions",
+    "href": "index-outils.html#calculs-et-conversions",
+    "title": "Index des outils",
+    "section": "Calculs et Conversions",
+    "text": "Calculs et Conversions\n\n  Opioconvert \n  MDCalc \n  Psychiatrienet \n  Psychopharma",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#disponibilité-et-accès-aux-médicaments",
+    "href": "index-outils.html#disponibilité-et-accès-aux-médicaments",
+    "title": "Index des outils",
+    "section": "Disponibilité et accès aux médicaments",
+    "text": "Disponibilité et accès aux médicaments\n\n  AAC / AAP \n  Meddispar \n  Vigirupture",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#autres",
+    "href": "index-outils.html#autres",
+    "title": "Index des outils",
+    "section": "Autres",
+    "text": "Autres\n\n  ACT IP",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#déprescription-et-personnes-âgées",
+    "href": "index-outils.html#déprescription-et-personnes-âgées",
+    "title": "Index des outils",
+    "section": "Déprescription et Personnes âgées",
+    "text": "Déprescription et Personnes âgées\n\n  Liste préférentielle sujet âgé \n  STOPP/START v3 \n  PIMCheck \n  Deprescribing",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#compatibilité-et-stabilité",
+    "href": "index-outils.html#compatibilité-et-stabilité",
+    "title": "Index des outils",
+    "section": "Compatibilité et Stabilité",
+    "text": "Compatibilité et Stabilité\n\n  Stabilis \n  DruOptimal",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#adaptation-posologique-1",
+    "href": "index-outils.html#adaptation-posologique-1",
+    "title": "Index des outils",
+    "section": "Adaptation posologique",
+    "text": "Adaptation posologique\n\n\nInsuffisance rénale\n\n\n&lt;a href=\"adaptation.html#gpr\" class=\"index-card\"&gt;\n  &lt;img src=\"images/logos/gpr.png\" alt=\"GPR\"&gt;\n  &lt;span&gt;GPR&lt;/span&gt;\n&lt;/a&gt;\n\n\n\n\nInsuffisance hépatique\n\n\n&lt;a href=\"adaptation.html#rx-cirrhose\" class=\"index-card\"&gt;\n  &lt;img src=\"images/logos/rxcirrhose.png\" alt=\"Rx Cirrhose\"&gt;\n  &lt;span&gt;Rx Cirrhose&lt;/span&gt;\n&lt;/a&gt;\n\n\n\n\nObésité\n\n\n&lt;a href=\"adaptation.html#abxbmi\" class=\"index-card\"&gt;\n  &lt;img src=\"images/logos/abxbmi.png\" alt=\"ABXBMI\"&gt;\n  &lt;span&gt;ABXBMI&lt;/span&gt;\n&lt;/a&gt;\n&lt;a href=\"adaptation.html#adaptobese\" class=\"index-card\"&gt;\n  &lt;img src=\"images/logos/adaptobese.png\" alt=\"Adaptobese\"&gt;\n  &lt;span&gt;Adaptobese&lt;/span&gt;\n&lt;/a&gt;\n\n\n\n\nPédiatrie\n\n\n&lt;a href=\"adaptation.html#swisspeddose\" class=\"index-card\"&gt;\n  &lt;img src=\"images/logos/swisspeddose.png\" alt=\"SwissPedDose\"&gt;\n  &lt;span&gt;SwissPedDose&lt;/span&gt;\n&lt;/a&gt;\n\n\n:::",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#déprescription",
+    "href": "index-outils.html#déprescription",
+    "title": "Index des outils",
+    "section": "Déprescription",
+    "text": "Déprescription\n\n  PIMCheck \n  Deprescribing \n  Réseau Can.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#compatibilité-physico-chimique",
+    "href": "index-outils.html#compatibilité-physico-chimique",
+    "title": "Index des outils",
+    "section": "Compatibilité physico-chimique",
+    "text": "Compatibilité physico-chimique\n\n  Stabilis \n  DruOptimal",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]

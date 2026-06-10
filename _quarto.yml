@@ -31,7 +31,7 @@ book:
       chapters:
         - interactions.qmd
         - adaptation.qmd
-        - iatrogenic.qmd
+        - iatrogenie.qmd
         - compatibilite.qmd
     - part: "**Ressources**"
       chapters:
