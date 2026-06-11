@@ -420,7 +420,7 @@
     "href": "index-outils.html#recommandations",
     "title": "Index des outils",
     "section": "Recommandations",
-    "text": "Recommandations\n\n  Up2Date \n  Liste préférentielle \n  STOPP/START v3 \n  Antibioclic \n  CUEN \n  KDIGO \n  GPIP \n  PAP Pediatrie \n  Pediadol \n  Pedi’Ara \n  ERS \n  GINA \n  GOLD \n  SPLF \n  Palliaguide \n   Urg’Ara",
+    "text": "Recommandations\n\n  Up2Date \n  SFPC \n  Liste préférentielle \n  SFGG \n  STOPP/START v3 \n  GEMMAT \n  Antibioclic \n  SPILF \n  Vacc. Info. \n  CUEN \n  KDIGO \n  ESCO \n  ESMO \n  SFPO \n  GFRUP \n  GPTROP \n  GPIP \n  PAP Pediatrie \n  Pediadol \n  Pedi’Ara \n  SFCE \n  SFP \n  SOFREMIP \n  ERS \n  GINA \n  GOLD \n  SPLF \n  Palliaguide \n   Urg’Ara",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]
@@ -666,6 +666,16 @@
     "title": "Index des outils",
     "section": "Compatibilité physico-chimique",
     "text": "Compatibilité physico-chimique\n\n  Stabilis \n  DruOptimal",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
+    ]
+  },
+  {
+    "objectID": "index-outils.html#formation",
+    "href": "index-outils.html#formation",
+    "title": "Index des outils",
+    "section": "Formation",
+    "text": "Formation",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
     ]

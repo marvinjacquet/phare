@@ -177,9 +177,19 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <span>Up2Date</span>
 </a>
 
+<a href="adaptation.html#sfpc" class="index-card" data-cat=" ">
+<img src="images/logos/sfpc.png" alt="sfpc">
+<span>SFPC</span>
+</a>
+
 <a href="adaptation.html#liste-préférentielle-sujet-âgé-omedit" class="index-card" data-cat="Gériatrie">
 <img src="images/logos/omedit.png" alt="OMEDIT">
 <span>Liste préférentielle</span>
+</a>
+
+<a href="adaptation.html#sfgg" class="index-card" data-cat=" ">
+<img src="images/logos/sfgg.png" alt="SFGG">
+<span>SFGG</span>
 </a>
 
 <a href="adaptation.html#stoppstart-v3" class="index-card" data-cat=" ">
@@ -187,9 +197,24 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <span>STOPP/START v3</span>
 </a>
 
+<a href="adaptation.html#GEMMAT" class="index-card" data-cat="Hématologie">
+<img src="images/logos/gemmat.png" alt="GEMMAT">
+<span>GEMMAT</span>
+</a>
+
 <a href="adaptation.html#antibioclic" class="index-card" data-cat="Infectiologie">
 <img src="images/logos/antibioclic.png" alt="Antibioclic">
 <span>Antibioclic</span>
+</a>
+
+<a href="adaptation.html#spilf" class="index-card" data-cat=" ">
+<img src="images/logos/spilf.png" alt="SPILF">
+<span>SPILF</span>
+</a>
+
+<a href="adaptation.html#vaccination" class="index-card" data-cat=" ">
+<img src="images/logos/vaccinationinfoservice.png" alt="Vaccin">
+<span>Vacc. Info.</span>
 </a>
 
 <a href="adaptation.html#cuen" class="index-card" data-cat="Néphrologie">
@@ -202,7 +227,32 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <span>KDIGO</span>
 </a>
 
-<a href="recommandations.html#gpip" class="index-card" data-cat="Pédiatrie">
+<a href="adaptation.html#esco" class="index-card" data-cat="Oncologie">
+<img src="images/logos/esco.png" alt="ESCO">
+<span>ESCO</span>
+</a>
+
+<a href="adaptation.html#esmo" class="index-card" data-cat=" ">
+<img src="images/logos/esmo.png" alt="ESMO">
+<span>ESMO</span>
+</a>
+
+<a href="adaptation.html#sfpo" class="index-card" data-cat=" ">
+<img src="images/logos/sfpo.png" alt="SFPO">
+<span>SFPO</span>
+</a>
+
+<a href="recommandations.html#gfrup" class="index-card" data-cat="Pédiatrie">
+<img src="images/logos/gfrup.png" alt="GFRUP">
+<span>GFRUP</span>
+</a>
+
+<a href="recommandations.html#gptrop" class="index-card" data-cat=" ">
+<img src="images/logos/gptrop.png" alt="GPTROP">
+<span>GPTROP</span>
+</a>
+
+<a href="recommandations.html#gpip" class="index-card" data-cat=" ">
 <img src="images/logos/gpip.png" alt="GPIP">
 <span>GPIP</span>
 </a>
@@ -220,6 +270,21 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <a href="recommandations.html#pediara" class="index-card" data-cat=" ">
 <img src="images/logos/pediara.png" alt="Pediara">
 <span>Pedi'Ara</span>
+</a>
+
+<a href="recommandations.html#sfce" class="index-card" data-cat=" ">
+<img src="images/logos/sfce.png" alt="SFCE">
+<span>SFCE</span>
+</a>
+
+<a href="recommandations.html#SFP" class="index-card" data-cat=" ">
+<img src="images/logos/sfp.png" alt="SFP">
+<span>SFP</span>
+</a>
+
+<a href="recommandations.html#sofremip" class="index-card" data-cat=" ">
+<img src="images/logos/sofremip.png" alt="SOFREMIP">
+<span>SOFREMIP</span>
 </a>
 
 <a href="recommandations.html#ers" class="index-card" data-cat="Pneumologie">

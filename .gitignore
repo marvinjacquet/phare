@@ -1,2 +1,8 @@
 /.quarto/
 **/*.quarto_ipynb
+
+# Fichiers générés au render (libs JS/CSS, figures)
+*_files/
+
+# Cache OS
+.DS_Store
