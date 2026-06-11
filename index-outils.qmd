@@ -194,7 +194,7 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 
 <a href="adaptation.html#stoppstart-v3" class="index-card" data-cat=" ">
 <img src="images/logos/stopp.png" alt="STOPP/START">
-<span>STOPP/START v3</span>
+<span>STOPP/START v.3</span>
 </a>
 
 <a href="adaptation.html#GEMMAT" class="index-card" data-cat="Hématologie">
