@@ -41,7 +41,12 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 
 <div class="index-grid">
 
-<a href="interactions.html#ddi-predictor" class="index-card" data-cat="Cytochromes">
+<a href="interactions.html#clinicalph" class="index-card" data-cat="Cytochromes">
+<img src="images/logos/clinicalpharmacologyschool.png" alt="Clin. Pharm. SoM">
+<span>Clin. Pharm. SoM</span>
+</a>
+
+<a href="interactions.html#ddi-predictor" class="index-card" data-cat=" ">
 <img src="images/logos/ddi_predictor.png" alt="DDI Predictor">
 <span>DDI Predictor</span>
 </a>
@@ -94,6 +99,11 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <a href="interactions.html#mskcc-herbs" class="index-card" data-cat=" ">
 <img src="images/logos/mskcc.png" alt="MSKCC Herbs">
 <span>MSKCC Herbs</span>
+</a>
+
+<a href="interactions.html#natmed" class="index-card" data-cat=" ">
+<img src="images/logos/natmed.png" alt="NatMed">
+<span>NatMed</span>
 </a>
 
 </div>
@@ -155,6 +165,11 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <span>SwissPedDose</span>
 </a>
 
+<a href="adaptation.html#clinpgx" class="index-card" data-cat="Génomique">
+<img src="images/logos/clinpgx.png" alt="ClinPGx">
+<span>ClinPGx</span>
+</a>
+
 <a href="adaptation.html#abxbmi" class="index-card" data-cat="Surpoids">
 <img src="images/logos/abxbmi.png" alt="ABXBMI">
 <span>ABXBMI</span>
@@ -172,6 +187,16 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 
 <div class="index-grid">
 
+<a href="adaptation.html#sfd" class="index-card" data-cat="Diabétologie">
+<img src="images/logos/sfd.png" alt="SFD">
+<span>SFD</span>
+</a>
+
+<a href="adaptation.html#esc" class="index-card" data-cat="Cardiologie">
+<img src="images/logos/esc.png" alt="ESC">
+<span>ESC</span>
+</a>
+
 <a href="adaptation.html#uptodate" class="index-card" data-cat="Général">
 <img src="images/logos/uptodate.png" alt="uptodate">
 <span>Up2Date</span>
@@ -180,6 +205,11 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <a href="adaptation.html#sfpc" class="index-card" data-cat=" ">
 <img src="images/logos/sfpc.png" alt="sfpc">
 <span>SFPC</span>
+</a>
+
+<a href="adaptation.html#hug" class="index-card" data-cat=" ">
+<img src="images/logos/hug.png" alt="hug">
+<span>HUG</span>
 </a>
 
 <a href="adaptation.html#liste-préférentielle-sujet-âgé-omedit" class="index-card" data-cat="Gériatrie">
@@ -200,6 +230,16 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <a href="adaptation.html#GEMMAT" class="index-card" data-cat="Hématologie">
 <img src="images/logos/gemmat.png" alt="GEMMAT">
 <span>GEMMAT</span>
+</a>
+
+<a href="adaptation.html#thromboclic" class="index-card" data-cat=" ">
+<img src="images/logos/thromboclic.png" alt="Thromboclic">
+<span>Thromboclic</span>
+</a>
+
+<a href="adaptation.html#SNFGE" class="index-card" data-cat="Hépatologie">
+<img src="images/logos/snfge.png" alt="SNFGE">
+<span>SNFGE</span>
 </a>
 
 <a href="adaptation.html#antibioclic" class="index-card" data-cat="Infectiologie">
@@ -307,6 +347,11 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <span>SPLF</span>
 </a>
 
+<a href="recommandations.html#psychoactif" class="index-card" data-cat="Psychiatrie">
+<img src="images/logos/psychoactif.png" alt="psychoactif">
+<span>Psychoactif</span>
+</a>
+
 <a href="recommandations.html#palliaguide" class="index-card" data-cat="Soins pal.">
 <img src="images/logos/palliaguide.png" alt="Palliaguide">
 <span>Palliaguide</span>
@@ -374,8 +419,17 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 
 </div>
 
+
 ## Formation
 
+<div class="index-grid">
+
+<a href="etp.html#EuroPharmat-splf" class="index-card" data-cat="DM">
+<img src="images/logos/europharmat.png" alt="EuroPharmat">
+<span>EuroPharmat</span>
+</a>
+
+</div>
 
 ## Calculs et Conversions
 
@@ -389,6 +443,11 @@ Index catégorisé de l'ensemble des outils référencés dans PHARE.
 <a href="conversions.html#mdcalc" class="index-card" data-cat="Calculateur">
 <img src="images/logos/mdcalc.png" alt="MDCalc">
 <span>MDCalc</span>
+</a>
+
+<a href="adaptation.html#compendiumch" class="index-card" data-cat="Equivalence">
+<img src="images/logos/compendiumch.png" alt="compendiumch">
+<span>Compendium CH</span>
 </a>
 
 <a href="adaptation.html#psychiatrienet" class="index-card" data-cat="Psychiatrie">

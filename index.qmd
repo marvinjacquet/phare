@@ -9,20 +9,21 @@ library(lubridate)
 ```
 
 ## Présentation
+
 Cet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique quotidienne et formation des pharmaciens, internes, externes et préparateurs en pharmacie hospitalière.
 
 Il est conçu, enrichi et mis à jour bénévolement, à ce titre certaines ressources peuvent être incomplètes, obsolètes ou en cours d'implémentation. Les contributions (corrections, suggestions...) sont les bienvenues via [GitHub](https://github.com/marvinjacquet/phare/issues/new) ou par mail.
 
 ## Citation
 
-Marvin Jacquet (`r lubridate::today() |> lubridate::year()`), *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, <https://marvinjacquet.github.io/phare/>, version du `r lubridate::today() |> format(format = "%d %B %Y")`, doi : [10.5281/zenodo.13923681](https://doi.org/10.5281/zenodo.20612426).
+Marvin Jacquet (`r lubridate::today() |> lubridate::year()`), *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, <https://marvinjacquet.github.io/phare/>, version du `r lubridate::today() |> format(format = "%d %B %Y")`, doi : [10.5281/zenodo.20612426](https://doi.org/10.5281/zenodo.20612426).
 
 ## Licence
 
 Ce document est mis à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![](images/licence/by-nc-sa.png){width="160"}
+[![forthebadge cc-nc-sa](http://ForTheBadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
----
+------------------------------------------------------------------------
 
 Ce document est généré avec [quarto](https://quarto.org/), et son code source est disponible sur [GitHub](https://github.com/marvinjacquet/phare).

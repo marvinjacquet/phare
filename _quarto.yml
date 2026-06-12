@@ -15,6 +15,9 @@ book:
   date: last-modified
   date-format: "DD MMMM YYYY"
   doi: 10.5281/zenodo.20612426
+  repo-branch: main
+  repo-url: https://github.com/marvinjacquet/phare
+  repo-actions: [issue]
   language: fr
 
   sidebar:
@@ -26,15 +29,15 @@ book:
 
   chapters:
     - index.qmd
-    - index-outils.qmd
-    - part: "**Outils cliniques**"
+    - part: "**Par spécialité**"
       chapters:
         - interactions.qmd
         - adaptation.qmd
         - iatrogenie.qmd
         - compatibilite.qmd
-    - part: "**Ressources**"
+    - part: "**Par type**"
       chapters:
+        - index-outils.qmd
         - recommandations.qmd
         - etp.qmd
         - pharmacologie.qmd

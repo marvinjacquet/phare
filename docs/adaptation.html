@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Marvin JACQUET">
 
-<title>Pharmacie Hospitalière - Atlas des Ressources Essentielles</title>
+<title>Adaptation thérapeutique – Pharmacie Hospitalière - Atlas des Ressources Essentielles</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./index-outils.html" rel="next">
+<link href="./iatrogenie.html" rel="next">
+<link href="./interactions.html" rel="prev">
 <link href="./images/favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-sidebar docked quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -252,7 +252,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Basculer la barre latérale" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-title">Présentation</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./interactions.html"><strong>Outils cliniques</strong></a></li><li class="breadcrumb-item"><a href="./adaptation.html"><span class="chapter-title">Adaptation thérapeutique</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Basculer la barre latérale" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Recherche" onclick="window.quartoOpenSearch();">
@@ -287,7 +287,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Présentation</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Présentation</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -311,7 +311,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./adaptation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Adaptation thérapeutique</span></a>
+  <a href="./adaptation.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Adaptation thérapeutique</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -367,43 +367,61 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#gériatrie" id="toc-gériatrie" class="nav-link active" data-scroll-target="#gériatrie">Gériatrie</a>
+  <ul class="collapse">
+  <li><a href="#liste-préférentielle-sujet-âgé-omedit" id="toc-liste-préférentielle-sujet-âgé-omedit" class="nav-link" data-scroll-target="#liste-préférentielle-sujet-âgé-omedit">Liste préférentielle sujet âgé (OMEDIT)</a></li>
+  <li><a href="#stoppstart-v3" id="toc-stoppstart-v3" class="nav-link" data-scroll-target="#stoppstart-v3">STOPP/START v3</a></li>
+  <li><a href="#critères-de-beers" id="toc-critères-de-beers" class="nav-link" data-scroll-target="#critères-de-beers">Critères de Beers</a></li>
+  <li><a href="#liste-de-laroche" id="toc-liste-de-laroche" class="nav-link" data-scroll-target="#liste-de-laroche">Liste de Laroche</a></li>
+  </ul></li>
+  <li><a href="#psychiatrie" id="toc-psychiatrie" class="nav-link" data-scroll-target="#psychiatrie">Psychiatrie</a>
+  <ul class="collapse">
+  <li><a href="#psychopharma" id="toc-psychopharma" class="nav-link" data-scroll-target="#psychopharma">Psychopharma</a></li>
+  <li><a href="#psychiatrienet" id="toc-psychiatrienet" class="nav-link" data-scroll-target="#psychiatrienet">Psychiatrienet</a></li>
+  </ul></li>
+  <li><a href="#poids-obésité" id="toc-poids-obésité" class="nav-link" data-scroll-target="#poids-obésité">Poids &amp; obésité</a>
+  <ul class="collapse">
+  <li><a href="#abxbmi" id="toc-abxbmi" class="nav-link" data-scroll-target="#abxbmi">ABXBMI</a></li>
+  <li><a href="#adaptobese" id="toc-adaptobese" class="nav-link" data-scroll-target="#adaptobese">Adaptobese</a></li>
+  </ul></li>
+  <li><a href="#fonction-rénale" id="toc-fonction-rénale" class="nav-link" data-scroll-target="#fonction-rénale">Fonction rénale</a>
+  <ul class="collapse">
+  <li><a href="#gpr-guide-de-prescription-en-insuffisance-rénale" id="toc-gpr-guide-de-prescription-en-insuffisance-rénale" class="nav-link" data-scroll-target="#gpr-guide-de-prescription-en-insuffisance-rénale">GPR — Guide de Prescription en insuffisance Rénale</a></li>
+  </ul></li>
+  <li><a href="#fonction-hépatique" id="toc-fonction-hépatique" class="nav-link" data-scroll-target="#fonction-hépatique">Fonction hépatique</a>
+  <ul class="collapse">
+  <li><a href="#rx-cirrhose" id="toc-rx-cirrhose" class="nav-link" data-scroll-target="#rx-cirrhose">Rx Cirrhose</a></li>
+  <li><a href="#réseau-canadien-de-déprescription" id="toc-réseau-canadien-de-déprescription" class="nav-link" data-scroll-target="#réseau-canadien-de-déprescription">Réseau canadien de déprescription</a></li>
+  <li><a href="#pimcheck" id="toc-pimcheck" class="nav-link" data-scroll-target="#pimcheck">PIMCheck</a></li>
+  </ul></li>
+  <li><a href="#pédiatrie" id="toc-pédiatrie" class="nav-link" data-scroll-target="#pédiatrie">Pédiatrie</a>
+  <ul class="collapse">
+  <li><a href="#swisspeddose" id="toc-swisspeddose" class="nav-link" data-scroll-target="#swisspeddose">SwissPedDose</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/marvinjacquet/phare/issues/new" class="toc-action"><i class="bi bi-github"></i>Faire part d'un problème</a></li></ul></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./interactions.html"><strong>Outils cliniques</strong></a></li><li class="breadcrumb-item"><a href="./adaptation.html"><span class="chapter-title">Adaptation thérapeutique</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Pharmacie Hospitalière - Atlas des Ressources Essentielles</h1>
+<h1 class="title"><span class="chapter-title">Adaptation thérapeutique</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Auteur·rice</div>
-    <div class="quarto-title-meta-contents">
-             <p><a href="https://marvinjacquet.github.io/">Marvin JACQUET</a> <a href="https://orcid.org/0000-0002-9890-7908" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Date de publication</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">12 juin 2026</p>
-    </div>
-  </div>
   
     
-    <div>
-    <div class="quarto-title-meta-heading">Doi</div>
-    <div class="quarto-title-meta-contents">
-      <p class="doi">
-        <a href="https://doi.org/10.5281/zenodo.20612426">10.5281/zenodo.20612426</a>
-      </p>
-    </div>
-  </div>
   </div>
   
 
@@ -411,28 +429,112 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="présentation" class="level2">
-<h2 class="anchored" data-anchor-id="présentation">Présentation</h2>
-<p>Cet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique quotidienne et formation des pharmaciens, internes, externes et préparateurs en pharmacie hospitalière.</p>
-<p>Il est conçu, enrichi et mis à jour bénévolement, à ce titre certaines ressources peuvent être incomplètes, obsolètes ou en cours d’implémentation. Les contributions (corrections, suggestions…) sont les bienvenues via <a href="https://github.com/marvinjacquet/phare/issues/new">GitHub</a> ou par mail.</p>
+<p>Ressources pour l’adaptation posologique selon les caractéristiques du patient : âge, poids, fonction rénale ou hépatique, contexte psychiatrique ou pédiatrique.</p>
+<hr>
+<section id="gériatrie" class="level2">
+<h2 class="anchored" data-anchor-id="gériatrie">Gériatrie</h2>
+<!-- ![](images/geriatrie.png){width=120px} -->
+<section id="liste-préférentielle-sujet-âgé-omedit" class="level3">
+<h3 class="anchored" data-anchor-id="liste-préférentielle-sujet-âgé-omedit">Liste préférentielle sujet âgé (OMEDIT)</h3>
+<div class="outil">
+<p><strong><a href="https://www.omedit-paysdelaloire.fr/wp-content/uploads/2026/04/livret-ref-ehpad_omedit-01-2026.pdf">Liste préférentielle sujet âgé</a></strong> (OMEDIT Normandie, 2026) — Livret de référence pour la prescription médicamenteuse en EHPAD. Propose une sélection de médicaments adaptés au sujet âgé fragile, organisée par classe thérapeutique.</p>
+</div>
 </section>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<p>Marvin Jacquet (2026), <em>PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles</em>, <a href="https://marvinjacquet.github.io/phare/" class="uri">https://marvinjacquet.github.io/phare/</a>, version du 12 juin 2026, doi&nbsp;: <a href="https://doi.org/10.5281/zenodo.20612426">10.5281/zenodo.20612426</a>.</p>
+<section id="stoppstart-v3" class="level3">
+<h3 class="anchored" data-anchor-id="stoppstart-v3">STOPP/START v3</h3>
+<div class="outil">
+<p><strong><a href="https://link.springer.com/article/10.1007/s41999-023-00777-y">STOPP/START v3</a></strong> — Critères européens de détection des prescriptions potentiellement inappropriées (STOPP) et des omissions de traitement (START) chez le sujet âgé. La version 3 (2023) est la référence actuelle.</p>
+</div>
 </section>
-<section id="licence" class="level2">
-<h2 class="anchored" data-anchor-id="licence">Licence</h2>
-<p>Ce document est mis à disposition selon les termes de la <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0"><img src="http://ForTheBadge.com/images/badges/cc-nc-sa.svg" class="img-fluid figure-img"></a></p>
-<figcaption>forthebadge cc-nc-sa</figcaption>
-</figure>
+<section id="critères-de-beers" class="level3">
+<h3 class="anchored" data-anchor-id="critères-de-beers">Critères de Beers</h3>
+<div class="outil">
+<p><a href="https://www.americangeriatrics.org/media-center/news/updated-ags-beers-criteriar-publication-journal-american-geriatrics-society">Critères de Beers</a> (AGS) — <em>lien à compléter</em></p>
+</div>
+</section>
+<section id="liste-de-laroche" class="level3">
+<h3 class="anchored" data-anchor-id="liste-de-laroche">Liste de Laroche</h3>
+<div class="outil">
+<p><strong>Liste de Laroche</strong> — Liste française de médicaments potentiellement inappropriés chez le sujet âgé. <em>Lien à compléter.</em></p>
 </div>
 <hr>
-<p>Ce document est généré avec <a href="https://quarto.org/">quarto</a>, et son code source est disponible sur <a href="https://github.com/marvinjacquet/phare">GitHub</a>.</p>
+</section>
+</section>
+<section id="psychiatrie" class="level2">
+<h2 class="anchored" data-anchor-id="psychiatrie">Psychiatrie</h2>
+<section id="psychopharma" class="level3">
+<h3 class="anchored" data-anchor-id="psychopharma">Psychopharma</h3>
+<div class="outil">
+<p><strong><a href="https://www.psychopharma.fr/">Psychopharma</a></strong> — Outil d’aide à la prescription en psychiatrie : équivalences de doses, substitutions, gestion des arrêts et des chevauchements. Conçu pour la pratique clinique quotidienne.</p>
+</div>
+</section>
+<section id="psychiatrienet" class="level3">
+<h3 class="anchored" data-anchor-id="psychiatrienet">Psychiatrienet</h3>
+<div class="outil">
+<p><strong><a href="https://wiki.psychiatrienet.nl/wiki/Main_Page">Psychiatrienet</a></strong> — Wiki collaboratif néerlandais de pharmacologie psychiatrique, riche en protocoles et données comparatives entre antipsychotiques et antidépresseurs.</p>
+</div>
+<hr>
+</section>
+</section>
+<section id="poids-obésité" class="level2">
+<h2 class="anchored" data-anchor-id="poids-obésité">Poids &amp; obésité</h2>
+<section id="abxbmi" class="level3">
+<h3 class="anchored" data-anchor-id="abxbmi">ABXBMI</h3>
+<div class="outil">
+<p><strong><a href="https://abxbmi.com/fr/">ABXBMI</a></strong> — Calculateur d’adaptation posologique des antibiotiques en fonction du poids réel, idéal et ajusté. Particulièrement utile en réanimation et chez les patients obèses.</p>
+</div>
+</section>
+<section id="adaptobese" class="level3">
+<h3 class="anchored" data-anchor-id="adaptobese">Adaptobese</h3>
+<div class="outil">
+<p><strong><a href="https://adaptobese.com/calculator">Adaptobese</a></strong> — Outil de détermination du poids de référence à utiliser pour le calcul des doses médicamenteuses chez le patient obèse, selon les recommandations en vigueur.</p>
+</div>
+<hr>
+</section>
+</section>
+<section id="fonction-rénale" class="level2">
+<h2 class="anchored" data-anchor-id="fonction-rénale">Fonction rénale</h2>
+<!-- ![](images/rein.png){width=120px} -->
+<section id="gpr-guide-de-prescription-en-insuffisance-rénale" class="level3">
+<h3 class="anchored" data-anchor-id="gpr-guide-de-prescription-en-insuffisance-rénale">GPR — Guide de Prescription en insuffisance Rénale</h3>
+<div class="outil">
+<p><strong><a href="https://www.vidal.fr/gpr.html">GPR</a></strong> (Vidal) — Référence française pour l’adaptation posologique en cas d’insuffisance rénale chronique ou aiguë. Consultable par médicament ou par DCI.</p>
+</div>
+<hr>
+</section>
+</section>
+<section id="fonction-hépatique" class="level2">
+<h2 class="anchored" data-anchor-id="fonction-hépatique">Fonction hépatique</h2>
+<section id="rx-cirrhose" class="level3">
+<h3 class="anchored" data-anchor-id="rx-cirrhose">Rx Cirrhose</h3>
+<div class="outil">
+<p><strong><a href="https://www.rxcirrhose.ca/?hl=fr">Rx Cirrhose</a></strong> — Base de données canadienne dédiée à l’adaptation des posologies en cas de cirrhose hépatique. Classe les médicaments selon le score de Child-Pugh.</p>
+</div>
+</section>
+<section id="réseau-canadien-de-déprescription" class="level3">
+<h3 class="anchored" data-anchor-id="réseau-canadien-de-déprescription">Réseau canadien de déprescription</h3>
+<div class="outil">
+<p><strong><a href="https://www.reseaudeprescription.ca/algorithmes">Réseau canadien de déprescription</a></strong> — Algorithmes pratiques de déprescription médicamenteuse, notamment utiles chez les patients polymédiqués avec atteinte hépatique.</p>
+</div>
+</section>
+<section id="pimcheck" class="level3">
+<h3 class="anchored" data-anchor-id="pimcheck">PIMCheck</h3>
+<div class="outil">
+<p><strong><a href="https://www.pimcheck.org/">PIMCheck</a></strong> (HUG) — Outil de détection des prescriptions potentiellement inappropriées, développé par les Hôpitaux Universitaires de Genève.</p>
+</div>
+<hr>
+</section>
+</section>
+<section id="pédiatrie" class="level2">
+<h2 class="anchored" data-anchor-id="pédiatrie">Pédiatrie</h2>
+<section id="swisspeddose" class="level3">
+<h3 class="anchored" data-anchor-id="swisspeddose">SwissPedDose</h3>
+<div class="outil">
+<p><strong><a href="https://db.swisspeddose.ch/fr/search">SwissPedDose</a></strong> — Base de données suisse de référence pour les posologies pédiatriques, issue d’un consensus national. Couvre un large spectre de médicaments avec des recommandations adaptées par tranche d’âge et de poids.</p>
+</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -851,10 +953,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./interactions.html" class="pagination-link" aria-label="Interactions médicamenteuses">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Interactions médicamenteuses</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./index-outils.html" class="pagination-link" aria-label="Index des outils">
-        <span class="nav-page-text"><span class="chapter-title">Index des outils</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./iatrogenie.html" class="pagination-link" aria-label="Iatrogénie">
+        <span class="nav-page-text"><span class="chapter-title">Iatrogénie</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -863,5 +968,5 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/marvinjacquet/phare/issues/new" class="toc-action"><i class="bi bi-github"></i>Faire part d'un problème</a></li></ul></div></div></div></footer><script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/marvinjacquet/phare/issues/new" class="toc-action"><i class="bi bi-github"></i>Faire part d'un problème</a></li></ul></div></div></div></footer><script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
