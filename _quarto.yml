@@ -29,15 +29,42 @@ book:
 
   chapters:
     - index.qmd
-    - part: "**Par spécialité**"
+    - index-outils.qmd
+    - part: "**1. Référentiels**"
+      chapters: 
+        - referentiels/filler.qmd
+    - part: "**2. Interactions**"
+      chapters: 
+        - interactions/filler.qmd
+    - part: "**3. Iatrogénie**"
+      chapters: 
+        - iatrogenie/filler.qmd
+    - part: "**Adaptation posologique**"
+      chapters: 
+        - adaptation/filler.qmd  
+    - part: "**Déprescription**"
+      chapters: 
+        - deprescription/filler.qmd
+    - part: "**Stabilité physico-chimique**"
+      chapters: 
+        - stabilite/filler.qmd 
+    - part: "**Education thérapeutique**"
+      chapters: 
+        - education/filler.qmd 
+    - part: "**Calculs et conversions**"
+      chapters: 
+        - calculs/filler.qmd
+    - part: "**Recommandations**"
+      chapters: 
+        - recommandations/filler.qmd
+    - part: "**Disponibilité et accès**"
+      chapters: 
+        - disponibilite/filler.qmd
+    - part: "**Autres outils**"
       chapters:
-        - interactions.qmd
-        - adaptation.qmd
-        - iatrogenie.qmd
-        - compatibilite.qmd
-    - part: "**Par type**"
+        - autre/filler.qmd
+    - part: "**Archive**"
       chapters:
-        - index-outils.qmd
         - recommandations.qmd
         - etp.qmd
         - pharmacologie.qmd
