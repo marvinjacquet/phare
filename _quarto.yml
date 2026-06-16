@@ -29,47 +29,37 @@ book:
 
   chapters:
     - index.qmd
-    - index-outils.qmd
-    - part: "**1. Référentiels**"
+    - part: "**Outils**"
       chapters: 
-        - referentiels/filler.qmd
-    - part: "**2. Interactions**"
-      chapters: 
-        - interactions/filler.qmd
-    - part: "**3. Iatrogénie**"
-      chapters: 
-        - iatrogenie/filler.qmd
-    - part: "**Adaptation posologique**"
-      chapters: 
-        - adaptation/filler.qmd  
-    - part: "**Déprescription**"
-      chapters: 
-        - deprescription/filler.qmd
-    - part: "**Stabilité physico-chimique**"
-      chapters: 
-        - stabilite/filler.qmd 
-    - part: "**Education thérapeutique**"
-      chapters: 
-        - education/filler.qmd 
-    - part: "**Calculs et conversions**"
-      chapters: 
-        - calculs/filler.qmd
+        - index-outils.qmd
+        - outils/referentiels.qmd
+        - outils/interactions.qmd
+        - outils/iatrogenie.qmd
+        - outils/adaptation.qmd
+        - outils/compatibilite.qmd
+        - outils/deprescription.qmd
+        - outils/education.qmd
+        - outils/formation.qmd
+        - outils/calculs.qmd
+        - outils/disponibilite.qmd
+        - outils/autre.qmd
     - part: "**Recommandations**"
       chapters: 
-        - recommandations/filler.qmd
-    - part: "**Disponibilité et accès**"
-      chapters: 
-        - disponibilite/filler.qmd
-    - part: "**Autres outils**"
-      chapters:
-        - autre/filler.qmd
-    - part: "**Archive**"
-      chapters:
-        - recommandations.qmd
-        - etp.qmd
-        - pharmacologie.qmd
-        - conversions.qmd
-        - ruptures.qmd
+        - index-recommandations.qmd
+        - recommandations/general.qmd
+        - recommandations/cardiologie.qmd
+        - recommandations/diabetologie.qmd
+        - recommandations/geriatrie.qmd
+        - recommandations/hematologie.qmd
+        - recommandations/hepatologie.qmd
+        - recommandations/infectiologie.qmd
+        - recommandations/nephrologie.qmd
+        - recommandations/oncologie.qmd
+        - recommandations/pediatrie.qmd
+        - recommandations/pneumologie.qmd
+        - recommandations/psychiatrie.qmd
+        - recommandations/soinspal.qmd
+        - recommandations/urgences.qmd
 
 format:
   html:

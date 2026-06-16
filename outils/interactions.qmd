@@ -1,0 +1,302 @@
+---
+title: "Interactions médicamenteuses"
+---
+
+### Clin. Pharm. SoM {#clinicalph .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://drug-interactions.medicine.iu.edu/main-table" class="outil-logo" target="_blank">
+<img src="../images/logos/clinicalpharmacologyschool.png" alt="Clin. Pharm. SoM">
+</a>
+<div class="outil-meta">
+<a href="https://drug-interactions.medicine.iu.edu/main-table" class="outil-nom" target="_blank">Clinical Pharmacology — School of Medicine</a>
+<div class="outil-source">
+Indiana University School of Medicine
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### DDI Predictor {#ddi-predictor .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.ddi-predictor.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/ddi_predictor.png" alt="DDI Predictor">
+</a>
+<div class="outil-meta">
+<a href="https://www.ddi-predictor.org/" class="outil-nom" target="_blank">DDI Predictor</a>
+<div class="outil-source">
+Université de Lausanne
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### SuperCYPsPred {#supercypspred .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://insilico-cyp.charite.de/SuperCYPsPred/" class="outil-logo" target="_blank">
+<img src="../images/logos/supercypspred.png" alt="SuperCYPsPred">
+</a>
+<div class="outil-meta">
+<a href="https://insilico-cyp.charite.de/SuperCYPsPred/" class="outil-nom" target="_blank">SuperCYPsPred</a>
+<div class="outil-source">
+Charité – Universitätsmedizin Berlin
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### Thésaurus ANSM {#thésaurus-ansm .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1" class="outil-logo" target="_blank">
+<img src="../images/logos/ansm.png" alt="Thésaurus ANSM">
+</a>
+<div class="outil-meta">
+<a href="https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1" class="outil-nom" target="_blank">Thésaurus des interactions médicamenteuses</a>
+<div class="outil-source">
+ANSM
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### Drugs.com {#drugs .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.drugs.com/drug_interactions.html" class="outil-logo" target="_blank">
+<img src="../images/logos/drugs.png" alt="Drugs.com">
+</a>
+<div class="outil-meta">
+<a href="https://www.drugs.com/drug_interactions.html" class="outil-nom" target="_blank">Drugs.com — Drug Interactions Checker</a>
+<div class="outil-source">
+Drugs.com
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### COVID Drug Interactions {#covid-drug-interactions .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.covid19-druginteractions.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/covidliverpool.png" alt="COVID Drug Interactions">
+</a>
+<div class="outil-meta">
+<a href="https://www.covid19-druginteractions.org/" class="outil-nom" target="_blank">COVID-19 Drug Interactions</a>
+<div class="outil-source">
+University of Liverpool
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### HEP Drug Interactions {#hep-drug-interactions .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.hep-druginteractions.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/hepliverpool.png" alt="HEP Drug Interactions">
+</a>
+<div class="outil-meta">
+<a href="https://www.hep-druginteractions.org/" class="outil-nom" target="_blank">HEP Drug Interactions</a>
+<div class="outil-source">
+University of Liverpool
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### HIV Drug Interactions {#hiv-drug-interactions .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.hiv-druginteractions.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/hivliverpool.png" alt="HIV Drug Interactions">
+</a>
+<div class="outil-meta">
+<a href="https://www.hiv-druginteractions.org/" class="outil-nom" target="_blank">HIV Drug Interactions</a>
+<div class="outil-source">
+University of Liverpool
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### Recos Paxlovid SFPT {#recos-paxlovid-sfpt .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://sfpt-fr.org/recospaxlovid" class="outil-logo" target="_blank">
+<img src="../images/logos/sfpt.png" alt="Recos Paxlovid SFPT">
+</a>
+<div class="outil-meta">
+<a href="https://sfpt-fr.org/recospaxlovid" class="outil-nom" target="_blank">Recommandations Paxlovid — SFPT</a>
+<div class="outil-source">
+Société Française de Pharmacologie et Thérapeutique
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### Cancer Drug Interactions {#oncologie .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.cancer-druginteractions.org/checker" class="outil-logo" target="_blank">
+<img src="../images/logos/cancerliverpool.png" alt="Cancer Drug Interactions">
+</a>
+<div class="outil-meta">
+<a href="https://www.cancer-druginteractions.org/checker" class="outil-nom" target="_blank">Cancer Drug Interactions</a>
+<div class="outil-source">
+University of Liverpool
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### Hedrine {#hedrine .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://hedrine.ulb.be/" class="outil-logo" target="_blank">
+<img src="../images/logos/hedrine.png" alt="Hedrine">
+</a>
+<div class="outil-meta">
+<a href="https://hedrine.ulb.be/" class="outil-nom" target="_blank">Hedrine</a>
+<div class="outil-source">
+Université Libre de Bruxelles
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### MSKCC Herbs {#mskcc-herbs .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.mskcc.org/cancer-care/diagnosis-treatment/symptom-management/integrative-medicine/herbs/search" class="outil-logo" target="_blank">
+<img src="../images/logos/mskcc.png" alt="MSKCC Herbs">
+</a>
+<div class="outil-meta">
+<a href="https://www.mskcc.org/cancer-care/diagnosis-treatment/symptom-management/integrative-medicine/herbs/search" class="outil-nom" target="_blank">About Herbs — MSKCC</a>
+<div class="outil-source">
+Memorial Sloan Kettering Cancer Center
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### NatMed {#natmed .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://naturalmedicines.therapeuticresearch.com/" class="outil-logo" target="_blank">
+<img src="../images/logos/natmed.png" alt="NatMed">
+</a>
+<div class="outil-meta">
+<a href="https://naturalmedicines.therapeuticresearch.com/" class="outil-nom" target="_blank">Natural Medicines</a>
+<div class="outil-source">
+Therapeutic Research Center
+<br><span style="color: #E07B00;">Accès payant</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

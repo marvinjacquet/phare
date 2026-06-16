@@ -1,0 +1,78 @@
+---
+title: "Disponibilité et accès aux médicaments"
+---
+
+
+### Accès dérogatoires {#accesderogatoires .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://ansm.sante.fr/documents/reference/referentiel-des-specialites-en-acces-derogatoire" class="outil-logo" target="_blank">
+<img src="../images/logos/ansm.png" alt="AAC / AAP">
+</a>
+<div class="outil-meta">
+<a href="https://ansm.sante.fr/documents/reference/referentiel-des-specialites-en-acces-derogatoire" class="outil-nom" target="_blank">Référentiel des spécialités en accès dérogatoire (AAC / AAP)</a>
+<div class="outil-source">
+ANSM
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+
+### Meddispar {#meddispar .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.meddispar.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/meddispar.png" alt="Meddispar">
+</a>
+<div class="outil-meta">
+<a href="https://www.meddispar.fr/" class="outil-nom" target="_blank">Meddispar</a>
+<div class="outil-source">
+ANSM
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+
+### Vigirupture {#vigirupture-ansm .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.vigirupture.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/vigirupture.png" alt="Vigirupture">
+</a>
+<div class="outil-meta">
+<a href="https://www.vigirupture.fr/" class="outil-nom" target="_blank">Vigirupture</a>
+<div class="outil-source">
+ANSM
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

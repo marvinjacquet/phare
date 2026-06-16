@@ -1,0 +1,128 @@
+---
+title: "Référentiels du médicament"
+---
+
+
+### BDPM {#bdpm .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://base-donnees-publique.medicaments.gouv.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/bdpm.png" alt="BDPM">
+</a>
+<div class="outil-meta">
+<a href="https://base-donnees-publique.medicaments.gouv.fr/" class="outil-nom" target="_blank">Base de Données Publique des Médicaments</a>
+<div class="outil-source">
+ANSM / HAS / CNAMTS
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+
+### Drugs.com {#drugs .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.drugs.com/" class="outil-logo" target="_blank">
+<img src="../images/logos/drugs.png" alt="Drugs.com">
+</a>
+<div class="outil-meta">
+<a href="https://www.drugs.com/" class="outil-nom" target="_blank">Drugs.com</a>
+<div class="outil-source">
+Drugs.com
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+
+### Theriaque {#theriaque .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.theriaque.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/theriaque.png" alt="Theriaque">
+</a>
+<div class="outil-meta">
+<a href="https://www.theriaque.org/" class="outil-nom" target="_blank">Theriaque</a>
+<div class="outil-source">
+CNHIM
+<br><span style="color: #E07B00;">Inscription requise</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+
+### Vidal {#vidal .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.vidal.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/vidal.png" alt="Vidal">
+</a>
+<div class="outil-meta">
+<a href="https://www.vidal.fr/" class="outil-nom" target="_blank">Vidal</a>
+<div class="outil-source">
+VIDAL
+<br><span style="color: #E07B00;">Accès partiel gratuit</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+
+### Pharmacomedicale {#pharmacomedicale-cnpm .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.pharmacomedicale.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/pharmacomedicale.png" alt="Pharmacomedicale">
+</a>
+<div class="outil-meta">
+<a href="https://www.pharmacomedicale.org/" class="outil-nom" target="_blank">Pharmacomédicale</a>
+<div class="outil-source">
+Collège National de Pharmacologie Médicale (CNPM)
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

@@ -1,0 +1,27 @@
+---
+title: "Hépatologie"
+---
+
+## SNFGE — Recommandations {#SNFGE .outil-heading}
+
+```{=html}
+<div class="outil" id="SNFGE">
+<div class="outil-header">
+<a href="https://www.snfge.org/recommandations-medicales" class="outil-logo" target="_blank">
+<img src="../images/logos/snfge.png" alt="SNFGE — Recommandations">
+</a>
+<div class="outil-meta">
+<a href="https://www.snfge.org/recommandations-medicales" class="outil-nom" target="_blank">SNFGE — Recommandations</a>
+<div class="outil-source">
+Société Nationale Française de Gastro-Entérologie
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

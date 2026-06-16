@@ -1,0 +1,219 @@
+---
+title: "Pédiatrie"
+---
+
+## GFRUP {#gfrup .outil-heading}
+
+```{=html}
+<div class="outil" id="gfrup">
+<div class="outil-header">
+<a href="https://www.gfrup.com/" class="outil-logo" target="_blank">
+<img src="../images/logos/gfrup.png" alt="GFRUP">
+</a>
+<div class="outil-meta">
+<a href="https://www.gfrup.com/" class="outil-nom" target="_blank">GFRUP</a>
+<div class="outil-source">
+Groupe Francophone de Réanimation et Urgences Pédiatriques
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## GPTROP {#gptrop .outil-heading}
+
+```{=html}
+<div class="outil" id="gptrop">
+<div class="outil-header">
+<a href="https://www.sfpediatrie.com/groupes-de-travail/gptrop" class="outil-logo" target="_blank">
+<img src="../images/logos/gptrop.png" alt="GPTROP">
+</a>
+<div class="outil-meta">
+<a href="https://www.sfpediatrie.com/groupes-de-travail/gptrop" class="outil-nom" target="_blank">GPTROP</a>
+<div class="outil-source">
+Groupe de Pédiatrie Tropicale — SFP
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## GPIP {#gpip .outil-heading}
+
+```{=html}
+<div class="outil" id="gpip">
+<div class="outil-header">
+<a href="https://www.gpip.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/gpip.png" alt="GPIP">
+</a>
+<div class="outil-meta">
+<a href="https://www.gpip.fr/" class="outil-nom" target="_blank">GPIP</a>
+<div class="outil-source">
+Groupe de Pathologie Infectieuse Pédiatrique
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## PAP Pédiatrie {#pappediatrie .outil-heading}
+
+```{=html}
+<div class="outil" id="pappediatrie">
+<div class="outil-header">
+<a href="https://pap-pediatrie.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/pappediatrie.png" alt="PAP Pédiatrie">
+</a>
+<div class="outil-meta">
+<a href="https://pap-pediatrie.fr/" class="outil-nom" target="_blank">PAP Pédiatrie</a>
+<div class="outil-source">
+Prescrire en Pédiatrie
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## Pediadol {#pediadol .outil-heading}
+
+```{=html}
+<div class="outil" id="pediadol">
+<div class="outil-header">
+<a href="https://www.pediadol.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/pediadol.png" alt="Pediadol">
+</a>
+<div class="outil-meta">
+<a href="https://www.pediadol.org/" class="outil-nom" target="_blank">Pediadol</a>
+<div class="outil-source">
+Association Pédiadol
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## Pedi'Ara {#pediara .outil-heading}
+
+```{=html}
+<div class="outil" id="pediara">
+<div class="outil-header">
+<a href="https://pediara.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/pediara.png" alt="Pedi'Ara">
+</a>
+<div class="outil-meta">
+<a href="https://pediara.fr/" class="outil-nom" target="_blank">Pedi'Ara</a>
+<div class="outil-source">
+Pediara
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## SFCE {#sfce .outil-heading}
+
+```{=html}
+<div class="outil" id="sfce">
+<div class="outil-header">
+<a href="https://www.sfce.info/" class="outil-logo" target="_blank">
+<img src="../images/logos/sfce.png" alt="SFCE">
+</a>
+<div class="outil-meta">
+<a href="https://www.sfce.info/" class="outil-nom" target="_blank">SFCE</a>
+<div class="outil-source">
+Société Française de lutte contre les Cancers et leucémies de l'Enfant
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## SFP {#SFP .outil-heading}
+
+```{=html}
+<div class="outil" id="SFP">
+<div class="outil-header">
+<a href="https://www.sfpediatrie.com/" class="outil-logo" target="_blank">
+<img src="../images/logos/sfp.png" alt="SFP">
+</a>
+<div class="outil-meta">
+<a href="https://www.sfpediatrie.com/" class="outil-nom" target="_blank">SFP</a>
+<div class="outil-source">
+Société Française de Pédiatrie
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## SOFREMIP {#sofremip .outil-heading}
+
+```{=html}
+<div class="outil" id="sofremip">
+<div class="outil-header">
+<a href="https://www.sofremip.com/" class="outil-logo" target="_blank">
+<img src="../images/logos/sofremip.png" alt="SOFREMIP">
+</a>
+<div class="outil-meta">
+<a href="https://www.sofremip.com/" class="outil-nom" target="_blank">SOFREMIP</a>
+<div class="outil-source">
+Société Francophone de Rhumatologie et Maladies Inflammatoires Pédiatriques
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

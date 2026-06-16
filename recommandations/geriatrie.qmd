@@ -1,0 +1,75 @@
+---
+title: "Gériatrie"
+---
+
+## Liste préférentielle du sujet âgé {#liste-préférentielle-sujet-âgé-omedit .outil-heading}
+
+```{=html}
+<div class="outil" id="liste-préférentielle-sujet-âgé-omedit">
+<div class="outil-header">
+<a href="https://www.omedit-normandie.fr/boite-a-outils/medicaments/liste-preferentielle/" class="outil-logo" target="_blank">
+<img src="../images/logos/omedit.png" alt="Liste préférentielle du sujet âgé">
+</a>
+<div class="outil-meta">
+<a href="https://www.omedit-normandie.fr/boite-a-outils/medicaments/liste-preferentielle/" class="outil-nom" target="_blank">Liste préférentielle du sujet âgé</a>
+<div class="outil-source">
+OMéDIT Normandie
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## SFGG — Recommandations {#sfgg .outil-heading}
+
+```{=html}
+<div class="outil" id="sfgg">
+<div class="outil-header">
+<a href="https://www.sfgg.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/sfgg.png" alt="SFGG — Recommandations">
+</a>
+<div class="outil-meta">
+<a href="https://www.sfgg.fr/" class="outil-nom" target="_blank">SFGG — Recommandations</a>
+<div class="outil-source">
+Société Française de Gériatrie et Gérontologie
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## STOPP/START v.3 {#stoppstart-v3 .outil-heading}
+
+```{=html}
+<div class="outil" id="stoppstart-v3">
+<div class="outil-header">
+<a href="https://www.stopp.ie/" class="outil-logo" target="_blank">
+<img src="../images/logos/stopp.png" alt="STOPP/START v.3">
+</a>
+<div class="outil-meta">
+<a href="https://www.stopp.ie/" class="outil-nom" target="_blank">STOPP/START v.3</a>
+<div class="outil-source">
+Stopp.ie
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

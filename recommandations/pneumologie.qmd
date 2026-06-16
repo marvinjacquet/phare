@@ -1,0 +1,99 @@
+---
+title: "Pneumologie"
+---
+
+## ERS Guidelines {#ers .outil-heading}
+
+```{=html}
+<div class="outil" id="ers">
+<div class="outil-header">
+<a href="https://www.ersnet.org/guidelines-and-statements/" class="outil-logo" target="_blank">
+<img src="../images/logos/ers.png" alt="ERS Guidelines">
+</a>
+<div class="outil-meta">
+<a href="https://www.ersnet.org/guidelines-and-statements/" class="outil-nom" target="_blank">ERS Guidelines</a>
+<div class="outil-source">
+European Respiratory Society
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## GINA {#gina .outil-heading}
+
+```{=html}
+<div class="outil" id="gina">
+<div class="outil-header">
+<a href="https://ginasthma.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/gina.png" alt="GINA">
+</a>
+<div class="outil-meta">
+<a href="https://ginasthma.org/" class="outil-nom" target="_blank">GINA</a>
+<div class="outil-source">
+Global Initiative for Asthma
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## GOLD {#gold .outil-heading}
+
+```{=html}
+<div class="outil" id="gold">
+<div class="outil-header">
+<a href="https://goldcopd.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/gold.png" alt="GOLD">
+</a>
+<div class="outil-meta">
+<a href="https://goldcopd.org/" class="outil-nom" target="_blank">GOLD</a>
+<div class="outil-source">
+Global Initiative for Chronic Obstructive Lung Disease
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## SPLF — Recommandations {#splf .outil-heading}
+
+```{=html}
+<div class="outil" id="splf">
+<div class="outil-header">
+<a href="https://splf.fr/recommandations/" class="outil-logo" target="_blank">
+<img src="../images/logos/splf.png" alt="SPLF — Recommandations">
+</a>
+<div class="outil-meta">
+<a href="https://splf.fr/recommandations/" class="outil-nom" target="_blank">SPLF — Recommandations</a>
+<div class="outil-source">
+Société de Pneumologie de Langue Française
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

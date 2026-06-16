@@ -1,0 +1,27 @@
+---
+title: "Soins palliatifs"
+---
+
+## Palliaguide {#palliaguide .outil-heading}
+
+```{=html}
+<div class="outil" id="palliaguide">
+<div class="outil-header">
+<a href="https://www.palliaguide.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/palliaguide.png" alt="Palliaguide">
+</a>
+<div class="outil-meta">
+<a href="https://www.palliaguide.fr/" class="outil-nom" target="_blank">Palliaguide</a>
+<div class="outil-source">
+Réseau de soins palliatifs
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

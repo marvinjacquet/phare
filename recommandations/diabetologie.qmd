@@ -1,0 +1,27 @@
+---
+title: "Diabétologie"
+---
+
+## SFD — Recommandations {#sfd .outil-heading}
+
+```{=html}
+<div class="outil" id="sfd">
+<div class="outil-header">
+<a href="https://www.sfdiabete.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/sfd.png" alt="SFD — Recommandations">
+</a>
+<div class="outil-meta">
+<a href="https://www.sfdiabete.org/" class="outil-nom" target="_blank">SFD — Recommandations</a>
+<div class="outil-source">
+Société Francophone du Diabète
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

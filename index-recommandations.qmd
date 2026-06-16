@@ -1,0 +1,316 @@
+---
+title: "Index des recommandations"
+toc: true
+---
+
+Index de l'ensemble des recommandations (autorités de santé, sociétés savantes...) référencées dans PHARE.
+
+## Général
+
+<div class="index-grid">
+
+<a href="https://www.uptodate.com/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/general.html#uptodate">
+  <img src="images/logos/uptodate.png" alt="uptodate">
+  <span>Up2Date</span>
+</a>
+
+<a href="https://www.sfpc.eu/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/general.html#sfpc">
+  <img src="images/logos/sfpc.png" alt="sfpc">
+  <span>SFPC</span>
+</a>
+
+<a href="https://www.hug.ch/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/general.html#hug">
+  <img src="images/logos/hug.png" alt="hug">
+  <span>HUG</span>
+</a>
+
+</div>
+
+## Cardiologie
+
+<div class="index-grid">
+
+<a href="https://www.escardio.org/Guidelines" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/cardiologie.html#esc">
+  <img src="images/logos/esc.png" alt="ESC">
+  <span>ESC</span>
+</a>
+
+</div>
+
+## Diabétologie
+
+<div class="index-grid">
+
+<a href="https://www.sfdiabete.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/diabetologie.html#sfd">
+  <img src="images/logos/sfd.png" alt="SFD">
+  <span>SFD</span>
+</a>
+
+</div>
+
+## Gériatrie
+
+<div class="index-grid">
+
+<a href="https://www.omedit-paysdelaloire.fr/boite-a-outils/personnes-agees/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/geriatrie.html#liste-préférentielle-sujet-âgé-omedit">
+  <img src="images/logos/omedit.png" alt="OMEDIT">
+  <span>Liste préférentielle</span>
+</a>
+
+<a href="https://www.sfgg.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/geriatrie.html#sfgg">
+  <img src="images/logos/sfgg.png" alt="SFGG">
+  <span>SFGG</span>
+</a>
+
+<a href="https://www.erasme.be/sites/default/files/carnet_start_stopp_version_01.01.24.pdf" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/geriatrie.html#stoppstart-v3">
+  <img src="images/logos/stopp.png" alt="STOPP/START">
+  <span>STOPP/START v.3</span>
+</a>
+
+</div>
+
+## Hématologie
+
+<div class="index-grid">
+
+<a href="https://gemmat-thrombose.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/hematologie.html#GEMMAT">
+  <img src="images/logos/gemmat.png" alt="GEMMAT">
+  <span>GEMMAT</span>
+</a>
+
+<a href="https://www.thromboclic.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/hematologie.html#thromboclic">
+  <img src="images/logos/thromboclic.png" alt="Thromboclic">
+  <span>Thromboclic</span>
+</a>
+
+</div>
+
+## Hépatologie
+
+<div class="index-grid">
+
+<a href="https://www.snfge.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/hepatologie.html#SNFGE">
+  <img src="images/logos/snfge.png" alt="SNFGE">
+  <span>SNFGE</span>
+</a>
+
+</div>
+
+## Infectiologie
+
+<div class="index-grid">
+
+<a href="https://antibioclic.com/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/infectiologie.html#antibioclic">
+  <img src="images/logos/antibioclic.png" alt="Antibioclic">
+  <span>Antibioclic</span>
+</a>
+
+<a href="https://www.infectiologie.com/fr/recommandations.html" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/infectiologie.html#spilf">
+  <img src="images/logos/spilf.png" alt="SPILF">
+  <span>SPILF</span>
+</a>
+
+<a href="https://vaccination-info-service.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/infectiologie.html#vaccination">
+  <img src="images/logos/vaccinationinfoservice.png" alt="Vaccin">
+  <span>Vacc. Info.</span>
+</a>
+
+</div>
+
+## Néphrologie
+
+<div class="index-grid">
+
+<a href="https://cuen.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/nephrologie.html#cuen">
+  <img src="images/logos/cuen.png" alt="CUEN">
+  <span>CUEN</span>
+</a>
+
+<a href="https://kdigo.org/guidelines/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/nephrologie.html#kdigo">
+  <img src="images/logos/kdigo.png" alt="KDIGO">
+  <span>KDIGO</span>
+</a>
+
+</div>
+
+## Oncologie
+
+<div class="index-grid">
+
+<a href="https://www.asco.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/oncologie.html#esco">
+  <img src="images/logos/esco.png" alt="ESCO">
+  <span>ESCO</span>
+</a>
+
+<a href="https://www.esmo.org/guidelines" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/oncologie.html#esmo">
+  <img src="images/logos/esmo.png" alt="ESMO">
+  <span>ESMO</span>
+</a>
+
+<a href="https://www.sfpo.com/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/oncologie.html#sfpo">
+  <img src="images/logos/sfpo.png" alt="SFPO">
+  <span>SFPO</span>
+</a>
+
+</div>
+
+## Pédiatrie
+
+<div class="index-grid">
+
+<a href="https://gfrup.sfpediatrie.com/gp" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#gfrup">
+  <img src="images/logos/gfrup.png" alt="GFRUP">
+  <span>GFRUP</span>
+</a>
+
+<a href="https://gpt.sfpediatrie.com/accueil-gptrop" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#gptrop">
+  <img src="images/logos/gptrop.png" alt="GPTROP">
+  <span>GPTROP</span>
+</a>
+
+<a href="https://www.gpip.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#gpip">
+  <img src="images/logos/gpip.png" alt="GPIP">
+  <span>GPIP</span>
+</a>
+
+<a href="https://pap-pediatrie.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#pappediatrie">
+  <img src="images/logos/pappediatrie.png" alt="PaP Pediatrie">
+  <span>PAP Pediatrie</span>
+</a>
+
+<a href="https://www.pediadol.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#pediadol">
+  <img src="images/logos/pediadol.png" alt="Pediadol">
+  <span>Pediadol</span>
+</a>
+
+<a href="https://www.urgences-ara.fr/pediatrie/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#pediara">
+  <img src="images/logos/pediara.png" alt="Pediara">
+  <span>Pedi'Ara</span>
+</a>
+
+<a href="https://sf-cancers-enfant.com/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#sfce">
+  <img src="images/logos/sfce.png" alt="SFCE">
+  <span>SFCE</span>
+</a>
+
+<a href="https://www.sfpediatrie.com/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#SFP">
+  <img src="images/logos/sfp.png" alt="SFP">
+  <span>SFP</span>
+</a>
+
+<a href="https://congressofremip.com/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#sofremip">
+  <img src="images/logos/sofremip.png" alt="SOFREMIP">
+  <span>SOFREMIP</span>
+</a>
+
+</div>
+
+## Pneumologie
+
+<div class="index-grid">
+
+<a href="https://www.ersnet.org" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pneumologie.html#ers">
+  <img src="images/logos/ers.png" alt="ERS">
+  <span>ERS</span>
+</a>
+
+<a href="https://ginasthma.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pneumologie.html#gina">
+  <img src="images/logos/gina.png" alt="GINA">
+  <span>GINA</span>
+</a>
+
+<a href="https://goldcopd.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pneumologie.html#gold">
+  <img src="images/logos/gold.png" alt="GOLD">
+  <span>GOLD</span>
+</a>
+
+<a href="https://splf.fr/recommandations/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pneumologie.html#splf">
+  <img src="images/logos/splf.png" alt="SPLF">
+  <span>SPLF</span>
+</a>
+
+</div>
+
+## Psychiatrie
+
+<div class="index-grid">
+
+<a href="https://www.psychoactif.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/psychiatrie.html#psychoactif">
+  <img src="images/logos/psychoactif.png" alt="psychoactif">
+  <span>Psychoactif</span>
+</a>
+
+</div>
+
+## Soins palliatifs
+
+<div class="index-grid">
+
+<a href="https://www.palliaguide.be/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/soinspal.html#palliaguide">
+  <img src="images/logos/palliaguide.png" alt="Palliaguide">
+  <span>Palliaguide</span>
+</a>
+
+</div>
+
+## Urgences
+
+<div class="index-grid">
+
+<a href="https://www.urgences-ara.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/urgences.html#urgara">
+  <img src="images/logos/urgara.png" alt="Urgara">
+  <span>Urg'Ara</span>
+</a>
+
+</div>
+
+<script>
+document.querySelectorAll('.index-card[data-book]').forEach(card => {
+  const bookUrl = card.getAttribute('data-book');
+
+  const btn = document.createElement('a');
+  btn.href = bookUrl;
+  btn.className = 'int-link';
+  btn.title = 'Détails dans PHARE';
+  btn.innerHTML = '+';
+
+  btn.addEventListener('click', e => e.stopPropagation());
+
+  card.appendChild(btn);
+});
+</script>

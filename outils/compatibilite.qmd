@@ -1,0 +1,49 @@
+---
+title: "Compatibilité physico-chimique"
+---
+
+### Stabilis {#stabilis .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.stabilis.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/stabilis.png" alt="Stabilis">
+</a>
+<div class="outil-meta">
+<a href="https://www.stabilis.org/" class="outil-nom" target="_blank">Stabilis</a>
+<div class="outil-source">
+Infostab (association à but non lucratif)
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description"><b>Base de donnée</b> internationale concernant la stabilité et les compatibilités des médicaments. Elle contient des <b>monographies</b> (stabilité en solution simple et mélange, facteurs affectant la stabilité...), des <b>outils</b> (tableaux de compatibilité) et la <b>bibliographie</b> associée (publications originales et informations des laboratoires).</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### DrugOptimal {#drugoptimal .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://portail.e-harvis.com/" class="outil-logo" target="_blank">
+<img src="../images/logos/drugoptimal.png" alt="DrugOptimal">
+</a>
+<div class="outil-meta">
+<a href="https://portail.e-harvis.com/" class="outil-nom" target="_blank">DrugOptimal</a>
+<div class="outil-source">
+e-Harvis
+<br><span style="color: #E07B00;">Accès institutionnel</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

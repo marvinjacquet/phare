@@ -1,0 +1,28 @@
+---
+title: "Autres"
+---
+
+
+### ACT IP {#actip .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://actip.sfpc.eu/home/" class="outil-logo" target="_blank">
+<img src="../images/logos/actip.png" alt="ActIP">
+</a>
+<div class="outil-meta">
+<a href="https://actip.sfpc.eu/home/" class="outil-nom" target="_blank">ACT IP</a>
+<div class="outil-source">
+Société Française de Pharmacie Clinique (SFPC)
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```

@@ -1,0 +1,118 @@
+---
+title: "Calculs et Conversions"
+---
+
+### Opioconvert {#opioconvert .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://opioconvert.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/opioconvert.png" alt="Opioconvert">
+</a>
+<div class="outil-meta">
+<a href="https://opioconvert.fr/" class="outil-nom" target="_blank">Opioconvert</a>
+<div class="outil-source">
+À compléter
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### MDCalc {#mdcalc .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.mdcalc.com/" class="outil-logo" target="_blank">
+<img src="../images/logos/mdcalc.png" alt="MDCalc">
+</a>
+<div class="outil-meta">
+<a href="https://www.mdcalc.com/" class="outil-nom" target="_blank">MDCalc</a>
+<div class="outil-source">
+MDCalc
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### Compendium CH {#compendiumch .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.compendium.ch/" class="outil-logo" target="_blank">
+<img src="../images/logos/compendiumch.png" alt="Compendium CH">
+</a>
+<div class="outil-meta">
+<a href="https://www.compendium.ch/" class="outil-nom" target="_blank">Compendium Suisse des Médicaments</a>
+<div class="outil-source">
+HCI Solutions AG
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### Psychiatrienet {#psychiatrienet .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.psychiatrienet.nl/" class="outil-logo" target="_blank">
+<img src="../images/logos/psychiatrienet.png" alt="Psychiatrienet">
+</a>
+<div class="outil-meta">
+<a href="https://www.psychiatrienet.nl/" class="outil-nom" target="_blank">Psychiatrienet</a>
+<div class="outil-source">
+À compléter
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### Psychopharma {#psychopharma .outil-heading}
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="https://www.psychopharma.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/psychopharma.png" alt="Psychopharma">
+</a>
+<div class="outil-meta">
+<a href="https://www.psychopharma.fr/" class="outil-nom" target="_blank">Psychopharma</a>
+<div class="outil-source">
+À compléter
+<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
