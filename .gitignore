@@ -1,7 +1,10 @@
+# Quarto cache
 /.quarto/
-**/*.quarto_ipynb
 
-# Fichiers générés au render (libs JS/CSS, figures)
+# Dossier de sortie (généré par GitHub Actions)
+/docs/
+
+# Fichiers générés au render
 *_files/
 
 # Cache OS
