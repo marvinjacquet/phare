@@ -182,6 +182,102 @@ details.outil-details {
   font-size: 0;
 }
 
+/* --- Métadonnées du titre (auteur / date / doi) en 3 colonnes --- */
+header.quarto-title-block .quarto-title-meta {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  grid-auto-flow: column !important;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+@media (max-width: 768px) {
+  header.quarto-title-block .quarto-title-meta {
+    grid-template-columns: 1fr !important;
+    grid-auto-flow: row !important;
+    gap: 0.75rem;
+  }
+}
+
+/* --- Hero cards (page d'accueil) --- */
+.hero-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.hero-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  padding: 1.75rem;
+  border: 0.5px solid var(--border-color);
+  border-bottom: 4px solid #C4DFF0;
+  border-radius: 14px;
+  background: #fff;
+  text-decoration: none !important;
+  color: inherit !important;
+  box-shadow: var(--card-shadow);
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+}
+
+.hero-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 4px 16px rgba(0,113,178,0.15);
+  transform: translateY(-2px);
+}
+
+.dark .hero-card {
+  background: #1e1e2e;
+  border-color: #444;
+}
+
+.hero-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+}
+
+.hero-card-icon {
+  width: 32px;
+  height: 32px;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.hero-card-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+.hero-card-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.hero-card-desc {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.hero-card-arrow {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.hero-card:hover .hero-card-arrow {
+  gap: 0.5rem;
+  transition: gap 0.15s;
+}
+
 /* --- Index --- */
 .index-grid {
   display: grid;

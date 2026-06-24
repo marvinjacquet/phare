@@ -3,7 +3,7 @@ title: "Index des outils"
 toc: true
 ---
 
-Index de l'ensemble des outils référencés dans PHARE.
+Index de l'ensemble des outils (bases de données, calculateurs, guide...) référencés dans PHARE.
 
 ## Référentiels du médicament
 
@@ -142,6 +142,20 @@ Index de l'ensemble des outils référencés dans PHARE.
   <small class="card-label">Phytothérapie</small>
 </a>
 
+<a href="https://www.afsos.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/interactions.html#afsos">
+  <img src="images/logos/afsos.png" alt="AFSOS">
+  <span>AFSOS</span>
+  <small class="card-label">Phytothérapie</small>
+</a>
+
+<a href="https://www.wikiphyto.org/wiki/Accueil" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/interactions.html#afsos">
+  <img src="images/logos/wikiphyto.png" alt="WikiPhyto">
+  <span>WikiPhyto</span>
+  <small class="card-label">Phytothérapie</small>
+</a>
+
 </div>
 
 
@@ -170,6 +184,13 @@ Index de l'ensemble des outils référencés dans PHARE.
   <small class="card-label">Grossesse & Allaitement</small>
 </a>
 
+<a href="http://metapreg.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/iatrogenie.html#metapreg">
+  <img src="images/logos/metapreg.png" alt="metaPreg">
+  <span>metaPreg</span>
+  <small class="card-label">Grossesse</small>
+</a>
+
 <a href="https://www.ncbi.nlm.nih.gov/books/NBK547852/" target="_blank" rel="noopener noreferrer"
    class="index-card" data-book="outils/iatrogenie.html#livertox">
   <img src="images/logos/livertox.png" alt="LiverTox">
@@ -189,6 +210,13 @@ Index de l'ensemble des outils référencés dans PHARE.
   <img src="images/logos/crediblemeds.png" alt="Credible Meds">
   <span>Credible Meds</span>
   <small class="card-label">Allongement QT</small>
+</a>
+
+<a href="https://www.rfcrpv.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/iatrogenie.html#rfcrpv">
+  <img src="images/logos/rfcrpv.png" alt="RFCRPV">
+  <span>RFCRPV</span>
+  <small class="card-label">Pharmacovigilance</small>
 </a>
 
 </div>
@@ -258,6 +286,12 @@ Index de l'ensemble des outils référencés dans PHARE.
   <span>DruOptimal</span>
 </a>
 
+<a href="https://www.easypreppediatrie.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/compatibilite.html#easyprepped">
+  <img src="images/logos/easyprepped.png" alt="DrugOptimal">
+  <span>EasyPrep Ped</span>
+</a>
+
 </div>
 
 
@@ -283,6 +317,24 @@ Index de l'ensemble des outils référencés dans PHARE.
   <span>Réseau Can.</span>
 </a>
 
+<a href="https://medstopper.com/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/deprescription.html#medstopper">
+  <img src="images/logos/medstopper.png" alt="MedStopper">
+  <span>MedStopper</span>
+</a>
+
+<a href="https://appsq.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/deprescription.html#appsq">
+  <img src="images/logos/appsq.png" alt="APPSQ">
+  <span>APPSQ</span>
+</a>
+
+<a href="https://primaryhealthtas.com.au/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/deprescription.html#pht">
+  <img src="images/logos/pht.png" alt="PHT">
+  <span>PHT</span>
+</a>
+
 </div>
 
 
@@ -302,6 +354,20 @@ Index de l'ensemble des outils référencés dans PHARE.
   <img src="images/logos/zephir.png" alt="ZEPHIR">
   <span>ZEPHIR</span>
   <small class="card-label">Pneumologie</small>
+</a>
+
+<a href="https://forminhal.formedoc.org/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/education.html#forminhal">
+  <img src="images/logos/forminhal.png" alt="Forminhal">
+  <span>Forminhal</span>
+  <small class="card-label">Pneumologie</small>
+</a>
+
+<a href="https://prevenclic.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/education.html#prevenclic">
+  <img src="images/logos/prevenclic.png" alt="Prevenclic">
+  <span>Prevenclic</span>
+  <small class="card-label">Prévention</small>
 </a>
 
 </div>
@@ -338,6 +404,20 @@ Index de l'ensemble des outils référencés dans PHARE.
   <small class="card-label">Formules & Scores</small>
 </a>
 
+<a href="http://medicalcul.free.fr/_indexalpha.html" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/calculs.html#medicalcul">
+  <img src="images/logos/medicalcul.png" alt="Medicalcul">
+  <span>Medicalcul</span>
+  <small class="card-label">Formules & Scores</small>
+</a>
+
+<a href="https://qxmd.com/calculate" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/calculs.html#qxmd">
+  <img src="images/logos/qxmd_calculate.png" alt="QxMD">
+  <span>QxMD</span>
+  <small class="card-label">Formules & Scores</small>
+</a>
+
 <a href="https://www.compendium.ch/" target="_blank" rel="noopener noreferrer"
    class="index-card" data-book="outils/calculs.html#compendiumch">
   <img src="images/logos/compendiumch.png" alt="compendiumch">
@@ -356,6 +436,13 @@ Index de l'ensemble des outils référencés dans PHARE.
    class="index-card" data-book="outils/calculs.html#psychopharma">
   <img src="images/logos/psychopharma.png" alt="Psychopharma">
   <span>Psychopharma</span>
+  <small class="card-label">Psychiatrie</small>
+</a>
+
+<a href="http://cmpsy-switch.com/Accueil/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/calculs.html#cmpsy">
+  <img src="images/logos/cmpsy.png" alt="CMPsy">
+  <span>CMPsy</span>
   <small class="card-label">Psychiatrie</small>
 </a>
 
@@ -383,6 +470,13 @@ Index de l'ensemble des outils référencés dans PHARE.
    class="index-card" data-book="outils/disponibilite.html#vigirupture-ansm">
   <img src="images/logos/vigirupture.png" alt="Vigirupture">
   <span>Vigirupture</span>
+  <small class="card-label">Ruptures</small>
+</a>
+
+<a href="https://www.easypreprupture.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="outils/disponibilite.html#easypreprupture">
+  <img src="images/logos/easypreprupture.png" alt="Easyprep Rupture">
+  <span>Easyprep Rupture</span>
   <small class="card-label">Ruptures</small>
 </a>
 

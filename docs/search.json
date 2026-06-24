@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
     "section": "",
-    "text": "Présentation\nCet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique quotidienne et formation des pharmaciens, internes, externes et préparateurs en pharmacie hospitalière.\nIl est conçu, enrichi et mis à jour bénévolement, à ce titre certaines ressources peuvent être incomplètes, obsolètes ou en cours d’implémentation. Les contributions (corrections, suggestions…) sont les bienvenues via GitHub ou par mail.",
+    "text": "Présentation\nCet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique quotidienne et formation des pharmaciens, internes, externes et préparateurs en pharmacie hospitalière. Sa conception et son maintien sont bénévoles, certaines ressources peuvent être incomplètes, obsolètes ou en cours d’implémentation. Les contributions et retours sont les bienvenus via GitHub ou par mail.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Présentation</span>"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#citation",
     "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
     "section": "Citation",
-    "text": "Citation\nMarvin Jacquet (2026), PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles, https://marvinjacquet.github.io/phare/, version du 12 juin 2026, doi : 10.5281/zenodo.20612426.",
+    "text": "Citation\nMarvin Jacquet, PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles, https://marvinjacquet.github.io/phare/, version du 24 juin 2026, doi : 10.5281/zenodo.20612426.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Présentation</span>"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#licence",
     "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
     "section": "Licence",
-    "text": "Licence\nCe document est mis à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.\n\n\nCe document est généré avec quarto, et son code source est disponible sur GitHub.",
+    "text": "Licence\nCe document est mis à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.\n\n\nCe document est au format quarto et son code source est disponible sur GitHub.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Présentation</span>"
     ]
@@ -34,7 +34,7 @@
     "href": "index-outils.html",
     "title": "Index des outils",
     "section": "",
-    "text": "Référentiels du médicament\nIndex de l’ensemble des outils référencés dans PHARE.",
+    "text": "Référentiels du médicament\nIndex de l’ensemble des outils (bases de données, calculateurs, guide…) référencés dans PHARE.",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
@@ -56,7 +56,7 @@
     "href": "index-outils.html#interactions-médicamenteuses",
     "title": "Index des outils",
     "section": "Interactions médicamenteuses",
-    "text": "Interactions médicamenteuses\n\n  Clin. Pharm. SoM Cytochromes \n  DDI Predictor Cytochromes \n  SuperCYPsPred Cytochromes \n  Thésaurus ANSM - \n  Drugs.com - \n  COVID Infectiologie \n  HEP Infectiologie \n  HIV Infectiologie \n  Paxlovid Infectiologie \n  Cancer Oncologie \n  Hedrine Phytothérapie \n  MSKCC Herbs Phytothérapie \n  NatMed Phytothérapie",
+    "text": "Interactions médicamenteuses\n\n  Clin. Pharm. SoM Cytochromes \n  DDI Predictor Cytochromes \n  SuperCYPsPred Cytochromes \n  Thésaurus ANSM - \n  Drugs.com - \n  COVID Infectiologie \n  HEP Infectiologie \n  HIV Infectiologie \n  Paxlovid Infectiologie \n  Cancer Oncologie \n  Hedrine Phytothérapie \n  MSKCC Herbs Phytothérapie \n  NatMed Phytothérapie \n  AFSOS Phytothérapie \n  WikiPhyto Phytothérapie",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
@@ -67,7 +67,7 @@
     "href": "index-outils.html#risques-iatrogènes",
     "title": "Index des outils",
     "section": "Risques iatrogènes",
-    "text": "Risques iatrogènes\n\n  LactMed Allaitement \n  e-lactancia Allaitement \n  CRAT Grossesse & Allaitement \n  LiverTox Hépatologie \n  Pneumotox Pneumologie \n  Credible Meds Allongement QT",
+    "text": "Risques iatrogènes\n\n  LactMed Allaitement \n  e-lactancia Allaitement \n  CRAT Grossesse & Allaitement \n  metaPreg Grossesse \n  LiverTox Hépatologie \n  Pneumotox Pneumologie \n  Credible Meds Allongement QT \n  RFCRPV Pharmacovigilance",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
@@ -99,7 +99,7 @@
     "href": "index-outils.html#compatibilité-physico-chimique",
     "title": "Index des outils",
     "section": "Compatibilité physico-chimique",
-    "text": "Compatibilité physico-chimique\n\n  Stabilis \n  DruOptimal",
+    "text": "Compatibilité physico-chimique\n\n  Stabilis \n  DruOptimal \n  EasyPrep Ped",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
@@ -110,7 +110,7 @@
     "href": "index-outils.html#déprescription",
     "title": "Index des outils",
     "section": "Déprescription",
-    "text": "Déprescription\n\n  PIMCheck \n  Deprescribing \n  Réseau Can.",
+    "text": "Déprescription\n\n  PIMCheck \n  Deprescribing \n  Réseau Can. \n  MedStopper \n  APPSQ \n  PHT",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
@@ -121,7 +121,7 @@
     "href": "index-outils.html#éducation-thérapeutique",
     "title": "Index des outils",
     "section": "Éducation thérapeutique",
-    "text": "Éducation thérapeutique\n\n  OncoNormandie Oncologie \n  ZEPHIR Pneumologie",
+    "text": "Éducation thérapeutique\n\n  OncoNormandie Oncologie \n  ZEPHIR Pneumologie \n  Forminhal Pneumologie \n  Prevenclic Prévention",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
@@ -143,7 +143,7 @@
     "href": "index-outils.html#calculs-et-conversions",
     "title": "Index des outils",
     "section": "Calculs et Conversions",
-    "text": "Calculs et Conversions\n\n  Opioconvert Antalgie \n  MDCalc Formules & Scores \n  Compendium CH RCP Suisse \n  Psychiatrienet Psychiatrie \n  Psychopharma Psychiatrie",
+    "text": "Calculs et Conversions\n\n  Opioconvert Antalgie \n  MDCalc Formules & Scores \n  Medicalcul Formules & Scores \n  QxMD Formules & Scores \n  Compendium CH RCP Suisse \n  Psychiatrienet Psychiatrie \n  Psychopharma Psychiatrie \n  CMPsy Psychiatrie",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
@@ -154,7 +154,7 @@
     "href": "index-outils.html#disponibilité-et-accès-aux-médicaments",
     "title": "Index des outils",
     "section": "Disponibilité et accès aux médicaments",
-    "text": "Disponibilité et accès aux médicaments\n\n  Répertoire des accès dérogatoires \n  Meddispar Dispensation \n  Vigirupture Ruptures",
+    "text": "Disponibilité et accès aux médicaments\n\n  Répertoire des accès dérogatoires \n  Meddispar Dispensation \n  Vigirupture Ruptures \n  Easyprep Rupture Ruptures",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Index des outils</span>"
@@ -373,7 +373,7 @@
     "href": "index-recommandations.html#général",
     "title": "Index des recommandations",
     "section": "",
-    "text": "Up2Date \n  SFPC \n  HUG",
+    "text": "Up2Date \n  SFPC \n  HUG \n  orphanet",
     "crumbs": [
       "**Recommandations**",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Index des recommandations</span>"
@@ -472,7 +472,7 @@
     "href": "index-recommandations.html#pédiatrie",
     "title": "Index des recommandations",
     "section": "Pédiatrie",
-    "text": "Pédiatrie\n\n  GFRUP \n  GPTROP \n  GPIP \n  PAP Pediatrie \n  Pediadol \n  Pedi’Ara \n  SFCE \n  SFP \n  SOFREMIP",
+    "text": "Pédiatrie\n\n  GFRUP \n  GPTROP \n  GPIP \n  PAP Pediatrie \n  Pediadol \n  Pedi’Ara \n  SFCE \n  SFP \n  SOFREMIP \n  Pediadoc \n  SFPEADA \n  Laits",
     "crumbs": [
       "**Recommandations**",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Index des recommandations</span>"
@@ -494,7 +494,7 @@
     "href": "index-recommandations.html#psychiatrie",
     "title": "Index des recommandations",
     "section": "Psychiatrie",
-    "text": "Psychiatrie\n\n  Psychoactif",
+    "text": "Psychiatrie\n\n  Psychoactif \n  Psychotropes \n  Réseau PIC",
     "crumbs": [
       "**Recommandations**",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Index des recommandations</span>"
@@ -670,7 +670,7 @@
     "href": "outils/interactions.html",
     "title": "Interactions médicamenteuses",
     "section": "",
-    "text": "Clin. Pharm. SoM\n\n\n\n\n\n\nClinical Pharmacology — School of Medicine\n\nIndiana University School of Medicine\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nDDI Predictor\n\n\n\n\n\n\nDDI Predictor\n\nUniversité de Lausanne\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nSuperCYPsPred\n\n\n\n\n\n\nSuperCYPsPred\n\nCharité – Universitätsmedizin Berlin\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nThésaurus ANSM\n\n\n\n\n\n\nThésaurus des interactions médicamenteuses\n\nANSM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nDrugs.com\n\n\n\n\n\n\nDrugs.com — Drug Interactions Checker\n\nDrugs.com\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCOVID Drug Interactions\n\n\n\n\n\n\nCOVID-19 Drug Interactions\n\nUniversity of Liverpool\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nHEP Drug Interactions\n\n\n\n\n\n\nHEP Drug Interactions\n\nUniversity of Liverpool\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nHIV Drug Interactions\n\n\n\n\n\n\nHIV Drug Interactions\n\nUniversity of Liverpool\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nRecos Paxlovid SFPT\n\n\n\n\n\n\nRecommandations Paxlovid — SFPT\n\nSociété Française de Pharmacologie et Thérapeutique\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCancer Drug Interactions\n\n\n\n\n\n\nCancer Drug Interactions\n\nUniversity of Liverpool\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nHedrine\n\n\n\n\n\n\nHedrine\n\nUniversité Libre de Bruxelles\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nMSKCC Herbs\n\n\n\n\n\n\nAbout Herbs — MSKCC\n\nMemorial Sloan Kettering Cancer Center\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nNatMed\n\n\n\n\n\n\nNatural Medicines\n\nTherapeutic Research Center\nAccès payant\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "text": "Clin. Pharm. SoM\n\n\n\n\n\n\nClinical Pharmacology — School of Medicine\n\nIndiana University School of Medicine\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nDDI Predictor\n\n\n\n\n\n\nDDI Predictor\n\nUniversité de Lausanne\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nSuperCYPsPred\n\n\n\n\n\n\nSuperCYPsPred\n\nCharité – Universitätsmedizin Berlin\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nThésaurus ANSM\n\n\n\n\n\n\nThésaurus des interactions médicamenteuses\n\nANSM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nDrugs.com\n\n\n\n\n\n\nDrugs.com — Drug Interactions Checker\n\nDrugs.com\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCOVID Drug Interactions\n\n\n\n\n\n\nCOVID-19 Drug Interactions\n\nUniversity of Liverpool\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nHEP Drug Interactions\n\n\n\n\n\n\nHEP Drug Interactions\n\nUniversity of Liverpool\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nHIV Drug Interactions\n\n\n\n\n\n\nHIV Drug Interactions\n\nUniversity of Liverpool\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nRecos Paxlovid SFPT\n\n\n\n\n\n\nRecommandations Paxlovid — SFPT\n\nSociété Française de Pharmacologie et Thérapeutique\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCancer Drug Interactions\n\n\n\n\n\n\nCancer Drug Interactions\n\nUniversity of Liverpool\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nHedrine\n\n\n\n\n\n\nHedrine\n\nUniversité Libre de Bruxelles\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nMSKCC Herbs\n\n\n\n\n\n\nAbout Herbs — MSKCC\n\nMemorial Sloan Kettering Cancer Center\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nNatMed\n\n\n\n\n\n\nNatural Medicines\n\nTherapeutic Research Center\nAccès payant\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nAFSOS\n\n\n\n\n\n\nAFSOS\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nWikiPhyto\n\n\n\n\n\n\nWikiPhyto\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Interactions médicamenteuses</span>"
@@ -681,7 +681,7 @@
     "href": "outils/iatrogenie.html",
     "title": "Risques iatrogènes",
     "section": "",
-    "text": "LactMed\n\n\n\n\n\n\nLactMed\n\nNational Library of Medicine (NLM)\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\ne-lactancia\n\n\n\n\n\n\ne-lactancia\n\nAPILAM (Association pour la promotion et le soutien culturel de l'allaitement maternel)\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCRAT\n\n\n\n\n\n\nCRAT — Centre de Référence sur les Agents Tératogènes\n\nAP-HP / Sorbonne Université\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nLiverTox\n\n\n\n\n\n\nLiverTox\n\nNational Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) / NLM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nPneumotox\n\n\n\n\n\n\nPneumotox\n\nGroupe Pneumotox\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCredible Meds\n\n\n\n\n\n\nCredible Meds — QTDrugs List\n\nArizona CERT / University of Arizona\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "text": "LactMed\n\n\n\n\n\n\nLactMed\n\nNational Library of Medicine (NLM)\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\ne-lactancia\n\n\n\n\n\n\ne-lactancia\n\nAPILAM (Association pour la promotion et le soutien culturel de l'allaitement maternel)\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCRAT\n\n\n\n\n\n\nCRAT — Centre de Référence sur les Agents Tératogènes\n\nAP-HP / Sorbonne Université\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nmetaPreg\n\n\n\n\n\n\nmetPreg\n\nANSM - HCL\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nLiverTox\n\n\n\n\n\n\nLiverTox\n\nNational Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) / NLM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nPneumotox\n\n\n\n\n\n\nPneumotox\n\nGroupe Pneumotox\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCredible Meds\n\n\n\n\n\n\nCredible Meds — QTDrugs List\n\nArizona CERT / University of Arizona\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nRéseau Français des CRPV\n\n\n\n\n\n\nRéseaux Français des CRPV\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Risques iatrogènes</span>"
@@ -703,7 +703,7 @@
     "href": "outils/compatibilite.html",
     "title": "Compatibilité physico-chimique",
     "section": "",
-    "text": "Stabilis\n\n\n\n\n\n\nStabilis\n\nInfostab (association à but non lucratif)\nGratuit sans inscription\n\n\n\nBase de donnée internationale concernant la stabilité et les compatibilités des médicaments. Elle contient des monographies (stabilité en solution simple et mélange, facteurs affectant la stabilité...), des outils (tableaux de compatibilité) et la bibliographie associée (publications originales et informations des laboratoires).\n\nDétails\nÀ compléter.\n\n\n\n\nDrugOptimal\n\n\n\n\n\n\nDrugOptimal\n\ne-Harvis\nAccès institutionnel\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "text": "Stabilis\n\n\n\n\n\n\nStabilis\n\nInfostab (association à but non lucratif)\nGratuit sans inscription\n\n\n\nBase de donnée internationale concernant la stabilité et les compatibilités des médicaments. Elle contient des monographies (stabilité en solution simple et mélange, facteurs affectant la stabilité...), des outils (tableaux de compatibilité) et la bibliographie associée (publications originales et informations des laboratoires).\n\nDétails\nÀ compléter.\n\n\n\n\nDrugOptimal\n\n\n\n\n\n\nDrugOptimal\n\ne-Harvis\nAccès institutionnel\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nEasyPrep Pédiatrie\n\n\n\n\n\n\nEasyPrep Pédiatrie\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Compatibilité physico-chimique</span>"
@@ -714,7 +714,7 @@
     "href": "outils/deprescription.html",
     "title": "Déprescription",
     "section": "",
-    "text": "PIMCheck\n\n\n\n\n\n\nPIMCheck\n\nÀ compléter\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nDeprescribing\n\n\n\n\n\n\nDeprescribing.org\n\nBruyère Research Institute\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nRéseau canadien de déprescription\n\n\n\n\n\n\nRéseau canadien de déprescription\n\nRéseau canadien de déprescription\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "text": "PIMCheck\n\n\n\n\n\n\nPIMCheck\n\nÀ compléter\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nDeprescribing\n\n\n\n\n\n\nDeprescribing.org\n\nBruyère Research Institute\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nRéseau canadien de déprescription\n\n\n\n\n\n\nRéseau canadien de déprescription\n\nRéseau canadien de déprescription\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nMedStopper\n\n\n\n\n\n\nMedstopper\n\nUniversity of British Columbia\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nAssociation Professionnelle des Pharmaciens Salariés du Québec\n\n\n\n\n\n\nAPPSQ\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nPrimary Health Tasmania\n\n\n\n\n\n\nPrimary Health Tasmania\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Déprescription</span>"
@@ -725,7 +725,7 @@
     "href": "outils/education.html",
     "title": "Éducation thérapeutique",
     "section": "",
-    "text": "OncoNormandie\n\n\n\n\n\n\nOncoNormandie\n\nRéseau régional de cancérologie de Normandie\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nZEPHIR\n\n\n\n\n\n\nZEPHIR\n\nSociété de Pneumologie de Langue Française (SPLF)\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "text": "OncoNormandie\n\n\n\n\n\n\nOncoNormandie\n\nRéseau régional de cancérologie de Normandie\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nZEPHIR\n\n\n\n\n\n\nZEPHIR\n\nSociété de Pneumologie de Langue Française (SPLF)\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nForminhal\n\n\n\n\n\n\nForminhal\n\nFormedoc\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nPrevenclic\n\n\n\n\n\n\nPrevenclic\n\nFormedoc\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Éducation thérapeutique</span>"
@@ -747,7 +747,7 @@
     "href": "outils/calculs.html",
     "title": "Calculs et Conversions",
     "section": "",
-    "text": "Opioconvert\n\n\n\n\n\n\nOpioconvert\n\nÀ compléter\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nMDCalc\n\n\n\n\n\n\nMDCalc\n\nMDCalc\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCompendium CH\n\n\n\n\n\n\nCompendium Suisse des Médicaments\n\nHCI Solutions AG\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nPsychiatrienet\n\n\n\n\n\n\nPsychiatrienet\n\nÀ compléter\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nPsychopharma\n\n\n\n\n\n\nPsychopharma\n\nÀ compléter\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "text": "Opioconvert\n\n\n\n\n\n\nOpioconvert\n\nÀ compléter\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nMDCalc\n\n\n\n\n\n\nMDCalc\n\nMDCalc\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nMedicalcul\n\n\n\n\n\n\nMedicalcul\n\nDr. Philippe Mignard (GHEF)\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCalculate by QxMD\n\n\n\n\n\n\nQxMD\n\n??\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCompendium CH\n\n\n\n\n\n\nCompendium Suisse des Médicaments\n\nHCI Solutions AG\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nPsychiatrienet\n\n\n\n\n\n\nPsychiatrienet\n\nÀ compléter\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nPsychopharma\n\n\n\n\n\n\nPsychopharma\n\nÀ compléter\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nCollège Méditerranéen de Psychiatrie\n\n\n\n\n\n\nCollège Méditerranéen de Psychiatrie\n\nÀ compléter\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Calculs et Conversions</span>"
@@ -758,7 +758,7 @@
     "href": "outils/disponibilite.html",
     "title": "Disponibilité et accès aux médicaments",
     "section": "",
-    "text": "Accès dérogatoires\n\n\n\n\n\n\nRéférentiel des spécialités en accès dérogatoire (AAC / AAP)\n\nANSM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nMeddispar\n\n\n\n\n\n\nMeddispar\n\nANSM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nVigirupture\n\n\n\n\n\n\nVigirupture\n\nANSM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "text": "Accès dérogatoires\n\n\n\n\n\n\nRéférentiel des spécialités en accès dérogatoire (AAC / AAP)\n\nANSM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nMeddispar\n\n\n\n\n\n\nMeddispar\n\nANSM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nVigirupture\n\n\n\n\n\n\nVigirupture\n\nANSM\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.\n\n\n\n\nEasyPrep Rupture\n\n\n\n\n\n\nEasyprep Rupture\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Outils**",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Disponibilité et accès aux médicaments</span>"
@@ -981,7 +981,7 @@
     "text": "SFD — Recommandations",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Diabétologie</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Diabétologie</span>"
     ]
   },
   {
@@ -992,7 +992,7 @@
     "text": "Liste préférentielle du sujet âgé",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Gériatrie</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Gériatrie</span>"
     ]
   },
   {
@@ -1014,7 +1014,7 @@
     "text": "SNFGE — Recommandations",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Hépatologie</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Hépatologie</span>"
     ]
   },
   {
@@ -1058,7 +1058,7 @@
     "text": "GFRUP",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1201,7 +1201,7 @@
     "text": "GFRUP\n\nGroupe Francophone de Réanimation et Urgences Pédiatriques\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1212,7 +1212,7 @@
     "text": "GPTROP\n\n\n\n\n\n\nGPTROP\n\nGroupe de Pédiatrie Tropicale — SFP\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1223,7 +1223,7 @@
     "text": "GPIP\n\n\n\n\n\n\nGPIP\n\nGroupe de Pathologie Infectieuse Pédiatrique\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1234,7 +1234,7 @@
     "text": "PAP Pédiatrie\n\n\n\n\n\n\nPAP Pédiatrie\n\nPrescrire en Pédiatrie\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1245,7 +1245,7 @@
     "text": "Pediadol\n\n\n\n\n\n\nPediadol\n\nAssociation Pédiadol\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1256,7 +1256,7 @@
     "text": "Pedi’Ara\n\n\n\n\n\n\nPedi'Ara\n\nPediara\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1267,7 +1267,7 @@
     "text": "SFCE\n\n\n\n\n\n\nSFCE\n\nSociété Française de lutte contre les Cancers et leucémies de l'Enfant\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1278,7 +1278,7 @@
     "text": "SFP\n\n\n\n\n\n\nSFP\n\nSociété Française de Pédiatrie\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1289,7 +1289,7 @@
     "text": "SOFREMIP\n\n\n\n\n\n\nSOFREMIP\n\nSociété Francophone de Rhumatologie et Maladies Inflammatoires Pédiatriques\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pédiatrie</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   },
   {
@@ -1388,7 +1388,7 @@
     "text": "SNFGE — Recommandations\n\nSociété Nationale Française de Gastro-Entérologie\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Hépatologie</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Hépatologie</span>"
     ]
   },
   {
@@ -1421,7 +1421,7 @@
     "text": "Liste préférentielle du sujet âgé\n\nOMéDIT Normandie\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Gériatrie</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Gériatrie</span>"
     ]
   },
   {
@@ -1432,7 +1432,7 @@
     "text": "SFGG — Recommandations\n\n\n\n\n\n\nSFGG — Recommandations\n\nSociété Française de Gériatrie et Gérontologie\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Gériatrie</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Gériatrie</span>"
     ]
   },
   {
@@ -1443,7 +1443,7 @@
     "text": "STOPP/START v.3\n\n\n\n\n\n\nSTOPP/START v.3\n\nStopp.ie\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Gériatrie</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Gériatrie</span>"
     ]
   },
   {
@@ -1487,7 +1487,7 @@
     "text": "SFD — Recommandations\n\nSociété Francophone du Diabète\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
     "crumbs": [
       "**Recommandations**",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Diabétologie</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Diabétologie</span>"
     ]
   },
   {
@@ -1499,6 +1499,126 @@
     "crumbs": [
       "**Recommandations**",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Cardiologie</span>"
+    ]
+  },
+  {
+    "objectID": "recommandations/general.html#orphanet",
+    "href": "recommandations/general.html#orphanet",
+    "title": "Recommandations générales",
+    "section": "Orphanet",
+    "text": "Orphanet\n\n\n\n\n\n\nOrphanet\n\nInserm\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Recommandations générales</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#présentation",
+    "href": "index.html#présentation",
+    "title": "Pharmacie Hospitalière - Atlas des Ressources Essentielles",
+    "section": "",
+    "text": "Index des outils\n  \n  Référentiels, interactions, adaptation posologique, iatrogénie, compatibilité physico-chimique, déprescription...\n  Parcourir les outils →\n\n\n\n  \n    \n      \n        \n        \n        \n      \n    \n    Index des recommandations\n  \n  Recommandations cliniques classées par spécialité : cardiologie, infectiologie, pédiatrie, oncologie...\n  Parcourir les recommandations →",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Présentation</span>"
+    ]
+  },
+  {
+    "objectID": "recommandations/psychiatrie.html#psychotropes",
+    "href": "recommandations/psychiatrie.html#psychotropes",
+    "title": "Psychiatrie",
+    "section": "Psychotropes",
+    "text": "Psychotropes\n\n\n\n\n\n\nPsychotropes\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Psychiatrie</span>"
+    ]
+  },
+  {
+    "objectID": "recommandations/psychiatrie.html#reseaupic",
+    "href": "recommandations/psychiatrie.html#reseaupic",
+    "title": "Psychiatrie",
+    "section": "Réseau PIC",
+    "text": "Réseau PIC\n\n\n\n\n\n\nRéseau PIC\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Psychiatrie</span>"
+    ]
+  },
+  {
+    "objectID": "index-recommandations.html#dermatologie",
+    "href": "index-recommandations.html#dermatologie",
+    "title": "Index des recommandations",
+    "section": "Dermatologie",
+    "text": "Dermatologie\n\n  Dermatoclic \n  Thérapeutique dermatologique",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Index des recommandations</span>"
+    ]
+  },
+  {
+    "objectID": "recommandations/dermatologie.html",
+    "href": "recommandations/dermatologie.html",
+    "title": "Dermatologie",
+    "section": "",
+    "text": "Dermatoclic",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Dermatologie</span>"
+    ]
+  },
+  {
+    "objectID": "recommandations/dermatologie.html#dermatoclic",
+    "href": "recommandations/dermatologie.html#dermatoclic",
+    "title": "Dermatologie",
+    "section": "",
+    "text": "Dermatoclic\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Dermatologie</span>"
+    ]
+  },
+  {
+    "objectID": "recommandations/dermatologie.html#therapeutiquedermatologique",
+    "href": "recommandations/dermatologie.html#therapeutiquedermatologique",
+    "title": "Dermatologie",
+    "section": "Thérapeutique dermatologique",
+    "text": "Thérapeutique dermatologique\n\n\n\n\n\n\nThérapeutique dermatologique\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Dermatologie</span>"
+    ]
+  },
+  {
+    "objectID": "recommandations/pediatrie.html#pediadoc",
+    "href": "recommandations/pediatrie.html#pediadoc",
+    "title": "Pédiatrie",
+    "section": "Pediadoc",
+    "text": "Pediadoc\n\n\n\n\n\n\nPediadoc\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
+    ]
+  },
+  {
+    "objectID": "recommandations/pediatrie.html#sfpeada",
+    "href": "recommandations/pediatrie.html#sfpeada",
+    "title": "Pédiatrie",
+    "section": "SFPEADA",
+    "text": "SFPEADA\n\n\n\n\n\n\nSFPEADA\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
+    ]
+  },
+  {
+    "objectID": "recommandations/pediatrie.html#laits",
+    "href": "recommandations/pediatrie.html#laits",
+    "title": "Pédiatrie",
+    "section": "Laits",
+    "text": "Laits\n\n\n\n\n\n\nLaits\n\n-\nGratuit sans inscription\n\n\n\nÀ compléter.\n\nDétails\nÀ compléter.",
+    "crumbs": [
+      "**Recommandations**",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pédiatrie</span>"
     ]
   }
 ]

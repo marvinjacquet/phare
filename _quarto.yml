@@ -8,6 +8,11 @@ execute:
 book:
   title: "Pharmacie Hospitalière - Atlas des Ressources Essentielles"
   favicon: images/favicon.ico
+  site-url: https://marvinjacquet.github.io/phare/
+  description: "PHARE : Atlas des Ressources Essentielles pour la Pharmacie Hospitalière"
+  image: images/phare-card.png
+  open-graph: true
+  twitter-card: true
   author:
     - name: Marvin JACQUET
       orcid: 0000-0002-9890-7908
@@ -21,7 +26,7 @@ book:
   language: fr
 
   sidebar:
-    logo: images/phare.svg
+    logo: images/phare.png
     search: true
     location: left
     style: "docked"
@@ -48,6 +53,7 @@ book:
         - index-recommandations.qmd
         - recommandations/general.qmd
         - recommandations/cardiologie.qmd
+        - recommandations/dermatologie.qmd
         - recommandations/diabetologie.qmd
         - recommandations/geriatrie.qmd
         - recommandations/hematologie.qmd
@@ -66,7 +72,6 @@ format:
     theme:
       light: cosmo
       dark: darkly
-    engine: knitr
     toc: true
     toc-depth: 3
     toc-title: "Sur cette page"

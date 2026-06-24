@@ -27,16 +27,39 @@ Index de l'ensemble des recommandations (autorités de santé, sociétés savant
   <span>HUG</span>
 </a>
 
+<a href="https://orphanet.site/france" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/general.html#orphanet">
+  <img src="images/logos/orphanet.png" alt="orphanet">
+  <span>orphanet</span>
+</a>
+
 </div>
 
 ## Cardiologie
 
 <div class="index-grid">
-
-<a href="https://www.escardio.org/Guidelines" target="_blank" rel="noopener noreferrer"
+<a href="https://www.escardio.com/" target="_blank" rel="noopener noreferrer"
    class="index-card" data-book="recommandations/cardiologie.html#esc">
   <img src="images/logos/esc.png" alt="ESC">
   <span>ESC</span>
+</a>
+
+</div>
+
+## Dermatologie
+
+<div class="index-grid">
+
+<a href="https://www.dermatoclic.com/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/dermatologie.html#dermatoclic">
+  <img src="images/logos/dermatoclic.png" alt="Dermatoclic">
+  <span>Dermatoclic</span>
+</a>
+
+<a href="https://www.therapeutique-dermatologique.org/?lang=fr" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/dermatologie.html#therapeutiquedermatologique">
+  <img src="images/logos/therapeutiquedermatologique.png" alt="Ther. Dermato.">
+  <span>Thérapeutique dermatologique</span>
 </a>
 
 </div>
@@ -231,6 +254,24 @@ Index de l'ensemble des recommandations (autorités de santé, sociétés savant
   <span>SOFREMIP</span>
 </a>
 
+<a href="https://pediadoc.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#pediadoc">
+  <img src="images/logos/pediadoc.png" alt="Pediadoc">
+  <span>Pediadoc</span>
+</a>
+
+<a href="https://sfpeada.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#sfpeada">
+  <img src="images/logos/sfpeada.png" alt="SFPEADA">
+  <span>SFPEADA</span>
+</a>
+
+<a href="https://www.laits.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/pediatrie.html#laits">
+  <img src="images/logos/laits.png" alt="Laits">
+  <span>Laits</span>
+</a>
+
 </div>
 
 ## Pneumologie
@@ -271,6 +312,18 @@ Index de l'ensemble des recommandations (autorités de santé, sociétés savant
    class="index-card" data-book="recommandations/psychiatrie.html#psychoactif">
   <img src="images/logos/psychoactif.png" alt="psychoactif">
   <span>Psychoactif</span>
+</a>
+
+<a href="https://psychotropes.fr/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/psychiatrie.html#psychotropes">
+  <img src="images/logos/psychotropes.png" alt="psychotropes">
+  <span>Psychotropes</span>
+</a>
+
+<a href="https://reseau-pic.info/" target="_blank" rel="noopener noreferrer"
+   class="index-card" data-book="recommandations/psychiatrie.html#reseaupic">
+  <img src="images/logos/reseaupic.png" alt="reseaupic">
+  <span>Réseau PIC</span>
 </a>
 
 </div>

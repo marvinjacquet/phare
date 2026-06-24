@@ -15,7 +15,7 @@ title: "Risques iatrogènes"
 <a href="https://www.ncbi.nlm.nih.gov/books/NBK501922/" class="outil-nom" target="_blank">LactMed</a>
 <div class="outil-source">
 National Library of Medicine (NLM)
-<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
 </div>
 </div>
 </div>
@@ -40,7 +40,7 @@ National Library of Medicine (NLM)
 <a href="https://www.e-lactancia.org/" class="outil-nom" target="_blank">e-lactancia</a>
 <div class="outil-source">
 APILAM (Association pour la promotion et le soutien culturel de l'allaitement maternel)
-<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
 </div>
 </div>
 </div>
@@ -51,7 +51,6 @@ APILAM (Association pour la promotion et le soutien culturel de l'allaitement ma
 </details>
 </div>
 ```
-
 
 ### CRAT {#crat .outil-heading}
 
@@ -65,7 +64,7 @@ APILAM (Association pour la promotion et le soutien culturel de l'allaitement ma
 <a href="https://www.lecrat.fr/" class="outil-nom" target="_blank">CRAT — Centre de Référence sur les Agents Tératogènes</a>
 <div class="outil-source">
 AP-HP / Sorbonne Université
-<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
 </div>
 </div>
 </div>
@@ -77,6 +76,29 @@ AP-HP / Sorbonne Université
 </div>
 ```
 
+### metaPreg {#metapreg .outil-heading}
+
+```{=html}
+<div class="outil">
+<div class="outil-header">
+<a href="http://metapreg.org/" class="outil-logo" target="_blank">
+<img src="../images/logos/metapreg.png" alt="metaPreg">
+</a>
+<div class="outil-meta">
+<a href="http://metapreg.org/" class="outil-nom" target="_blank">metPreg</a>
+<div class="outil-source">
+ANSM - HCL
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
 
 ### LiverTox {#livertox .outil-heading}
 
@@ -90,7 +112,7 @@ AP-HP / Sorbonne Université
 <a href="https://www.ncbi.nlm.nih.gov/books/NBK547852/" class="outil-nom" target="_blank">LiverTox</a>
 <div class="outil-source">
 National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) / NLM
-<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
 </div>
 </div>
 </div>
@@ -115,7 +137,7 @@ National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) / NLM
 <a href="https://www.pneumotox.com/" class="outil-nom" target="_blank">Pneumotox</a>
 <div class="outil-source">
 Groupe Pneumotox
-<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
 </div>
 </div>
 </div>
@@ -140,7 +162,31 @@ Groupe Pneumotox
 <a href="https://www.crediblemeds.org/" class="outil-nom" target="_blank">Credible Meds — QTDrugs List</a>
 <div class="outil-source">
 Arizona CERT / University of Arizona
-<br><span style="color: #006B3D;">Gratuit sans inscription</span>
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+### Réseau Français des CRPV {#rfcrpv  .outil-heading}
+
+```{=html}
+<div class="outil" id="rfcrpv">
+<div class="outil-header">
+<a href="https://www.rfcrpv.fr/" class="outil-logo" target="_blank">
+<img src="../images/logos/rfcrpv.png" alt="RFCRPV">
+</a>
+<div class="outil-meta">
+<a href="https://www.rfcrpv.fr/" class="outil-nom" target="_blank">Réseaux Français des CRPV</a>
+<div class="outil-source">
+-
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
 </div>
 </div>
 </div>

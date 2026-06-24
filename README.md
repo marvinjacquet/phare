@@ -1,6 +1,6 @@
 # Pharmacie Hospitalière - Atlas des Ressources Essentielles
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20612426.svg)](https://doi.org/10.5281/zenodo.20612426)   ![maintainer](https://img.shields.io/badge/maintainer-marvinjacquet-blue)   [![last-commit](https://badgen.net/github/last-commit/marvinjacquet/phare)](https://GitHub.com/marvinjacquet/phare/commit/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20612426.svg)](https://doi.org/10.5281/zenodo.20612425)   ![maintainer](https://img.shields.io/badge/maintainer-marvinjacquet-blue)   [![last-commit](https://badgen.net/github/last-commit/marvinjacquet/phare)](https://GitHub.com/marvinjacquet/phare/commit/)
 
 ## Présentation
 
@@ -12,7 +12,7 @@ Accès : [PHARE](https://marvinjacquet.github.io/phare/)
 
 ## Citation
 
-Marvin Jacquet (2026), *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, <https://marvinjacquet.github.io/phare/>, doi : [10.5281/zenodo.20612426](https://doi.org/10.5281/zenodo.20612426).
+Marvin Jacquet, *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, doi : [10.5281/zenodo.20612425](https://doi.org/10.5281/zenodo.20612425), 2026.
 
 ## Licence
 

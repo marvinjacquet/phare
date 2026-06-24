@@ -10,13 +10,46 @@ library(lubridate)
 
 ## Présentation
 
-Cet atlas propose une sélection structurée d’outils, bases de données et ressources documentaires utiles à la pratique quotidienne et formation des pharmaciens, internes, externes et préparateurs en pharmacie hospitalière.
+Cet atlas propose une sélection structurée d'outils, bases de données et ressources documentaires utiles à la pratique quotidienne et formation des pharmaciens, internes, externes et préparateurs en pharmacie hospitalière. Sa conception et son maintien sont bénévoles, certaines ressources peuvent être incomplètes, obsolètes ou en cours d'implémentation. Les contributions et retours sont les bienvenus via [GitHub](https://github.com/marvinjacquet/phare/issues/new) ou par mail.
 
-Il est conçu, enrichi et mis à jour bénévolement, à ce titre certaines ressources peuvent être incomplètes, obsolètes ou en cours d'implémentation. Les contributions (corrections, suggestions...) sont les bienvenues via [GitHub](https://github.com/marvinjacquet/phare/issues/new) ou par mail.
+```{=html}
+<div class="hero-grid">
+
+<a href="index-outils.html" class="hero-card">
+  <div class="hero-card-header">
+    <div class="hero-card-icon">
+      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M19 12a7 7 0 0 0-.1-1.2l2-1.5-2-3.4-2.3.9a6.9 6.9 0 0 0-2.1-1.2L14 3h-4l-.5 2.6a6.9 6.9 0 0 0-2.1 1.2l-2.3-.9-2 3.4 2 1.5a7 7 0 0 0 0 2.4l-2 1.5 2 3.4 2.3-.9c.6.5 1.3.9 2.1 1.2L10 21h4l.5-2.6a6.9 6.9 0 0 0 2.1-1.2l2.3.9 2-3.4-2-1.5c.07-.4.1-.8.1-1.2Z" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>
+      </svg>
+    </div>
+    <div class="hero-card-title">Index des outils</div>
+  </div>
+  <div class="hero-card-desc">Référentiels, interactions, adaptation posologique, iatrogénie, compatibilité physico-chimique, déprescription...</div>
+  <div class="hero-card-arrow">Parcourir les outils →</div>
+</a>
+
+<a href="index-recommandations.html" class="hero-card">
+  <div class="hero-card-header">
+    <div class="hero-card-icon">
+      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M9 3.5h6a1 1 0 0 1 1 1V5a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-.5a1 1 0 0 1 1-1Z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M8 4H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-2" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M8 10h8M8 14h8M8 18h5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
+    <div class="hero-card-title">Index des recommandations</div>
+  </div>
+  <div class="hero-card-desc">Recommandations cliniques classées par spécialité : cardiologie, infectiologie, pédiatrie, oncologie...</div>
+  <div class="hero-card-arrow">Parcourir les recommandations →</div>
+</a>
+
+</div>
+```
 
 ## Citation
 
-Marvin Jacquet (`r lubridate::today() |> lubridate::year()`), *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, <https://marvinjacquet.github.io/phare/>, version du `r lubridate::today() |> format(format = "%d %B %Y")`, doi : [10.5281/zenodo.20612426](https://doi.org/10.5281/zenodo.20612426).
+Marvin Jacquet, *PHARE : Pharmacie Hospitalière - Atlas des Ressources Essentielles*, doi : [10.5281/zenodo.20612425](https://doi.org/10.5281/zenodo.20612425), version du {{< meta date >}}.
 
 ## Licence
 
@@ -26,4 +59,4 @@ Ce document est mis à disposition selon les termes de la [Licence Creative Comm
 
 ------------------------------------------------------------------------
 
-Ce document est généré avec [quarto](https://quarto.org/), et son code source est disponible sur [GitHub](https://github.com/marvinjacquet/phare).
+Ce document est au format [quarto](https://quarto.org/) et son code source est disponible sur [GitHub](https://github.com/marvinjacquet/phare).

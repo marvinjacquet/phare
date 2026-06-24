@@ -1,0 +1,51 @@
+---
+title: "Dermatologie"
+---
+
+## Dermatoclic {#dermatoclic .outil-heading}
+
+```{=html}
+<div class="outil" id="dermatoclic">
+<div class="outil-header">
+<a href="https://www.dermatoclic.com/" class="outil-logo" target="_blank">
+<img src="../images/logos/dermatoclic.png" alt="Dermatoclic">
+</a>
+<div class="outil-meta">
+<a href="https://www.dermatoclic.com/" class="outil-nom" target="_blank">Dermatoclic</a>
+<div class="outil-source">
+-
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
+
+## Thérapeutique dermatologique {#therapeutiquedermatologique .outil-heading}
+
+```{=html}
+<div class="outil" id="therapeutiquedermatologique">
+<div class="outil-header">
+<a href="https://www.therapeutique-dermatologique.org/?lang=fr" class="outil-logo" target="_blank">
+<img src="../images/logos/therapeutiquedermatologique.png" alt="therapeutiquedermatologique">
+</a>
+<div class="outil-meta">
+<a href="https://www.therapeutique-dermatologique.org/?lang=fr" class="outil-nom" target="_blank">Thérapeutique dermatologique</a>
+<div class="outil-source">
+-
+<br><span class="outil-access gratuit">Gratuit sans inscription</span>
+</div>
+</div>
+</div>
+<p class="outil-description">À compléter.</p>
+<details class="outil-details">
+<summary>Détails</summary>
+<div class="outil-details-content">À compléter.</div>
+</details>
+</div>
+```
